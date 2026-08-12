@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>英文學習樂園</title>
+  <link rel="icon" type="image/png" href="icon.png">
+  <link rel="apple-touch-icon" href="icon.png">
+  <link rel="stylesheet" href="styles.css?v=palette1">
+  <link rel="stylesheet" href="auth.css">
+</head>
+<body>
+  <div id="auth-gate" class="overlay">
+    <form id="login-form" class="panel login-panel">
+      <div class="brand">English Land</div>
+      <h1>英文學習樂園</h1>
+      <p>登入後，學習紀錄會依帳號保存。</p>
+      <label>帳號<input id="username" autocomplete="username" required maxlength="30"></label>
+      <label>密碼<input id="password" type="password" autocomplete="current-password" required minlength="4"></label>
+      <div class="auth-actions">
+        <button id="login-button" type="submit">登入</button>
+        <button id="register-button" type="button" class="ghost">建立帳號</button>
+      </div>
+      <small id="auth-note">目前使用獨立本機資料；填入英文版 Firebase 設定後可啟用雲端。</small>
+      <p id="auth-error" class="error" role="alert"></p>
+    </form>
+  </div>
+
+  <header>
+    <button class="logo" data-screen="home">English Land</button>
+    <div class="header-right"><button id="wallet-button" class="wallet-button" aria-label="開啟我的錢包"><span>我的錢包</span><b>💰 $<span id="wallet-total">0</span></b></button><span id="current-user"></span><button id="logout" class="ghost">登出</button></div>
+  </header>
+
+  <main>
+    <section id="home" class="screen active">
+      <div class="hero"><p class="eyebrow">每天學一點，英文更靠近</p><h1>今天想從哪裡開始？</h1><p>兩個字庫各自記錄等級與熟練度，獎勵金額則一起累積。</p></div>
+      <div class="library-grid">
+        <article class="library basic"><span>基礎</span><h2>1200 單字</h2><p>適合國中小常用英語</p><div id="basic-summary"></div><button data-library="basic">進入基礎區</button></article>
+        <article class="library advanced"><span>進階</span><h2>7200 單字區</h2><p>依高中英文參考詞表匯入</p><div id="advanced-summary"></div><button data-library="advanced">進入進階區</button></article>
+      </div>
+    </section>
+
+    <section id="library" class="screen">
+      <button class="back" data-screen="home">← 返回首頁</button>
+      <div class="section-title"><div><p class="eyebrow" id="library-label"></p><h1 id="library-title"></h1></div><div id="level-pill" class="pill"></div></div>
+      <div class="action-grid">
+        <button class="action-card" id="start-learn"><b>📖 學習單字</b><span>看單字、中文意思並聽發音</span></button>
+        <button class="action-card" id="start-meaning-quiz"><b>中文選英文</b><span>看中文意思，選出正確英文</span></button>
+        <button class="action-card" id="start-audio-quiz"><b>🔊 聽音選英文</b><span>聽發音，選出正確英文</span></button>
+      </div>
+      <div id="progress-detail" class="panel stats"></div>
+    </section>
+
+    <section id="learn" class="screen">
+      <button class="back" data-screen="library">← 返回學習區</button>
+      <div class="word-card panel"><p id="learn-position" class="eyebrow"></p><h1 id="learn-word"></h1><p id="learn-meaning" class="meaning"></p><button id="speak-word">🔊 播放英文發音</button><div class="row"><button id="prev-word" class="ghost">上一個</button><button id="next-word">下一個</button></div></div>
+    </section>
+
+    <section id="quiz" class="screen">
+      <button class="back" data-screen="library">← 結束測驗</button>
+      <div class="quiz-card panel"><div class="quiz-top"><span id="quiz-kind" class="pill"></span><span id="quiz-level"></span></div><p id="quiz-prompt-label" class="eyebrow"></p><h2 id="quiz-prompt"></h2><button id="replay-audio" class="audio-button hidden">🔊 再聽一次</button><div id="choices" class="choices"></div><p id="feedback" class="feedback" aria-live="polite"></p><button id="next-question" class="hidden">下一題</button></div>
+    </section>
+  </main>
+  <div id="wallet-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="wallet-title">
+    <div class="wallet-panel panel">
+      <button id="wallet-close" class="modal-close" aria-label="關閉錢包">×</button>
+      <p class="eyebrow">MY WALLET</p><h2 id="wallet-title">我的錢包</h2>
+      <div class="wallet-bills">
+        <div><img src="1.png" alt="$1 鈔票"><b>$1 × <span id="wallet-ones">0</span></b></div>
+        <div><img src="10.png" alt="$10 鈔票"><b>$10 × <span id="wallet-tens">0</span></b></div>
+        <div><img src="100.png" alt="$100 鈔票"><b>$100 × <span id="wallet-hundreds">0</span></b></div>
+      </div>
+      <div class="wallet-grand-total">總金額 <b>$<span id="wallet-modal-total">0</span></b></div>
+    </div>
+  </div>
+  <div id="reward-pop" class="reward-pop hidden" aria-live="polite"><div id="bonus-title" class="bonus-title hidden">BONUS!</div><div id="reward-bills" class="reward-bills"></div><b id="reward-total"></b></div>
+  <script type="module" src="js/app.mjs?v=wallet2"></script>
+</body>
+</html>

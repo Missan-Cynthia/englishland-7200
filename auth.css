@@ -1,0 +1,9 @@
+.auth-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.brand {
+  color: #6D4BAE;
+}
