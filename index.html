@@ -1,79 +1,20 @@
 <!doctype html>
 <html lang="zh-Hant">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>英文學習樂園</title>
-  <link rel="icon" type="image/png" href="icon.png">
-  <link rel="apple-touch-icon" href="icon.png">
-  <link rel="stylesheet" href="styles.css?v=palette1">
-  <link rel="stylesheet" href="auth.css">
-</head>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>English Land</title><link rel="icon" type="image/png" href="icon.png"><link rel="apple-touch-icon" href="icon.png"><link rel="stylesheet" href="styles.css?v=0813-phase1"><link rel="stylesheet" href="phase1.css?v=0813-phase1"><link rel="stylesheet" href="auth.css"></head>
 <body>
-  <div id="auth-gate" class="overlay">
-    <form id="login-form" class="panel login-panel">
-      <div class="brand">English Land</div>
-      <h1>英文學習樂園</h1>
-      <p>登入後，學習紀錄會依帳號保存。</p>
-      <label>帳號<input id="username" autocomplete="username" required maxlength="30"></label>
-      <label>密碼<input id="password" type="password" autocomplete="current-password" required minlength="4"></label>
-      <div class="auth-actions">
-        <button id="login-button" type="submit">登入</button>
-        <button id="register-button" type="button" class="ghost">建立帳號</button>
-      </div>
-      <small id="auth-note">目前使用獨立本機資料；填入英文版 Firebase 設定後可啟用雲端。</small>
-      <p id="auth-error" class="error" role="alert"></p>
-    </form>
-  </div>
-
-  <header>
-    <button class="logo" data-screen="home">English Land</button>
-    <div class="header-right"><button id="wallet-button" class="wallet-button" aria-label="開啟我的錢包"><span>我的錢包</span><b>💰 $<span id="wallet-total">0</span></b></button><span id="current-user"></span><button id="logout" class="ghost">登出</button></div>
-  </header>
-
+  <div id="auth-gate" class="overlay"><form id="login-form" class="panel login-panel"><div class="brand">English Land</div><h1>英文學習樂園</h1><p>登入後，學習紀錄會依帳號保存。</p><label>帳號<input id="username" autocomplete="username" required maxlength="30"></label><label>密碼<input id="password" type="password" autocomplete="current-password" required minlength="4"></label><div class="auth-actions"><button id="login-button" type="submit">登入</button><button id="register-button" type="button" class="ghost">建立帳號</button></div><small id="auth-note"></small><p id="auth-error" class="error" role="alert"></p></form></div>
+  <header><button class="logo" data-screen="home">English Land</button><div class="header-right"><button id="wallet-button" class="wallet-button" aria-label="開啟我的錢包"><span>我的錢包</span><b>💰 $<span id="wallet-total">0</span></b></button><span id="current-user"></span><button id="logout" class="ghost">登出</button></div></header>
   <main>
-    <section id="home" class="screen active">
-      <div class="hero"><p class="eyebrow">每天學一點，英文更靠近</p><h1>今天想從哪裡開始？</h1><p>兩個字庫各自記錄等級與熟練度，獎勵金額則一起累積。</p></div>
-      <div class="library-grid">
-        <article class="library basic"><span>基礎</span><h2>1200 單字</h2><p>適合國中小常用英語</p><div id="basic-summary"></div><button data-library="basic">進入基礎區</button></article>
-        <article class="library advanced"><span>進階</span><h2>7200 單字區</h2><p>依高中英文參考詞表匯入</p><div id="advanced-summary"></div><button data-library="advanced">進入進階區</button></article>
-      </div>
-    </section>
-
-    <section id="library" class="screen">
-      <button class="back" data-screen="home">← 返回首頁</button>
-      <div class="section-title"><div><p class="eyebrow" id="library-label"></p><h1 id="library-title"></h1></div><div id="level-pill" class="pill"></div></div>
-      <div class="action-grid">
-        <button class="action-card" id="start-learn"><b>📖 學習單字</b><span>看單字、中文意思並聽發音</span></button>
-        <button class="action-card" id="start-meaning-quiz"><b>中文選英文</b><span>看中文意思，選出正確英文</span></button>
-        <button class="action-card" id="start-audio-quiz"><b>🔊 聽音選英文</b><span>聽發音，選出正確英文</span></button>
-      </div>
-      <div id="progress-detail" class="panel stats"></div>
-    </section>
-
-    <section id="learn" class="screen">
-      <button class="back" data-screen="library">← 返回學習區</button>
-      <div class="word-card panel"><p id="learn-position" class="eyebrow"></p><h1 id="learn-word"></h1><p id="learn-meaning" class="meaning"></p><button id="speak-word">🔊 播放英文發音</button><div class="row"><button id="prev-word" class="ghost">上一個</button><button id="next-word">下一個</button></div></div>
-    </section>
-
-    <section id="quiz" class="screen">
-      <button class="back" data-screen="library">← 結束測驗</button>
-      <div class="quiz-card panel"><div class="quiz-top"><span id="quiz-kind" class="pill"></span><span id="quiz-level"></span></div><p id="quiz-prompt-label" class="eyebrow"></p><h2 id="quiz-prompt"></h2><button id="replay-audio" class="audio-button hidden">🔊 再聽一次</button><div id="choices" class="choices"></div><p id="feedback" class="feedback" aria-live="polite"></p><button id="next-question" class="hidden">下一題</button></div>
-    </section>
+    <section id="home" class="screen active"><div class="hero"><p class="eyebrow">YOUR ENGLISH TUTOR</p><h1>選擇今天的學習階段</h1><p>基礎與進階共用帳號、錢包和鈔票獎勵；各教材進度分開記錄。</p></div><div class="library-grid"><article class="library basic"><span>基礎</span><h2>基礎學習</h2><p>1200 單字與兒童短篇閱讀</p><div id="basic-summary"></div><button data-screen="foundation-home">進入基礎</button></article><article class="library advanced"><span>進階</span><h2>進階學習</h2><p>單字、片語、克漏字、閱讀測驗與主題文章</p><div id="advanced-summary"></div><button data-screen="advanced-home">進入進階</button></article></div></section>
+    <section id="foundation-home" class="screen"><button class="back" data-screen="home">← 返回分級首頁</button><div class="section-title"><div><p class="eyebrow">FOUNDATION</p><h1>基礎</h1></div></div><div class="library-grid"><article class="library basic"><span>A</span><h2>基礎 1200 單字</h2><p>沿用既有學習、發音、測驗與熟練度。</p><div id="foundation-word-summary"></div><button data-library="basic">開始學習</button></article><article class="library basic"><span>B</span><h2>基礎閱讀</h2><p>用已學單字閱讀原創兒童短篇。</p><div id="basic-reading-summary"></div><button data-content="basicReading">開始閱讀</button></article></div></section>
+    <section id="advanced-home" class="screen"><button class="back" data-screen="home">← 返回分級首頁</button><div class="section-title"><div><p class="eyebrow">ADVANCED</p><h1>進階</h1></div></div><div class="module-grid"><button class="action-card" data-library="advanced"><b>A. 進階 7200 單字</b><span>學習、發音、熟練度與適性測驗</span></button><button class="action-card" id="open-phrases"><b>B. 狄克生片語</b><span>477 筆英文片語、解釋與例句</span></button><button class="action-card" data-content="cloze"><b>C. 克漏字</b><span>從既有單字、片語與文章延伸</span></button><button class="action-card" data-content="readingTest"><b>D. 閱讀測驗</b><span>原創多益風格理解測驗</span></button><button class="action-card" data-content="articles"><b>E. 主題文章</b><span>在完整語境中理解進階單字</span></button></div></section>
+    <section id="library" class="screen"><button class="back" id="library-back">← 返回</button><div class="section-title"><div><p class="eyebrow" id="library-label"></p><h1 id="library-title"></h1></div><div id="level-pill" class="pill"></div></div><div class="action-grid"><button class="action-card" id="start-learn"><b>📖 學習單字</b><span>看單字、中文意思並聽發音</span></button><button class="action-card" id="start-meaning-quiz"><b>中文選英文</b><span>看中文意思，選出正確英文</span></button><button class="action-card" id="start-audio-quiz"><b>🔊 聽音選英文</b><span>聽發音，選出正確英文</span></button></div><div id="progress-detail" class="panel stats"></div></section>
+    <section id="phrases" class="screen"><button class="back" data-screen="advanced-home">← 返回進階</button><div class="section-title"><div><p class="eyebrow">PHRASES</p><h1>狄克生片語</h1></div><div id="phrases-progress-pill" class="pill"></div></div><div class="action-grid"><button class="action-card" id="start-phrase-learn"><b>📖 學習片語</b><span>看可靠中文、英文解釋與例句</span></button><button class="action-card" id="start-phrase-zh"><b>中文選片語</b><span>只使用已有可靠中文的資料</span></button><button class="action-card" id="start-phrase-en"><b>片語選中文</b><span>只使用已有可靠中文的資料</span></button><button class="action-card" id="start-phrase-cloze"><b>例句克漏字</b><span>依既有例句選出英文片語</span></button></div><div id="phrases-progress-detail" class="panel stats"></div></section>
+    <section id="content-list" class="screen"><button class="back" id="content-back">← 返回</button><div class="section-title"><div><p class="eyebrow" id="content-label"></p><h1 id="content-title"></h1></div><div id="content-count" class="pill"></div></div><p id="content-intro" class="content-intro"></p><div id="content-items" class="content-items"></div><div id="coverage-panel" class="panel stats hidden"></div></section>
+    <section id="content-detail" class="screen"><button class="back" data-screen="content-list">← 返回教材列表</button><article class="panel reading-card"><p class="eyebrow" id="detail-meta"></p><h1 id="detail-title"></h1><div id="detail-passage" class="passage"></div><div id="detail-words" class="word-chips"></div><div id="detail-activity"></div></article></section>
+    <section id="learn" class="screen"><button id="learn-back" class="back">← 返回學習區</button><div class="word-card panel"><p id="learn-position" class="eyebrow"></p><h1 id="learn-word"></h1><p id="learn-meaning" class="meaning"></p><button id="speak-word">🔊 播放英文發音</button><div class="row"><button id="prev-word" class="ghost">上一個</button><button id="next-word">下一個</button></div></div></section>
+    <section id="quiz" class="screen"><button id="quiz-back" class="back">← 結束測驗</button><div class="quiz-card panel"><div class="quiz-top"><span id="quiz-kind" class="pill"></span><span id="quiz-level"></span></div><p id="quiz-prompt-label" class="eyebrow"></p><h2 id="quiz-prompt"></h2><button id="replay-audio" class="audio-button hidden">🔊 再聽一次</button><div id="choices" class="choices"></div><p id="feedback" class="feedback" aria-live="polite"></p><button id="next-question" class="hidden">下一題</button></div></section>
   </main>
-  <div id="wallet-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="wallet-title">
-    <div class="wallet-panel panel">
-      <button id="wallet-close" class="modal-close" aria-label="關閉錢包">×</button>
-      <p class="eyebrow">MY WALLET</p><h2 id="wallet-title">我的錢包</h2>
-      <div class="wallet-bills">
-        <div><img src="1.png" alt="$1 鈔票"><b>$1 × <span id="wallet-ones">0</span></b></div>
-        <div><img src="10.png" alt="$10 鈔票"><b>$10 × <span id="wallet-tens">0</span></b></div>
-        <div><img src="100.png" alt="$100 鈔票"><b>$100 × <span id="wallet-hundreds">0</span></b></div>
-      </div>
-      <div class="wallet-grand-total">總金額 <b>$<span id="wallet-modal-total">0</span></b></div>
-    </div>
-  </div>
-  <div id="reward-pop" class="reward-pop hidden" aria-live="polite"><div id="bonus-title" class="bonus-title hidden">BONUS!</div><div id="reward-bills" class="reward-bills"></div><b id="reward-total"></b></div>
-  <script type="module" src="js/app.mjs?v=wallet2"></script>
-</body>
-</html>
+  <div id="wallet-modal" class="modal hidden" role="dialog" aria-modal="true"><div class="wallet-panel panel"><button id="wallet-close" class="modal-close" aria-label="關閉錢包">×</button><p class="eyebrow">MY WALLET</p><h2>我的錢包</h2><div class="wallet-bills"><div><img src="1.png" alt="$1 鈔票"><b>$1 × <span id="wallet-ones">0</span></b></div><div><img src="10.png" alt="$10 鈔票"><b>$10 × <span id="wallet-tens">0</span></b></div><div><img src="100.png" alt="$100 鈔票"><b>$100 × <span id="wallet-hundreds">0</span></b></div></div><div class="wallet-grand-total">總金額 <b>$<span id="wallet-modal-total">0</span></b></div></div></div>
+  <div id="reward-pop" class="reward-pop hidden" aria-live="polite"><div id="bonus-title" class="bonus-title hidden">BONUS!</div><div id="reward-bills" class="reward-bills"></div><b id="reward-total"></b></div><script type="module" src="js/app.mjs?v=0813-phase1"></script>
+</body></html>
