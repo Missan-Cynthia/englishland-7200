@@ -1,0 +1,341 @@
+﻿狄克森片語第二輪配對報告
+英文版：477 筆（Lesson 1-39）
+中文版可解析：323 筆（Unit 1-30；第 17 單元標作 Lesson 17，已依編號重啟還原）
+確定配對：242 筆
+待人工確認：235 筆
+中文版未被採用：81 筆
+
+配對方法：
+- exact_heading: 196
+- heading_and_example: 2
+- manual_confirmed: 2
+- near_exact_heading: 2
+- same_lesson_heading_evidence: 26
+- unique_reduced_heading: 14
+
+待確認原因：
+- 中文版僅至 Unit 30，無對應收錄範圍: 71
+- 中文版未找到可驗證的對應項目: 64
+- 多個近似候選，證據不足以唯一判定: 13
+- 版本用語或片語寫法不同，現有證據不足: 86
+- 英文來源疑似排字／OCR 異常: 1
+
+待確認明細：
+p0010	Lesson 1	sooner or later	中文版未找到可驗證的對應項目
+p0013	Lesson 2	to dress up	版本用語或片語寫法不同，現有證據不足
+p0020	Lesson 2	all along	版本用語或片語寫法不同，現有證據不足
+p0029	Lesson 3	to stand up	多個近似候選，證據不足以唯一判定
+p0044	Lesson 4	to take a trip	版本用語或片語寫法不同，現有證據不足
+p0061	Lesson 6	under the weather	中文版未找到可驗證的對應項目
+p0067	Lesson 6	few and far between	中文版未找到可驗證的對應項目
+p0068	Lesson 6	to look over	版本用語或片語寫法不同，現有證據不足
+p0074	Lesson 7	to be up	多個近似候選，證據不足以唯一判定
+p0082	Lesson 7	to call it a day/night	英文來源疑似排字／OCR 異常
+p0088	Lesson 8	to brush up on	中文版未找到可驗證的對應項目
+p0089	Lesson 8	over and over (again)	中文版未找到可驗證的對應項目
+p0095	Lesson 8	to have to do with	版本用語或片語寫法不同，現有證據不足
+p0099	Lesson 9	to get in touch with	版本用語或片語寫法不同，現有證據不足
+p0101	Lesson 9	in no time	版本用語或片語寫法不同，現有證據不足
+p0102	Lesson 9	to cut down on	中文版未找到可驗證的對應項目
+p0107	Lesson 9	back and forth	中文版未找到可驗證的對應項目
+p0108	Lesson 10	to make sure	版本用語或片語寫法不同，現有證據不足
+p0111	Lesson 10	every other (one)	中文版未找到可驗證的對應項目
+p0112	Lesson 10	to go with	版本用語或片語寫法不同，現有證據不足
+p0113	Lesson 10	first-rate	中文版未找到可驗證的對應項目
+p0116	Lesson 10	to mix up	中文版未找到可驗證的對應項目
+p0121	Lesson 11	to keep away (from)	版本用語或片語寫法不同，現有證據不足
+p0123	Lesson 11	to be up to	多個近似候選，證據不足以唯一判定
+p0124	Lesson 11	ill at ease	中文版未找到可驗證的對應項目
+p0129	Lesson 11	from now on	版本用語或片語寫法不同，現有證據不足
+p0131	Lesson 11	to be carried away	中文版未找到可驗證的對應項目
+p0140	Lesson 12	stands to reason	中文版未找到可驗證的對應項目
+p0146	Lesson 13	once in a blue moon	中文版未找到可驗證的對應項目
+p0152	Lesson 13	clear-cut	中文版未找到可驗證的對應項目
+p0153	Lesson 13	o The president's message was clear-cut	中文版未找到可驗證的對應項目
+p0154	Lesson 13	to have on	版本用語或片語寫法不同，現有證據不足
+p0158	Lesson 14	cut and dried	中文版未找到可驗證的對應項目
+p0160	Lesson 14	to feel like	版本用語或片語寫法不同，現有證據不足
+p0167	Lesson 14	to have one's way	中文版未找到可驗證的對應項目
+p0170	Lesson 15	upside down	中文版未找到可驗證的對應項目
+p0171	Lesson 15	to fill in	中文版未找到可驗證的對應項目
+p0172	Lesson 15	to fill out	版本用語或片語寫法不同，現有證據不足
+p0178	Lesson 15	only, also	中文版未找到可驗證的對應項目
+p0180	Lesson 15	in touch	中文版未找到可驗證的對應項目
+p0181	Lesson 15	out of touch	中文版未找到可驗證的對應項目
+p0182	Lesson 16	on one's toes	中文版未找到可驗證的對應項目
+p0185	Lesson 16	to see eye to eye	中文版未找到可驗證的對應項目
+p0186	Lesson 16	to have in mind	版本用語或片語寫法不同，現有證據不足
+p0188	Lesson 16	for once	中文版未找到可驗證的對應項目
+p0192	Lesson 16	to cut off	多個近似候選，證據不足以唯一判定
+p0193	Lesson 16	to cut out	版本用語或片語寫法不同，現有證據不足
+p0194	Lesson 16	second definition, also	中文版未找到可驗證的對應項目
+p0198	Lesson 17	have got	版本用語或片語寫法不同，現有證據不足
+p0199	Lesson 17	have got to	中文版未找到可驗證的對應項目
+p0201	Lesson 17	on the other hand	中文版未找到可驗證的對應項目
+p0203	Lesson 17	fifty-fifty	中文版未找到可驗證的對應項目
+p0205	Lesson 17	to interrupt (for the second definition, also	中文版未找到可驗證的對應項目
+p0206	Lesson 17	a lost cause	中文版未找到可驗證的對應項目
+p0209	Lesson 18	according to	中文版未找到可驗證的對應項目
+p0211	Lesson 18	for sure	中文版未找到可驗證的對應項目
+p0214	Lesson 18	to tear down	版本用語或片語寫法不同，現有證據不足
+p0215	Lesson 18	to tear up	版本用語或片語寫法不同，現有證據不足
+p0216	Lesson 18	to go over	版本用語或片語寫法不同，現有證據不足
+p0218	Lesson 18	at heart	中文版未找到可驗證的對應項目
+p0220	Lesson 19	to bite off	版本用語或片語寫法不同，現有證據不足
+p0221	Lesson 19	to tell apart	中文版未找到可驗證的對應項目
+p0222	Lesson 19	all in all	中文版未找到可驗證的對應項目
+p0223	Lesson 19	to pass out	版本用語或片語寫法不同，現有證據不足
+p0226	Lesson 19	inconvenience (for both, also	中文版未找到可驗證的對應項目
+p0227	Lesson 19	to put on	版本用語或片語寫法不同，現有證據不足
+p0231	Lesson 19	to catch up	版本用語或片語寫法不同，現有證據不足
+p0232	Lesson 20	to hold still	中文版未找到可驗證的對應項目
+p0234	Lesson 20	to be the matter	中文版未找到可驗證的對應項目
+p0240	Lesson 20	by far	中文版未找到可驗證的對應項目
+p0241	Lesson 20	to see off	中文版未找到可驗證的對應項目
+p0242	Lesson 20	to see out	多個近似候選，證據不足以唯一判定
+p0243	Lesson 20	no wonder	中文版未找到可驗證的對應項目
+p0244	Lesson 21	to go up	多個近似候選，證據不足以唯一判定
+p0245	Lesson 21	to go up to	版本用語或片語寫法不同，現有證據不足
+p0247	Lesson 21	in case	中文版未找到可驗證的對應項目
+p0248	Lesson 21	to take apart	版本用語或片語寫法不同，現有證據不足
+p0249	Lesson 21	to put together	中文版未找到可驗證的對應項目
+p0250	Lesson 21	to be better off	中文版未找到可驗證的對應項目
+p0252	Lesson 21	to take by surprise	中文版未找到可驗證的對應項目
+p0254	Lesson 21	to name after	版本用語或片語寫法不同，現有證據不足
+p0255	Lesson 21	to hold on	版本用語或片語寫法不同，現有證據不足
+p0256	Lesson 22	to stop by	中文版未找到可驗證的對應項目
+p0259	Lesson 22	perceived or judged as (also	中文版未找到可驗證的對應項目
+p0263	Lesson 22	to look on	多個近似候選，證據不足以唯一判定
+p0266	Lesson 22	to take off	版本用語或片語寫法不同，現有證據不足
+p0267	Lesson 22	to pull off	版本用語或片語寫法不同，現有證據不足
+p0268	Lesson 22	to keep time	版本用語或片語寫法不同，現有證據不足
+p0271	Lesson 23	close call	中文版未找到可驗證的對應項目
+p0272	Lesson 23	to get on one's nerves	中文版未找到可驗證的對應項目
+p0273	Lesson 23	to put down	版本用語或片語寫法不同，現有證據不足
+p0274	Lesson 23	to go for	版本用語或片語寫法不同，現有證據不足
+p0280	Lesson 23	definition	中文版未找到可驗證的對應項目
+p0281	Lesson 23	to clean out	版本用語或片語寫法不同，現有證據不足
+p0283	Lesson 24	to knock one self out	中文版未找到可驗證的對應項目
+p0285	Lesson 24	to run into	中文版未找到可驗證的對應項目
+p0287	Lesson 24	arrange or display neatly (also	中文版未找到可驗證的對應項目
+p0288	Lesson 24	to draw up	中文版未找到可驗證的對應項目
+p0289	Lesson 24	give and take	中文版未找到可驗證的對應項目
+p0296	Lesson 25	to get away with	版本用語或片語寫法不同，現有證據不足
+p0299	Lesson 25	to keep up with	版本用語或片語寫法不同，現有證據不足
+p0304	Lesson 25	to check up on	中文版未找到可驗證的對應項目
+p0307	Lesson 26	to bring about	版本用語或片語寫法不同，現有證據不足
+p0309	Lesson 26	to die down	版本用語或片語寫法不同，現有證據不足
+p0310	Lesson 26	to fade away	版本用語或片語寫法不同，現有證據不足
+p0311	Lesson 26	to die out	版本用語或片語寫法不同，現有證據不足
+p0316	Lesson 26	to stand up for	版本用語或片語寫法不同，現有證據不足
+p0317	Lesson 26	to cut corners	中文版未找到可驗證的對應項目
+p0318	Lesson 27	to take on	版本用語或片語寫法不同，現有證據不足
+p0319	Lesson 27	to take down	版本用語或片語寫法不同，現有證據不足
+p0322	Lesson 27	to give off	版本用語或片語寫法不同，現有證據不足
+p0323	Lesson 27	to give out	版本用語或片語寫法不同，現有證據不足
+p0326	Lesson 27	to hold off	版本用語或片語寫法不同，現有證據不足
+p0328	Lesson 27	to hold over	版本用語或片語寫法不同，現有證據不足
+p0330	Lesson 28	related idiom	中文版未找到可驗證的對應項目
+p0332	Lesson 28	a job (also	中文版未找到可驗證的對應項目
+p0337	Lesson 28	from (S) (also	中文版未找到可驗證的對應項目
+p0340	Lesson 28	to wear off	版本用語或片語寫法不同，現有證據不足
+p0343	Lesson 28	touch and go	中文版未找到可驗證的對應項目
+p0345	Lesson 29	to back up	版本用語或片語寫法不同，現有證據不足
+p0346	Lesson 29	to back out	版本用語或片語寫法不同，現有證據不足
+p0348	Lesson 29	to buy up	版本用語或片語寫法不同，現有證據不足
+p0349	Lesson 29	to buy out	版本用語或片語寫法不同，現有證據不足
+p0353	Lesson 29	to throw out	版本用語或片語寫法不同，現有證據不足
+p0355	Lesson 29	to clear up	版本用語或片語寫法不同，現有證據不足
+p0356	Lesson 30	to slow down	版本用語或片語寫法不同，現有證據不足
+p0357	Lesson 30	to dry up	版本用語或片語寫法不同，現有證據不足
+p0358	Lesson 30	to dry out	版本用語或片語寫法不同，現有證據不足
+p0359	Lesson 30	alcohol in excess (also	中文版未找到可驗證的對應項目
+p0369	Lesson 31	to go through	版本用語或片語寫法不同，現有證據不足
+p0370	Lesson 31	to go without saying	中文版僅至 Unit 30，無對應收錄範圍
+p0371	Lesson 31	to put (someone) on	版本用語或片語寫法不同，現有證據不足
+p0372	Lesson 31	to keep one's head	中文版僅至 Unit 30，無對應收錄範圍
+p0373	Lesson 31	to lose one's head	中文版僅至 Unit 30，無對應收錄範圍
+p0374	Lesson 31	narrow-minded	中文版僅至 Unit 30，無對應收錄範圍
+p0375	Lesson 31	to stand up	多個近似候選，證據不足以唯一判定
+p0376	Lesson 31	to get the better of	版本用語或片語寫法不同，現有證據不足
+p0377	Lesson 31	to break loose	中文版僅至 Unit 30，無對應收錄範圍
+p0378	Lesson 31	on edge	中文版僅至 Unit 30，無對應收錄範圍
+p0379	Lesson 31	to waste one's breath	中文版僅至 Unit 30，無對應收錄範圍
+p0380	Lesson 31	to cut short	中文版僅至 Unit 30，無對應收錄範圍
+p0381	Lesson 32	to step in	版本用語或片語寫法不同，現有證據不足
+p0382	Lesson 32	to step down	版本用語或片語寫法不同，現有證據不足
+p0383	Lesson 32	to step on	中文版僅至 Unit 30，無對應收錄範圍
+p0384	Lesson 32	a steal	中文版僅至 Unit 30，無對應收錄範圍
+p0385	Lesson 32	to play up to	中文版僅至 Unit 30，無對應收錄範圍
+p0386	Lesson 32	more or less	中文版僅至 Unit 30，無對應收錄範圍
+p0387	Lesson 32	to screw up	中文版僅至 Unit 30，無對應收錄範圍
+p0388	Lesson 32	to goof up	版本用語或片語寫法不同，現有證據不足
+p0389	Lesson 32	to go off the deep end	中文版僅至 Unit 30，無對應收錄範圍
+p0390	Lesson 32	to lose one's touch	中文版僅至 Unit 30，無對應收錄範圍
+p0391	Lesson 32	in hand	中文版僅至 Unit 30，無對應收錄範圍
+p0392	Lesson 32	on hand	中文版僅至 Unit 30，無對應收錄範圍
+p0393	Lesson 33	to kick (something) around	中文版僅至 Unit 30，無對應收錄範圍
+p0394	Lesson 33	on the ball	版本用語或片語寫法不同，現有證據不足
+p0395	Lesson 33	to make up	多個近似候選，證據不足以唯一判定
+p0396	Lesson 33	to make up with	中文版僅至 Unit 30，無對應收錄範圍
+p0397	Lesson 33	to pull together	中文版僅至 Unit 30，無對應收錄範圍
+p0398	Lesson 33	to be looking up	中文版僅至 Unit 30，無對應收錄範圍
+p0399	Lesson 33	to kick the habit	中文版僅至 Unit 30，無對應收錄範圍
+p0400	Lesson 33	to cover up	版本用語或片語寫法不同，現有證據不足
+p0401	Lesson 33	to drop off	版本用語或片語寫法不同，現有證據不足
+p0402	Lesson 33	the third definition, also	中文版僅至 Unit 30，無對應收錄範圍
+p0404	Lesson 33	to go through channels	中文版僅至 Unit 30，無對應收錄範圍
+p0405	Lesson 33	last straw	中文版僅至 Unit 30，無對應收錄範圍
+p0406	Lesson 34	to get cold feet	中文版僅至 Unit 30，無對應收錄範圍
+p0407	Lesson 34	to trade in	中文版僅至 Unit 30，無對應收錄範圍
+p0408	Lesson 34	face-to-face	中文版僅至 Unit 30，無對應收錄範圍
+p0409	Lesson 34	to be with (someone)	中文版僅至 Unit 30，無對應收錄範圍
+p0410	Lesson 34	to be with it	中文版僅至 Unit 30，無對應收錄範圍
+p0411	Lesson 34	to fall for	版本用語或片語寫法不同，現有證據不足
+p0412	Lesson 34	it figures	中文版僅至 Unit 30，無對應收錄範圍
+p0413	Lesson 34	to fill (someone) in	中文版僅至 Unit 30，無對應收錄範圍
+p0414	Lesson 34	to make (someone) tick	版本用語或片語寫法不同，現有證據不足
+p0415	Lesson 34	to cover for	中文版僅至 Unit 30，無對應收錄範圍
+p0416	Lesson 34	to give (someone) a break	版本用語或片語寫法不同，現有證據不足
+p0417	Lesson 34	to bow out	版本用語或片語寫法不同，現有證據不足
+p0418	Lesson 35	to pin on	版本用語或片語寫法不同，現有證據不足
+p0419	Lesson 35	to get a rise out of	版本用語或片語寫法不同，現有證據不足
+p0420	Lesson 35	to stick around	中文版僅至 Unit 30，無對應收錄範圍
+p0421	Lesson 35	to pick up the tab	中文版僅至 Unit 30，無對應收錄範圍
+p0423	Lesson 35	to go to town	中文版僅至 Unit 30，無對應收錄範圍
+p0424	Lesson 35	to let slide	中文版僅至 Unit 30，無對應收錄範圍
+p0425	Lesson 35	search me	中文版僅至 Unit 30，無對應收錄範圍
+p0426	Lesson 35	to get off one's chest	中文版僅至 Unit 30，無對應收錄範圍
+p0427	Lesson 35	to live it up	版本用語或片語寫法不同，現有證據不足
+p0428	Lesson 35	to liven up	多個近似候選，證據不足以唯一判定
+p0429	Lesson 35	to have a voice in	中文版僅至 Unit 30，無對應收錄範圍
+p0430	Lesson 36	to check in	中文版僅至 Unit 30，無對應收錄範圍
+p0431	Lesson 36	to check out	版本用語或片語寫法不同，現有證據不足
+p0432	Lesson 36	to take at one's word	中文版僅至 Unit 30，無對應收錄範圍
+p0433	Lesson 36	to serve (the/one's) purpose	版本用語或片語寫法不同，現有證據不足
+p0434	Lesson 36	in the worst way	中文版僅至 Unit 30，無對應收錄範圍
+p0435	Lesson 36	to cop out	多個近似候選，證據不足以唯一判定
+p0436	Lesson 36	to line up	版本用語或片語寫法不同，現有證據不足
+p0437	Lesson 36	to lose one's cool	中文版僅至 Unit 30，無對應收錄範圍
+p0438	Lesson 36	to leave open	中文版僅至 Unit 30，無對應收錄範圍
+p0439	Lesson 36	to turn on	版本用語或片語寫法不同，現有證據不足
+p0440	Lesson 36	to miss the boat	中文版僅至 Unit 30，無對應收錄範圍
+p0441	Lesson 36	to think up	版本用語或片語寫法不同，現有證據不足
+p0442	Lesson 37	to throw (someone) a curve	中文版僅至 Unit 30，無對應收錄範圍
+p0443	Lesson 37	to make waves	版本用語或片語寫法不同，現有證據不足
+p0444	Lesson 37	to carry on	版本用語或片語寫法不同，現有證據不足
+p0445	Lesson 37	not on your life	中文版僅至 Unit 30，無對應收錄範圍
+p0446	Lesson 37	to cover ground	中文版僅至 Unit 30，無對應收錄範圍
+p0447	Lesson 37	to mind the store	中文版僅至 Unit 30，無對應收錄範圍
+p0448	Lesson 37	to throw the book at	中文版僅至 Unit 30，無對應收錄範圍
+p0449	Lesson 37	to put one's foot in	中文版僅至 Unit 30，無對應收錄範圍
+p0450	Lesson 37	to be up for grabs	中文版僅至 Unit 30，無對應收錄範圍
+p0452	Lesson 37	to learn the ropes	中文版僅至 Unit 30，無對應收錄範圍
+p0453	Lesson 37	to keep one's fingers crossed	中文版僅至 Unit 30，無對應收錄範圍
+p0454	Lesson 38	to land on one's feet	中文版僅至 Unit 30，無對應收錄範圍
+p0455	Lesson 38	to dish out	中文版僅至 Unit 30，無對應收錄範圍
+p0456	Lesson 38	to get thr ough to	版本用語或片語寫法不同，現有證據不足
+p0457	Lesson 38	to keep one's word	中文版僅至 Unit 30，無對應收錄範圍
+p0458	Lesson 38	to be over one's head	中文版僅至 Unit 30，無對應收錄範圍
+p0459	Lesson 38	to ask for	中文版僅至 Unit 30，無對應收錄範圍
+p0460	Lesson 38	to be a far cry from	中文版僅至 Unit 30，無對應收錄範圍
+p0461	Lesson 38	by all means	中文版僅至 Unit 30，無對應收錄範圍
+p0462	Lesson 38	to get out from under	中文版僅至 Unit 30，無對應收錄範圍
+p0463	Lesson 38	to take the bull by the horns	中文版僅至 Unit 30，無對應收錄範圍
+p0464	Lesson 38	to give (someone) a hand	版本用語或片語寫法不同，現有證據不足
+p0465	Lesson 38	to give (someone) a big hand	版本用語或片語寫法不同，現有證據不足
+p0466	Lesson 39	to goof off	版本用語或片語寫法不同，現有證據不足
+p0467	Lesson 39	to talk back to	中文版僅至 Unit 30，無對應收錄範圍
+p0468	Lesson 39	to be in	多個近似候選，證據不足以唯一判定
+p0469	Lesson 39	to be out	多個近似候選，證據不足以唯一判定
+p0470	Lesson 39	to draw the line at	中文版僅至 Unit 30，無對應收錄範圍
+p0471	Lesson 39	to get out of line	版本用語或片語寫法不同，現有證據不足
+p0472	Lesson 39	dry run	中文版僅至 Unit 30，無對應收錄範圍
+p0473	Lesson 39	to play by ear	中文版僅至 Unit 30，無對應收錄範圍
+p0474	Lesson 39	to be in (someone's) shoes	中文版僅至 Unit 30，無對應收錄範圍
+p0475	Lesson 39	to keep after	版本用語或片語寫法不同，現有證據不足
+p0476	Lesson 39	to fix up	中文版僅至 Unit 30，無對應收錄範圍
+p0477	Lesson 39	to be had	中文版僅至 Unit 30，無對應收錄範圍
+
+中文版未被採用明細：
+Unit 1 #11	to take exercise	做運動
+Unit 2 #1	to wait for	等待 5.
+Unit 2 #14	to arrive at	到達
+Unit 3 #5	to take care of	照顧
+Unit 3 #6	to ask for advice	請求忠告
+Unit 4 #13	to be full of	充滿
+Unit 4 #15	for a while	一會而
+Unit 5 #14	would like to	想要
+Unit 6 #2	to leave sb. / sth. out	漏掉，刪除
+Unit 6 #7	at times	有時候
+Unit 6 #10	to keep on	繼續
+Unit 6 #14	to hurry up	趕快
+Unit 6 #15	on the way	在途中
+Unit 6 #16	to be obliged to	不得不
+Unit 7 #9	to figure out	算出，想出
+Unit 7 #11	to dissuade from	勸 ~ 不要 ~
+Unit 7 #12	to get tired of	對 ~ 感到厭倦
+Unit 8 #10	as yet	到目前為止
+Unit 8 #12	from then on	從那時起
+Unit 9 #5	to take care of (1)	照顧 (2) 處理，應付
+Unit 9 #6	once in a while	偶爾
+Unit 9 #11	to make believe	假裝
+Unit 9 #15	no longer	不再 ~
+Unit 10 #4	to keep house	做家事
+Unit 10 #12	on no account	決不
+Unit 11 #3	off and on	斷斷續續地
+Unit 11 #9	all at once	突然
+Unit 11 #11	to call sb. down	責罵某人
+Unit 11 #14	to set fire to sth.	放火
+Unit 13 #2	to turn out to be	結果成為
+Unit 13 #5	to take pity on	憐恤
+Unit 13 #9	to take a look at	看一看
+Unit 13 #13	to turn a deaf ear to	不願聽；對 ~ 充
+Unit 14 #2	to play tricks on / to play jokes on	戲
+Unit 14 #13	to one's relief	令人欣慰的是
+Unit 14 #14	as if / as though	彷彿
+Unit 15 #9	out of	沒有，出自
+Unit 15 #11	come to one's aid	前來援助某人 2.
+Unit 15 #12	can not but	不得不 ge
+Unit 16 #4	to let go of something	釋放某物
+Unit 16 #6	to run over	輾過 10
+Unit 16 #7	to keep an eye on	留意
+Unit 16 #8	take pride in	以…為榮
+Unit 16 #9	rain or shine	不論晴雨
+Unit 17 #1	to shut off	關閉
+Unit 17 #8	on the alert	注意
+Unit 18 #3	to be bound for somewhere	前往某地
+Unit 18 #4	to watch out for	警戒，留意
+Unit 19 #1	take leave of	離開；告別
+Unit 19 #2	all the same	同樣地；仍然；依然
+Unit 19 #4	in the past	在過去；向來
+Unit 20 #1	pass away	去世；死去
+Unit 20 #4	grow up	長大；成人
+Unit 20 #6	to run errands	跑腿；跑差事
+Unit 21 #2	rob sb. of sth.	搶劫(某人)
+Unit 21 #3	in addition to	此外；而且
+Unit 21 #5	somehow or other	設法；藉某種方法
+Unit 21 #6	without fail	務必；一定地
+Unit 21 #9	in no way	絶不；一點也不
+Unit 21 #10	compare with	比較
+Unit 22 #2	to the effect that	大意是說 ~
+Unit 22 #4	to give someone a ring	打電話給某人
+Unit 22 #9	as (so) long as	如果；只要
+Unit 22 #10	do one's best	盡力(做 ~)
+Unit 23 #4	go to sea (1)	做水手 (2) 航海
+Unit 23 #6	to make faces	扮鬼臉
+Unit 23 #7	to one's heart's content	盡興地；隨心所
+Unit 24 #6	to bring to	使復甦；使甦醒
+Unit 24 #10	to drop in on	偶訪
+Unit 27 #1	to fall off	落下；減少
+Unit 27 #5	to one's disappointment	令人失望的
+Unit 28 #4	to read over	匆匆越過；略為閱讀
+Unit 28 #10	as a result	因此；結果
+Unit 28 #11	have no choice but (1)	不得不 (2)
+Unit 29 #5	turn to	求助於；著手；開始 (工作)
+Unit 29 #7	to be all set to do something	準備做某
+Unit 29 #10	to set forth	動身；啟程；提出
+Unit 30 #3	ten to one	十之八九；非常可能地
+Unit 30 #5	at stake	得失攸關；瀕於危險
+Unit 30 #9	beside oneself	發狂；忘形
+Unit 30 #10	cool down	變冷靜

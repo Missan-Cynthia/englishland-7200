@@ -1,4 +1,177 @@
 [
-  {"id":"rt001","title":"Library Closing Notice","topic":"Notice","level":1,"passage":"CITY LIBRARY NOTICE\nThe second floor will close at 4:00 p.m. on Friday for a safety inspection. The first floor and the children’s room will remain open until 8:00 p.m. Visitors may return books at the front desk or in the box beside the main entrance.","targetWords":["inspection","remain","visitor","entrance"],"coveredWords":["entrance","inspection","remain","visitor"],"questions":[{"id":"rt001q1","type":"mainIdea","prompt":"What is the purpose of the notice?","choices":["To explain a partial early closing","To advertise a new library","To invite children to an event","To change book prices"],"answer":"To explain a partial early closing"},{"id":"rt001q2","type":"detail","prompt":"Where can visitors return books?","choices":["Only on the second floor","At the front desk or entrance box","In the children’s room","At the safety office"],"answer":"At the front desk or entrance box"}]},
-  {"id":"rt002","title":"Delivery Schedule Update","topic":"Email","level":2,"passage":"To: Store Managers\nFrom: Nina Lopez\nSubject: Friday deliveries\nBecause of heavy rain, the trucks scheduled to arrive before noon on Friday may be delayed by up to two hours. Please ask an employee to check the loading area at 1:00 p.m. If a delivery has not arrived by then, contact the regional office. Saturday deliveries are not affected.","targetWords":["scheduled","delayed","employee","regional","affected"],"coveredWords":["affected","delay","delivery","employee","regional","schedule"],"questions":[{"id":"rt002q1","type":"cause","prompt":"Why might the trucks arrive late?","choices":["The loading area is closed","The regional office moved","There is heavy rain","The stores open late"],"answer":"There is heavy rain"},{"id":"rt002q2","type":"inference","prompt":"What should managers do first at 1:00 p.m.?","choices":["Cancel Saturday deliveries","Call every driver","Check whether the delivery arrived","Close the store"],"answer":"Check whether the delivery arrived"},{"id":"rt002q3","type":"detail","prompt":"Which deliveries are unchanged?","choices":["Friday morning deliveries","Friday afternoon deliveries","Regional deliveries","Saturday deliveries"],"answer":"Saturday deliveries"}]}
+  {
+    "id": "rt001",
+    "title": "Library Closing Notice",
+    "topic": "Notice",
+    "level": 1,
+    "passage": "CITY LIBRARY NOTICE\nThe second floor will close at 4:00 p.m. on Friday for a safety inspection. The first floor and the children’s room will remain open until 8:00 p.m. Visitors may return books at the front desk or in the box beside the main entrance.",
+    "targetWords": [
+      "inspection",
+      "remain",
+      "visitor",
+      "entrance"
+    ],
+    "coveredWords": [
+      "entrance",
+      "inspection",
+      "remain",
+      "visitor"
+    ],
+    "questions": [
+      {
+        "id": "rt001q1",
+        "type": "mainIdea",
+        "prompt": "What is the purpose of the notice?",
+        "choices": [
+          "To explain a partial early closing",
+          "To advertise a new library",
+          "To invite children to an event",
+          "To change book prices"
+        ],
+        "answer": "To explain a partial early closing",
+        "choiceTranslations": [
+          "說明部分區域提早關閉",
+          "宣傳一間新圖書館",
+          "邀請兒童參加活動",
+          "調整書籍價格"
+        ],
+        "choiceExplanations": [
+          "二樓四點關閉，其他區域仍開放，因此是部分提早關閉的通知。",
+          "沒有介紹新圖書館。",
+          "提到兒童閱覽室仍開放，不是邀請活動。",
+          "沒有提到書籍售價。"
+        ],
+        "evidence": "The second floor will close at 4:00 p.m. on Friday for a safety inspection.",
+        "explanation": "二樓四點關閉，其他區域仍開放，因此是部分提早關閉的通知。"
+      },
+      {
+        "id": "rt001q2",
+        "type": "detail",
+        "prompt": "Where can visitors return books?",
+        "choices": [
+          "Only on the second floor",
+          "At the front desk or entrance box",
+          "In the children’s room",
+          "At the safety office"
+        ],
+        "answer": "At the front desk or entrance box",
+        "choiceTranslations": [
+          "只能在二樓",
+          "服務台或入口旁的還書箱",
+          "兒童閱覽室",
+          "安全辦公室"
+        ],
+        "choiceExplanations": [
+          "原文並未指定二樓還書，而且二樓會提早關閉。",
+          "原文明列 front desk 與 main entrance 旁的 box 兩個位置。",
+          "兒童閱覽室開放，但未列為還書地點。",
+          "原文沒有這個還書地點。"
+        ],
+        "evidence": "Visitors may return books at the front desk or in the box beside the main entrance.",
+        "explanation": "原文明列 front desk 與 main entrance 旁的 box 兩個位置。"
+      }
+    ]
+  },
+  {
+    "id": "rt002",
+    "title": "Delivery Schedule Update",
+    "topic": "Email",
+    "level": 2,
+    "passage": "To: Store Managers\nFrom: Nina Lopez\nSubject: Friday deliveries\nBecause of heavy rain, the trucks scheduled to arrive before noon on Friday may be delayed by up to two hours. Please ask an employee to check the loading area at 1:00 p.m. If a delivery has not arrived by then, contact the regional office. Saturday deliveries are not affected.",
+    "targetWords": [
+      "scheduled",
+      "delayed",
+      "employee",
+      "regional",
+      "affected"
+    ],
+    "coveredWords": [
+      "affected",
+      "delay",
+      "delivery",
+      "employee",
+      "regional",
+      "schedule"
+    ],
+    "questions": [
+      {
+        "id": "rt002q1",
+        "type": "cause",
+        "prompt": "Why might the trucks arrive late?",
+        "choices": [
+          "The loading area is closed",
+          "The regional office moved",
+          "There is heavy rain",
+          "The stores open late"
+        ],
+        "answer": "There is heavy rain",
+        "choiceTranslations": [
+          "卸貨區關閉",
+          "區域辦公室搬遷",
+          "下大雨",
+          "商店晚開門"
+        ],
+        "choiceExplanations": [
+          "没有說卸貨區關閉。",
+          "沒有說辦公室搬遷。",
+          "Because of heavy rain 直接說明延遲原因。",
+          "沒有說商店延後營業。"
+        ],
+        "evidence": "Because of heavy rain, the trucks scheduled to arrive before noon on Friday may be delayed by up to two hours.",
+        "explanation": "Because of heavy rain 直接說明延遲原因。"
+      },
+      {
+        "id": "rt002q2",
+        "type": "inference",
+        "prompt": "What should managers do first at 1:00 p.m.?",
+        "choices": [
+          "Cancel Saturday deliveries",
+          "Call every driver",
+          "Check whether the delivery arrived",
+          "Close the store"
+        ],
+        "answer": "Check whether the delivery arrived",
+        "choiceTranslations": [
+          "取消週六配送",
+          "打電話給每一位司機",
+          "確認貨物是否已送達",
+          "關閉商店"
+        ],
+        "choiceExplanations": [
+          "週六配送不受影響，不應取消。",
+          "原文不是先打給司機。",
+          "先請員工查看卸貨區；尚未到貨才聯絡區域辦公室。",
+          "沒有要求關閉商店。"
+        ],
+        "evidence": "Please ask an employee to check the loading area at 1:00 p.m.",
+        "explanation": "先請員工查看卸貨區；尚未到貨才聯絡區域辦公室。"
+      },
+      {
+        "id": "rt002q3",
+        "type": "detail",
+        "prompt": "Which deliveries are unchanged?",
+        "choices": [
+          "Friday morning deliveries",
+          "Friday afternoon deliveries",
+          "Regional deliveries",
+          "Saturday deliveries"
+        ],
+        "answer": "Saturday deliveries",
+        "choiceTranslations": [
+          "週五上午配送",
+          "週五下午配送",
+          "區域配送",
+          "週六配送"
+        ],
+        "choiceExplanations": [
+          "週五中午前預定抵達的車輛可能延遲。",
+          "原文未保證週五下午配送完全不變。",
+          "regional 指應聯絡的辦公室，不是保證不受影響的配送種類。",
+          "原文明確說週六配送不受影響。"
+        ],
+        "evidence": "Saturday deliveries are not affected.",
+        "explanation": "原文明確說週六配送不受影響。"
+      }
+    ]
+  }
 ]

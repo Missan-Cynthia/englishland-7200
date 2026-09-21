@@ -18,6 +18,7 @@ export async function initializeStorage(){
 
 const emailFor=name=>`${name.toLowerCase().replace(/[^a-z0-9._-]/g,'_')}@english-land.local`;
 export async function login(username,password){
+  if(!storageInitialized)throw new Error('登入服務尚未初始化完成，請確認頁面下方的啟動錯誤，重新整理後再試');
   if(!cloud){localStorage.setItem(PREFIX+'current',username);return {uid:username,username};}
   const result=await cloud.signInWithEmailAndPassword(cloud.auth,emailFor(username),password);return {uid:result.user.uid,username};
 }

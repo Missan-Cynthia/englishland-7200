@@ -1,0 +1,283 @@
+[
+  {
+    "id": "05",
+    "title": "超市購物",
+    "image": "思維導圖/05.jpg",
+    "status": "reviewed",
+    "source": "Cambridge English–Traditional Chinese Dictionary",
+    "sourceUrl": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/supermarket",
+    "words": [
+      {
+        "word": "supermarket",
+        "meaning": "超級市場；超市",
+        "sourceUrl": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/supermarket"
+      },
+      {
+        "word": "shopping cart",
+        "meaning": "購物車",
+        "sourceUrl": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/shopping-cart"
+      },
+      {
+        "word": "shopping basket",
+        "meaning": "（商店的）購物籃",
+        "sourceUrl": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/shopping-basket"
+      },
+      {
+        "word": "customer",
+        "meaning": "顧客；客戶",
+        "review": "圖片譯為「顧客」，符合本篇商店語境。"
+      },
+      {
+        "word": "cashier",
+        "meaning": "收銀員",
+        "review": "待確認劍橋條目在商店語境的繁中措辭。"
+      },
+      {
+        "word": "plastic bag",
+        "meaning": "塑膠袋",
+        "review": "待確認劍橋是否有完整片語條目。"
+      }
+    ],
+    "article": {
+      "title": "A Trip to the Supermarket",
+      "text": "Mia goes to the supermarket with her dad. They take a shopping cart and put fruit, bread, and milk in it. Mia carries a shopping basket for a few small things. At the checkout, the cashier smiles at them. They put the food in a reusable bag and go home.",
+      "translation": "Mia 和爸爸去超市。他們推了一台購物車，把水果、麵包和牛奶放進去。Mia 用購物籃裝幾樣小東西。結帳時，收銀員對他們微笑。他們把食物放進環保袋後回家。"
+    },
+    "questions": [
+      {
+        "prompt": "What do Mia and her dad put in the cart?",
+        "choices": [
+          "Fruit, bread, and milk",
+          "Books and pencils",
+          "Shoes and hats",
+          "Flowers only"
+        ],
+        "answer": "Fruit, bread, and milk",
+        "choiceTranslations": [
+          "水果、麵包和牛奶",
+          "書和鉛筆",
+          "鞋和帽子",
+          "只有花"
+        ],
+        "choiceExplanations": [
+          "原文依據：They take a shopping cart and put fruit, bread, and milk in it.",
+          "原文並沒有說「書和鉛筆」，與文章描述不符。",
+          "原文並沒有說「鞋和帽子」，與文章描述不符。",
+          "原文並沒有說「只有花」，與文章描述不符。"
+        ],
+        "evidence": "They take a shopping cart and put fruit, bread, and milk in it.",
+        "explanation": "原文依據：They take a shopping cart and put fruit, bread, and milk in it."
+      },
+      {
+        "prompt": "Who smiles at them?",
+        "choices": [
+          "The cashier",
+          "The teacher",
+          "The driver",
+          "The doctor"
+        ],
+        "answer": "The cashier",
+        "choiceTranslations": [
+          "收銀員",
+          "老師",
+          "司機",
+          "醫生"
+        ],
+        "choiceExplanations": [
+          "原文依據：At the checkout, the cashier smiles at them.",
+          "原文並沒有說「老師」，與文章描述不符。",
+          "原文並沒有說「司機」，與文章描述不符。",
+          "原文並沒有說「醫生」，與文章描述不符。"
+        ],
+        "evidence": "At the checkout, the cashier smiles at them.",
+        "explanation": "原文依據：At the checkout, the cashier smiles at them."
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "title": "榴槤",
+    "image": "思維導圖/50.jpg",
+    "status": "needsReview",
+    "source": "Cambridge English–Traditional Chinese Dictionary",
+    "sourceUrl": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/durian",
+    "words": [
+      {
+        "word": "durian",
+        "meaning": "榴槤果",
+        "review": "劍橋把果實譯為「榴槤果」、樹譯為「榴蓮樹」；原圖只寫「榴蓮」，請人工決定 App 慣用詞。",
+        "needsReview": true
+      },
+      {
+        "word": "pulp",
+        "meaning": "果肉",
+        "review": "依本篇水果語境選用「果肉」。"
+      },
+      {
+        "word": "segment",
+        "meaning": "（水果的）瓣；分瓣",
+        "review": "多義詞，這裡不是一般的「部分」。",
+        "needsReview": true
+      },
+      {
+        "word": "spiky",
+        "meaning": "有尖刺的",
+        "review": "原圖片語 spiky shell 可譯為「帶刺的外殼」。"
+      },
+      {
+        "word": "strong smell",
+        "meaning": "濃烈的氣味",
+        "review": "語境翻譯；不是單一劍橋詞條。"
+      }
+    ],
+    "article": {
+      "title": "The King of Fruits",
+      "text": "A durian has a hard, spiky shell and a very strong smell. Inside, its soft yellow pulp is divided into segments. Some people do not like the smell, but many people enjoy the sweet and creamy fruit. Always ask an adult to help open a durian.",
+      "translation": "榴槤有堅硬、帶刺的外殼和非常濃烈的氣味。裡面柔軟的黃色果肉分成數瓣。有些人不喜歡它的氣味，但許多人喜歡香甜滑順的果肉。要打開榴槤時，一定要請大人幫忙。"
+    },
+    "questions": [
+      {
+        "prompt": "What is the shell like?",
+        "choices": [
+          "Hard and spiky",
+          "Soft and blue",
+          "Thin and smooth",
+          "Wet and cold"
+        ],
+        "answer": "Hard and spiky",
+        "choiceTranslations": [
+          "堅硬且有尖刺",
+          "柔軟且藍色",
+          "薄且光滑",
+          "潮濕且冰冷"
+        ],
+        "choiceExplanations": [
+          "原文依據：A durian has a hard, spiky shell and a very strong smell.",
+          "原文並沒有說「柔軟且藍色」，與文章描述不符。",
+          "原文並沒有說「薄且光滑」，與文章描述不符。",
+          "原文並沒有說「潮濕且冰冷」，與文章描述不符。"
+        ],
+        "evidence": "A durian has a hard, spiky shell and a very strong smell.",
+        "explanation": "原文依據：A durian has a hard, spiky shell and a very strong smell."
+      },
+      {
+        "prompt": "What is inside the durian?",
+        "choices": [
+          "Soft yellow pulp",
+          "Clear water",
+          "Red beans",
+          "Green leaves"
+        ],
+        "answer": "Soft yellow pulp",
+        "choiceTranslations": [
+          "柔軟的黃色果肉",
+          "清水",
+          "紅豆",
+          "綠葉"
+        ],
+        "choiceExplanations": [
+          "原文依據：Inside, its soft yellow pulp is divided into segments.",
+          "原文並沒有說「清水」，與文章描述不符。",
+          "原文並沒有說「紅豆」，與文章描述不符。",
+          "原文並沒有說「綠葉」，與文章描述不符。"
+        ],
+        "evidence": "Inside, its soft yellow pulp is divided into segments.",
+        "explanation": "原文依據：Inside, its soft yellow pulp is divided into segments."
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "title": "清明節",
+    "image": "思維導圖/100.jpg",
+    "status": "needsReview",
+    "source": "Cambridge English–Traditional Chinese Dictionary",
+    "words": [
+      {
+        "word": "Qingming Festival",
+        "meaning": "清明節",
+        "review": "專有節日名稱；劍橋可能沒有獨立雙語條目。",
+        "needsReview": true
+      },
+      {
+        "word": "tomb sweeping",
+        "meaning": "掃墓",
+        "review": "文化用語，需人工確認採用「掃墓」或「祭掃」。",
+        "needsReview": true
+      },
+      {
+        "word": "pay tribute to ancestors",
+        "meaning": "向祖先致敬；祭祖",
+        "review": "語境翻譯，原圖「紀念故人」未完整對應 ancestors。",
+        "needsReview": true
+      },
+      {
+        "word": "mugwort",
+        "meaning": "艾草"
+      },
+      {
+        "word": "sticky rice",
+        "meaning": "糯米"
+      },
+      {
+        "word": "fly kites",
+        "meaning": "放風箏"
+      }
+    ],
+    "article": {
+      "title": "Qingming Festival",
+      "text": "Qingming Festival is a time for families to remember their ancestors. Many people visit family tombs, clean the area, and bring flowers. Some families eat green rice balls made with sticky rice and mugwort. Children may also go outside and fly kites in the spring weather.",
+      "translation": "清明節是家人追思祖先的日子。許多人會到家族墓地掃墓、整理周圍並帶花祭拜。有些家庭會吃以糯米和艾草製作的青糰。孩子們也可能趁著春天的天氣到戶外放風箏。"
+    },
+    "questions": [
+      {
+        "prompt": "Why do families observe Qingming Festival?",
+        "choices": [
+          "To remember their ancestors",
+          "To buy new clothes",
+          "To watch a movie",
+          "To learn to swim"
+        ],
+        "answer": "To remember their ancestors",
+        "choiceTranslations": [
+          "追思祖先",
+          "買新衣服",
+          "看電影",
+          "學游泳"
+        ],
+        "choiceExplanations": [
+          "原文依據：Qingming Festival is a time for families to remember their ancestors.",
+          "原文並沒有說「買新衣服」，與文章描述不符。",
+          "原文並沒有說「看電影」，與文章描述不符。",
+          "原文並沒有說「學游泳」，與文章描述不符。"
+        ],
+        "evidence": "Qingming Festival is a time for families to remember their ancestors.",
+        "explanation": "原文依據：Qingming Festival is a time for families to remember their ancestors."
+      },
+      {
+        "prompt": "What can green rice balls contain?",
+        "choices": [
+          "Sticky rice and mugwort",
+          "Cheese and tomatoes",
+          "Coffee and milk",
+          "Fish and potatoes"
+        ],
+        "answer": "Sticky rice and mugwort",
+        "choiceTranslations": [
+          "糯米和艾草",
+          "起司和番茄",
+          "咖啡和牛奶",
+          "魚和馬鈴薯"
+        ],
+        "choiceExplanations": [
+          "原文依據：Some families eat green rice balls made with sticky rice and mugwort.",
+          "原文並沒有說「起司和番茄」，與文章描述不符。",
+          "原文並沒有說「咖啡和牛奶」，與文章描述不符。",
+          "原文並沒有說「魚和馬鈴薯」，與文章描述不符。"
+        ],
+        "evidence": "Some families eat green rice balls made with sticky rice and mugwort.",
+        "explanation": "原文依據：Some families eat green rice balls made with sticky rice and mugwort."
+      }
+    ]
+  }
+]

@@ -29,10 +29,11 @@ export function makeCloze(item){
   return '';
 }
 
-export function buildPhraseQuestion(phrases,progress,type,random=Math.random){
+export function buildPhraseQuestion(phrases,progress,type,random=Math.random,answerId=null){
   const reliableZh=x=>x.meaningZh&&!/待人工|待確認/.test(x.meaningZh);
   const eligible=type==='cloze'?phrases.filter(x=>makeCloze(x)):(type==='zhToPhrase'||type==='phraseToZh'?phrases.filter(reliableZh):phrases);
-  const answer=weightedPhrase(eligible,progress,random);
+  const answer=answerId?eligible.find(x=>x.id===answerId):weightedPhrase(eligible,progress,random);
+  if(!answer)throw new Error('EMPTY_PHRASES');
   const choiceValue=type==='phraseToZh'?x=>x.meaningZh:x=>x.phrase;
   return {type,answer,choices:pickChoices(eligible,answer,choiceValue,random),cloze:type==='cloze'?makeCloze(answer):''};
 }

@@ -1,0 +1,28 @@
+{
+  "standard": "只有同一片語，或明確僅為英美拼法、介系詞、冠詞、可分離形式差異時才可配對；近義片語與同一動詞搭配不同介系詞不得配對。",
+  "decisions": [
+    {
+      "id": "p0219",
+      "decision": "confirmed",
+      "candidateId": "zh-u06-13-o078",
+      "englishPhrase": "about to",
+      "chinesePhrase": "to be about to",
+      "meaningZh": "即將"
+    },
+    {
+      "id": "p0361",
+      "decision": "confirmed",
+      "candidateId": "zh-u29-08-o312",
+      "englishPhrase": "to beat around the bush",
+      "chinesePhrase": "to beat about the bush",
+      "meaningZh": "旁敲側擊；拐彎"
+    },
+    {
+      "id": "p0082",
+      "decision": "source-corrected-only",
+      "englishPhrase": "to call it a day/night",
+      "meaningZh": "待人工確認",
+      "note": "英文來源 OCR／切段錯誤已修正；未自動配對中文。"
+    }
+  ]
+}

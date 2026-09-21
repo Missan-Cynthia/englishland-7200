@@ -4,8 +4,8 @@ export const BATCH_SIZE = 20;
 export function blankLibraryState(){return {level:1,mastery:{},recent:[],answers:0};}
 export function blankWallet(){return {ones:0,tens:0,hundreds:0,total:0};}
 export function walletTotal(wallet){return wallet.ones+wallet.tens*10+wallet.hundreds*100;}
-export const LIBRARY_KEYS=['basic','advanced','phrases','basicReading','cloze','readingTest','articles'];
-export function blankState(){return {coins:0,wallet:blankWallet(),libraries:Object.fromEntries(LIBRARY_KEYS.map(key=>[key,blankLibraryState()])),updatedAt:Date.now()};}
+export const LIBRARY_KEYS=['basic','advanced','phrases','basicReading','cloze','readingTest','articles','mindmaps'];
+export function blankState(){return {study:null,phraseMistakes:{},coins:0,wallet:blankWallet(),libraries:Object.fromEntries(LIBRARY_KEYS.map(key=>[key,blankLibraryState()])),mindMaps:{read:[],favorites:[]},updatedAt:Date.now()};}
 
 export function normalizeState(value={}){
   const clean=blankState();
@@ -21,6 +21,10 @@ export function normalizeState(value={}){
     const source=value.libraries?.[key]||{};
     clean.libraries[key]={level:Math.max(1,Number(source.level)||1),mastery:source.mastery&&typeof source.mastery==='object'?source.mastery:{},recent:Array.isArray(source.recent)?source.recent.slice(-8).map(Boolean):[],answers:Math.max(0,Number(source.answers)||0)};
   }
+  clean.mindMaps.read=Array.isArray(value.mindMaps?.read)?[...new Set(value.mindMaps.read.map(String))]:[];
+  clean.mindMaps.favorites=Array.isArray(value.mindMaps?.favorites)?[...new Set(value.mindMaps.favorites.map(String))]:[];
+  clean.phraseMistakes=value.phraseMistakes&&typeof value.phraseMistakes==='object'&&!Array.isArray(value.phraseMistakes)?value.phraseMistakes:{};
+  clean.study=value.study&&typeof value.study==='object'&&!Array.isArray(value.study)?value.study:null;
   return clean;
 }
 

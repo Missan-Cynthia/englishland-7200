@@ -1,4 +1,126 @@
 [
-  {"id":"ar001","title":"A Calm Start to an International Trip","topic":"Travel","level":1,"passage":"Mina checked her itinerary before leaving for the airport. Her luggage was light, and her passport was in a safe pocket. At the departure hall, an employee helped her confirm the destination and boarding time. Because Mina arrived early, she could relax and review the address of her accommodation. The simple preparation made the first part of her journey calm and pleasant.","targetWords":["itinerary","airport","luggage","passport","departure","employee","destination","accommodation","journey"],"targetPhrases":[],"coveredWords":["accommodation","airport","departure","destination","employee","itinerary","journey","luggage","passport","preparation"]},
-  {"id":"ar002","title":"Responsibility at a Busy Office","topic":"Business","level":2,"passage":"Leo is responsible for a small customer service team. When a new employee joins the office, Leo looks after the training schedule and takes care of practical questions. He believes that responsibility does not mean doing every task alone. Instead, a good manager explains each goal, listens to feedback, and gives people the support they need. This approach helps the team solve problems efficiently.","targetWords":["responsible","employee","training","schedule","practical","responsibility","manager","feedback","support","efficiently"],"targetPhrases":["look after","take care of"],"coveredWords":["approach","customer","efficiently","employee","feedback","manager","practical","responsibility","responsible","schedule","support","training"]}
+  {
+    "id": "ar001",
+    "title": "A Calm Start to an International Trip",
+    "topic": "Travel",
+    "level": 1,
+    "passage": "Mina checked her itinerary before leaving for the airport. Her luggage was light, and her passport was in a safe pocket. At the departure hall, an employee helped her confirm the destination and boarding time. Because Mina arrived early, she could relax and review the address of her accommodation. The simple preparation made the first part of her journey calm and pleasant.",
+    "targetWords": [
+      "itinerary",
+      "airport",
+      "luggage",
+      "passport",
+      "departure",
+      "employee",
+      "destination",
+      "accommodation",
+      "journey"
+    ],
+    "targetPhrases": [],
+    "coveredWords": [
+      "accommodation",
+      "airport",
+      "departure",
+      "destination",
+      "employee",
+      "itinerary",
+      "journey",
+      "luggage",
+      "passport",
+      "preparation"
+    ],
+    "questions": [
+      {
+        "id": "ar001q1",
+        "type": "detail",
+        "prompt": "Why could Mina relax before her flight?",
+        "choices": [
+          "She arrived early",
+          "Her flight was canceled",
+          "She had no luggage",
+          "The airport was closed"
+        ],
+        "answer": "She arrived early",
+        "choiceTranslations": [
+          "她提早抵達",
+          "她的航班取消了",
+          "她沒有行李",
+          "機場關閉了"
+        ],
+        "choiceExplanations": [
+          "原文明確指出：Because Mina arrived early, she could relax and review the address of her accommodation.",
+          "原文並未支持「她的航班取消了」；請比較下方的答案依據。",
+          "原文並未支持「她沒有行李」；請比較下方的答案依據。",
+          "原文並未支持「機場關閉了」；請比較下方的答案依據。"
+        ],
+        "evidence": "Because Mina arrived early, she could relax and review the address of her accommodation.",
+        "explanation": "原文明確指出：Because Mina arrived early, she could relax and review the address of her accommodation."
+      }
+    ]
+  },
+  {
+    "id": "ar002",
+    "title": "Responsibility at a Busy Office",
+    "topic": "Business",
+    "level": 2,
+    "passage": "Leo is responsible for a small customer service team. When a new employee joins the office, Leo looks after the training schedule and takes care of practical questions. He believes that responsibility does not mean doing every task alone. Instead, a good manager explains each goal, listens to feedback, and gives people the support they need. This approach helps the team solve problems efficiently.",
+    "targetWords": [
+      "responsible",
+      "employee",
+      "training",
+      "schedule",
+      "practical",
+      "responsibility",
+      "manager",
+      "feedback",
+      "support",
+      "efficiently"
+    ],
+    "targetPhrases": [
+      "look after",
+      "take care of"
+    ],
+    "coveredWords": [
+      "approach",
+      "customer",
+      "efficiently",
+      "employee",
+      "feedback",
+      "manager",
+      "practical",
+      "responsibility",
+      "responsible",
+      "schedule",
+      "support",
+      "training"
+    ],
+    "questions": [
+      {
+        "id": "ar002q1",
+        "type": "detail",
+        "prompt": "What does Leo believe about responsibility?",
+        "choices": [
+          "It does not mean doing every task alone",
+          "It means ignoring feedback",
+          "It means doing every task alone",
+          "It means avoiding practical questions"
+        ],
+        "answer": "It does not mean doing every task alone",
+        "choiceTranslations": [
+          "不代表每件事都要獨自完成",
+          "代表忽略回饋",
+          "代表每件事都要獨自完成",
+          "代表迴避實際問題"
+        ],
+        "choiceExplanations": [
+          "原文明確指出：He believes that responsibility does not mean doing every task alone.",
+          "原文並未支持「代表忽略回饋」；請比較下方的答案依據。",
+          "原文並未支持「代表每件事都要獨自完成」；請比較下方的答案依據。",
+          "原文並未支持「代表迴避實際問題」；請比較下方的答案依據。"
+        ],
+        "evidence": "He believes that responsibility does not mean doing every task alone.",
+        "explanation": "原文明確指出：He believes that responsibility does not mean doing every task alone."
+      }
+    ]
+  }
 ]

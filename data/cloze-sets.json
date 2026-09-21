@@ -1,4 +1,219 @@
 [
-  {"id":"cz001","sourceId":"ar001","title":"A Calm Start to an International Trip","topic":"Travel","level":1,"passage":"Mina checked her itinerary before leaving for the airport. Her luggage was light, and her passport was in a safe pocket. At the departure hall, an employee helped her confirm the destination and boarding time.","targetWords":["itinerary","airport","luggage","passport","departure","employee","destination"],"targetPhrases":[],"coveredWords":["airport","departure","destination","employee","itinerary","luggage","passport"],"questions":[{"id":"cz001q1","type":"word","prompt":"Mina checked her _____ before leaving, so she knew the plan for her trip.","choices":["itinerary","employee","luggage","destination"],"answer":"itinerary"},{"id":"cz001q2","type":"context","prompt":"Her _____ was light enough to carry easily.","choices":["departure","luggage","passport","airport"],"answer":"luggage"},{"id":"cz001q3","type":"grammar","prompt":"An employee _____ Mina confirm the boarding time.","choices":["help","helped","helping","helps to"],"answer":"helped"}]},
-  {"id":"cz002","sourceId":"ar002","title":"Responsibility at a Busy Office","topic":"Business","level":2,"passage":"When a new employee joins the office, Leo looks after the training schedule and takes care of practical questions. A good manager listens to feedback and gives people support.","targetWords":["employee","training","schedule","practical","manager","feedback","support"],"targetPhrases":["look after","take care of"],"coveredWords":["employee","feedback","manager","practical","schedule","support","training"],"questions":[{"id":"cz002q1","type":"phrase","prompt":"Leo _____ the training schedule for each new employee.","choices":["looks after","looks for","looks at","looks into"],"answer":"looks after"},{"id":"cz002q2","type":"phrase","prompt":"Leo _____ practical questions from the new team member.","choices":["takes care of","takes off","takes after","takes over"],"answer":"takes care of"},{"id":"cz002q3","type":"context","prompt":"A good manager listens to _____ from the team.","choices":["feedback","departure","luggage","passenger"],"answer":"feedback"}]}
+  {
+    "id": "cz001",
+    "sourceId": "ar001",
+    "title": "A Calm Start to an International Trip",
+    "topic": "Travel",
+    "level": 1,
+    "passage": "Mina checked her itinerary before leaving for the airport. Her luggage was light, and her passport was in a safe pocket. At the departure hall, an employee helped her confirm the destination and boarding time.",
+    "targetWords": [
+      "itinerary",
+      "airport",
+      "luggage",
+      "passport",
+      "departure",
+      "employee",
+      "destination"
+    ],
+    "targetPhrases": [],
+    "coveredWords": [
+      "airport",
+      "departure",
+      "destination",
+      "employee",
+      "itinerary",
+      "luggage",
+      "passport"
+    ],
+    "questions": [
+      {
+        "id": "cz001q1",
+        "type": "word",
+        "prompt": "Mina checked her _____ before leaving, so she knew the plan for her trip.",
+        "choices": [
+          "itinerary",
+          "employee",
+          "luggage",
+          "destination"
+        ],
+        "answer": "itinerary",
+        "choiceTranslations": [
+          "行程表",
+          "員工",
+          "行李",
+          "目的地"
+        ],
+        "choiceExplanations": [
+          "行程表列出旅行計畫，對應 knew the plan。",
+          "員工指人，不是旅行計畫。",
+          "行李是攜帶的物品，不是行程安排。",
+          "目的地只指出要去哪裡，不代表整份旅行計畫。"
+        ],
+        "evidence": "Mina checked her itinerary before leaving for the airport.",
+        "explanation": "行程表列出旅行計畫，對應 knew the plan。"
+      },
+      {
+        "id": "cz001q2",
+        "type": "context",
+        "prompt": "Her _____ was light enough to carry easily.",
+        "choices": [
+          "departure",
+          "luggage",
+          "passport",
+          "airport"
+        ],
+        "answer": "luggage",
+        "choiceTranslations": [
+          "出發",
+          "行李",
+          "護照",
+          "機場"
+        ],
+        "choiceExplanations": [
+          "出發是事件，這裡描述能攜帶的物品。",
+          "原文指出行李很輕，因此可輕鬆攜帶。",
+          "護照也可攜帶，但原文說 light 的是 luggage。",
+          "機場是地點，不能攜帶。"
+        ],
+        "evidence": "Her luggage was light, and her passport was in a safe pocket.",
+        "explanation": "原文指出行李很輕，因此可輕鬆攜帶。"
+      },
+      {
+        "id": "cz001q3",
+        "type": "grammar",
+        "prompt": "An employee _____ Mina confirm the boarding time.",
+        "choices": [
+          "help",
+          "helped",
+          "helping",
+          "helps to"
+        ],
+        "answer": "helped",
+        "choiceTranslations": [
+          "幫助（原形）",
+          "幫助（過去式）",
+          "幫助（現在分詞）",
+          "幫忙去……"
+        ],
+        "choiceExplanations": [
+          "過去事件需使用過去式；主詞 employee 為單數也不搭配現在式 help。",
+          "敘事使用過去式，且 help someone do something 可接原形 confirm。",
+          "沒有助動詞，helping 不能單獨充當這句的限定動詞。",
+          "helps to 後面不能直接接 Mina confirm；此處也需要過去式。"
+        ],
+        "evidence": "At the departure hall, an employee helped her confirm the destination and boarding time.",
+        "explanation": "敘事使用過去式，且 help someone do something 可接原形 confirm。"
+      }
+    ]
+  },
+  {
+    "id": "cz002",
+    "sourceId": "ar002",
+    "title": "Responsibility at a Busy Office",
+    "topic": "Business",
+    "level": 2,
+    "passage": "When a new employee joins the office, Leo looks after the training schedule and takes care of practical questions. A good manager listens to feedback and gives people support.",
+    "targetWords": [
+      "employee",
+      "training",
+      "schedule",
+      "practical",
+      "manager",
+      "feedback",
+      "support"
+    ],
+    "targetPhrases": [
+      "look after",
+      "take care of"
+    ],
+    "coveredWords": [
+      "employee",
+      "feedback",
+      "manager",
+      "practical",
+      "schedule",
+      "support",
+      "training"
+    ],
+    "questions": [
+      {
+        "id": "cz002q1",
+        "type": "phrase",
+        "prompt": "Leo _____ the training schedule for each new employee.",
+        "choices": [
+          "looks after",
+          "looks for",
+          "looks at",
+          "looks into"
+        ],
+        "answer": "looks after",
+        "choiceTranslations": [
+          "照料；負責",
+          "尋找",
+          "看著",
+          "調查"
+        ],
+        "choiceExplanations": [
+          "照料訓練安排，對應原文 looks after。",
+          "不是找不到時程而去尋找。",
+          "只是看著，沒有表達負責管理。",
+          "調查通常是探究問題，原文不是調查訓練時程。"
+        ],
+        "evidence": "When a new employee joins the office, Leo looks after the training schedule and takes care of practical questions.",
+        "explanation": "照料訓練安排，對應原文 looks after。"
+      },
+      {
+        "id": "cz002q2",
+        "type": "phrase",
+        "prompt": "Leo _____ practical questions from the new team member.",
+        "choices": [
+          "takes care of",
+          "takes off",
+          "takes after",
+          "takes over"
+        ],
+        "answer": "takes care of",
+        "choiceTranslations": [
+          "處理；照顧",
+          "脫下；起飛",
+          "像（某位家人）",
+          "接管"
+        ],
+        "choiceExplanations": [
+          "此處是處理新同事的實際問題。",
+          "脫下或起飛不符合處理問題的意思。",
+          "表示與家人相似，不能表達處理問題。",
+          "接管工作或職務，不是本文使用的處理問題搭配。"
+        ],
+        "evidence": "When a new employee joins the office, Leo looks after the training schedule and takes care of practical questions.",
+        "explanation": "此處是處理新同事的實際問題。"
+      },
+      {
+        "id": "cz002q3",
+        "type": "context",
+        "prompt": "A good manager listens to _____ from the team.",
+        "choices": [
+          "feedback",
+          "departure",
+          "luggage",
+          "passenger"
+        ],
+        "answer": "feedback",
+        "choiceTranslations": [
+          "回饋意見",
+          "出發",
+          "行李",
+          "乘客"
+        ],
+        "choiceExplanations": [
+          "主管聆聽團隊的回饋意見。",
+          "出發不是此處聆聽的內容。",
+          "行李是物品，不是意見。",
+          "passenger 指乘客；本文談的是團隊回饋，並非乘客。"
+        ],
+        "evidence": "A good manager listens to feedback and gives people support.",
+        "explanation": "主管聆聽團隊的回饋意見。"
+      }
+    ]
+  }
 ]

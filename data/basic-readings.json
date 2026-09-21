@@ -1,5 +1,235 @@
 [
-  {"id":"br001","title":"A Sunny Day at the Park","topic":"公園與天氣","level":1,"passage":"It is a sunny day. Amy and Ben go to the park. They see a green tree and a red bird. They are happy.","targetWords":["sunny","park","green","tree","red","bird","happy"],"coveredWords":["a","and","are","bird","day","go","green","happy","it","park","red","see","sunny","the","they","to","tree"]},
-  {"id":"br002","title":"Breakfast for My Family","topic":"家庭與食物","level":2,"passage":"My family eats breakfast in the kitchen. Dad has an egg and some toast. Mom drinks tea. My sister and I share an apple. We put the dishes on the table when we finish.","targetWords":["family","breakfast","kitchen","egg","toast","tea","sister","apple","table"],"coveredWords":["an","and","apple","breakfast","dad","dish","drink","eat","egg","family","finish","have","I","in","kitchen","mom","my","on","put","share","sister","some","table","tea","the","toast","we","when"]},
-  {"id":"br003","title":"The Little Dog Goes to School","topic":"動物與學校","level":3,"passage":"Milo is a little dog who lives near a school. Every morning, he watches the children carry their books and bags. One rainy day, a boy drops his blue notebook by the gate. Milo picks it up and waits there. After class, the boy finds Milo with the notebook. He smiles and says, “Thank you, my good friend!”","targetWords":["dog","school","morning","children","books","bags","rainy","boy","blue","notebook","class","friend"],"coveredWords":["a","after","and","bag","blue","book","boy","by","carry","child","class","day","dog","drop","every","find","friend","gate","good","he","his","it","little","live","morning","near","notebook","one","pick","rainy","say","school","smile","thank","the","their","there","up","wait","watch","who","with","you"]}
+  {
+    "id": "br001",
+    "title": "A Sunny Day at the Park",
+    "topic": "公園與天氣",
+    "level": 1,
+    "passage": "It is a sunny day. Amy and Ben go to the park. They see a green tree and a red bird. They are happy.",
+    "targetWords": [
+      "sunny",
+      "park",
+      "green",
+      "tree",
+      "red",
+      "bird",
+      "happy"
+    ],
+    "coveredWords": [
+      "a",
+      "and",
+      "are",
+      "bird",
+      "day",
+      "go",
+      "green",
+      "happy",
+      "it",
+      "park",
+      "red",
+      "see",
+      "sunny",
+      "the",
+      "they",
+      "to",
+      "tree"
+    ],
+    "questions": [
+      {
+        "id": "br001q1",
+        "type": "detail",
+        "prompt": "Where do Amy and Ben go?",
+        "choices": [
+          "To the park",
+          "To school",
+          "To a store",
+          "To the kitchen"
+        ],
+        "answer": "To the park",
+        "choiceTranslations": [
+          "去公園",
+          "去學校",
+          "去商店",
+          "去廚房"
+        ],
+        "choiceExplanations": [
+          "原文明確指出：Amy and Ben go to the park.",
+          "原文並未支持「去學校」；請比較下方的答案依據。",
+          "原文並未支持「去商店」；請比較下方的答案依據。",
+          "原文並未支持「去廚房」；請比較下方的答案依據。"
+        ],
+        "evidence": "Amy and Ben go to the park.",
+        "explanation": "原文明確指出：Amy and Ben go to the park."
+      }
+    ]
+  },
+  {
+    "id": "br002",
+    "title": "Breakfast for My Family",
+    "topic": "家庭與食物",
+    "level": 2,
+    "passage": "My family eats breakfast in the kitchen. Dad has an egg and some toast. Mom drinks tea. My sister and I share an apple. We put the dishes on the table when we finish.",
+    "targetWords": [
+      "family",
+      "breakfast",
+      "kitchen",
+      "egg",
+      "toast",
+      "tea",
+      "sister",
+      "apple",
+      "table"
+    ],
+    "coveredWords": [
+      "an",
+      "and",
+      "apple",
+      "breakfast",
+      "dad",
+      "dish",
+      "drink",
+      "eat",
+      "egg",
+      "family",
+      "finish",
+      "have",
+      "I",
+      "in",
+      "kitchen",
+      "mom",
+      "my",
+      "on",
+      "put",
+      "share",
+      "sister",
+      "some",
+      "table",
+      "tea",
+      "the",
+      "toast",
+      "we",
+      "when"
+    ],
+    "questions": [
+      {
+        "id": "br002q1",
+        "type": "detail",
+        "prompt": "What do the children share?",
+        "choices": [
+          "An apple",
+          "An egg",
+          "Some tea",
+          "Some toast"
+        ],
+        "answer": "An apple",
+        "choiceTranslations": [
+          "一顆蘋果",
+          "一顆蛋",
+          "一些茶",
+          "一些吐司"
+        ],
+        "choiceExplanations": [
+          "原文明確指出：My sister and I share an apple.",
+          "原文並未支持「一顆蛋」；請比較下方的答案依據。",
+          "原文並未支持「一些茶」；請比較下方的答案依據。",
+          "原文並未支持「一些吐司」；請比較下方的答案依據。"
+        ],
+        "evidence": "My sister and I share an apple.",
+        "explanation": "原文明確指出：My sister and I share an apple."
+      }
+    ]
+  },
+  {
+    "id": "br003",
+    "title": "The Little Dog Goes to School",
+    "topic": "動物與學校",
+    "level": 3,
+    "passage": "Milo is a little dog who lives near a school. Every morning, he watches the children carry their books and bags. One rainy day, a boy drops his blue notebook by the gate. Milo picks it up and waits there. After class, the boy finds Milo with the notebook. He smiles and says, “Thank you, my good friend!”",
+    "targetWords": [
+      "dog",
+      "school",
+      "morning",
+      "children",
+      "books",
+      "bags",
+      "rainy",
+      "boy",
+      "blue",
+      "notebook",
+      "class",
+      "friend"
+    ],
+    "coveredWords": [
+      "a",
+      "after",
+      "and",
+      "bag",
+      "blue",
+      "book",
+      "boy",
+      "by",
+      "carry",
+      "child",
+      "class",
+      "day",
+      "dog",
+      "drop",
+      "every",
+      "find",
+      "friend",
+      "gate",
+      "good",
+      "he",
+      "his",
+      "it",
+      "little",
+      "live",
+      "morning",
+      "near",
+      "notebook",
+      "one",
+      "pick",
+      "rainy",
+      "say",
+      "school",
+      "smile",
+      "thank",
+      "the",
+      "their",
+      "there",
+      "up",
+      "wait",
+      "watch",
+      "who",
+      "with",
+      "you"
+    ],
+    "questions": [
+      {
+        "id": "br003q1",
+        "type": "detail",
+        "prompt": "What does Milo pick up?",
+        "choices": [
+          "A blue notebook",
+          "A red bag",
+          "An apple",
+          "A pencil"
+        ],
+        "answer": "A blue notebook",
+        "choiceTranslations": [
+          "一本藍色筆記本",
+          "一個紅色書包",
+          "一顆蘋果",
+          "一支鉛筆"
+        ],
+        "choiceExplanations": [
+          "原文明確指出：One rainy day, a boy drops his blue notebook by the gate. Milo picks it up and waits there.",
+          "原文並未支持「一個紅色書包」；請比較下方的答案依據。",
+          "原文並未支持「一顆蘋果」；請比較下方的答案依據。",
+          "原文並未支持「一支鉛筆」；請比較下方的答案依據。"
+        ],
+        "evidence": "One rainy day, a boy drops his blue notebook by the gate. Milo picks it up and waits there.",
+        "explanation": "原文明確指出：One rainy day, a boy drops his blue notebook by the gate. Milo picks it up and waits there."
+      }
+    ]
+  }
 ]

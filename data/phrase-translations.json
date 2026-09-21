@@ -1,0 +1,3232 @@
+[
+  {
+    "unit": 1,
+    "number": 1,
+    "phrase": "to get in / to get on",
+    "meaningZh": "上公車(船，飛機)",
+    "page": 1,
+    "column": 1,
+    "order": 1,
+    "evidenceText": "1. to get in / to get on上公車(船，飛機) (to board) I always get on the bus at 34th Street. William gets on the subway at the same station every morning. ※ (1) to get in = to enter ↔ to get out of to get on = to rise / to board ↔ to get off (2) 不可分雙字動詞"
+  },
+  {
+    "unit": 1,
+    "number": 2,
+    "phrase": "to get out of / get off",
+    "meaningZh": "下車(船，飛機)",
+    "page": 1,
+    "column": 1,
+    "order": 2,
+    "evidenceText": "2. to get out of / get off 下車(船，飛機) (to leave; to descend from) Why don't we stop and get out of the car for a while? Helen got off the bus at 42nd Street terminal. At what station do you usually get off the subway? ※ to get out of = leave to get off = to descend from = to leave"
+  },
+  {
+    "unit": 1,
+    "number": 3,
+    "phrase": "to put on",
+    "meaningZh": "穿，戴(衣帽等)",
+    "page": 1,
+    "column": 1,
+    "order": 3,
+    "evidenceText": "3. to put on 穿，戴(衣帽等) (to have on) Mary put on her hat and left the room. Why is John putting on his hat and coat? ※ (1) to put on = to have on put on 表一時的動作，故不可 用：all day, for two hours 等表持 續時間的副詞來修飾。而 wear 或 be dressed in 則表「穿著的狀 態」，是持續性的。 ar (2) 近義詞 wear / be dressed in / dress of oneself in (3) 可分雙字動詞"
+  },
+  {
+    "unit": 1,
+    "number": 4,
+    "phrase": "to take off",
+    "meaningZh": "脫去(衣帽)",
+    "page": 1,
+    "column": 2,
+    "order": 4,
+    "evidenceText": "4. to take off 脫去(衣帽)(to remove) 6. John took off his hat as he entered the room. Is Helen taking off her coat because it is too or warm in the room? w ※ (1) to take off = to remove(2) 可分雙 l. 字動詞 co (3)「起飛」為 vi The plane took off at eight o'clock. 7."
+  },
+  {
+    "unit": 1,
+    "number": 5,
+    "phrase": "to call up",
+    "meaningZh": "打電話",
+    "page": 1,
+    "column": 2,
+    "order": 5,
+    "evidenceText": "5. to call up 打電話(to telephone) I forgot to call up Mr. Jones yesterday n) no although I promised to call him up exactly 1 at three o'clock. Call me up tomorrow, Jane. We'll arrange a time to have lunch together. Did anyone call me up while I was out? I promise to give you a call as soon as I arrive in New York. ※ call sb. up = call sb. = make a call to sb. = phone sb. = give sb. a call = ring sb. up = give sb. a ring"
+  },
+  {
+    "unit": 1,
+    "number": 6,
+    "phrase": "to turn on",
+    "meaningZh": "打開電源",
+    "page": 1,
+    "column": 3,
+    "order": 6,
+    "evidenceText": "6. to turn on 打開電源(to start, begin) Please turn on the light. This room is dark. Someone turned on the radiator in this room while we were out. Do you know who turned the air conditioning on? ※ to turn on = to switch on"
+  },
+  {
+    "unit": 1,
+    "number": 7,
+    "phrase": "to turn off",
+    "meaningZh": "關閉電源",
+    "page": 1,
+    "column": 3,
+    "order": 7,
+    "evidenceText": "7. to turn off 關閉電源(to extinguish) Please turn off the light. We do not need it now. Shall I turn off the radio or are you still listening to it? ※ to turn off = to switch off = to shut off"
+  },
+  {
+    "unit": 1,
+    "number": 8,
+    "phrase": "right away = at once",
+    "meaningZh": "立刻",
+    "page": 2,
+    "column": 1,
+    "order": 8,
+    "evidenceText": "8. right away = at once 立刻 (immediately, at once, very soon, in no time) Dad says that dinner will be ready right away, so we'd better wash our hands and set the table. Tell Will to come to my office right away. I must see him immediately. Stop playing that loud music at once! She says that dinner will be ready right away. Can William come to my office right away? She says that dinner will be ready at once. Can William come to my office at once? ※ right away = at once = immediately = in no time"
+  },
+  {
+    "unit": 1,
+    "number": 9,
+    "phrase": "to pick up",
+    "meaningZh": "拾起，購員，搭載某人(搭便",
+    "page": 2,
+    "column": 1,
+    "order": 9,
+    "evidenceText": "9. to pick up 拾起，購員，搭載某人(搭便 車) John picked up the newspaper on his desk. Why didn't you pick up that pencil which lay on the floor? He stopped the car to pick up a young girl."
+  },
+  {
+    "unit": 1,
+    "number": 10,
+    "phrase": "to get up",
+    "meaningZh": "起床",
+    "page": 2,
+    "column": 2,
+    "order": 10,
+    "evidenceText": "10. to get up 起床 I get up at seven o'clock every morning. 2. What time does your brother usually get up? ※ (1) 可分雙字動詞 (2) 亦可解為「讓人搭便車」 He stopped the car to pick up a young girl. 3."
+  },
+  {
+    "unit": 1,
+    "number": 11,
+    "phrase": "to take exercise",
+    "meaningZh": "做運動",
+    "page": 2,
+    "column": 2,
+    "order": 11,
+    "evidenceText": "11. to take exercise 做運動 I The teacher asks us to take exercise every day. sw Taking exercise is good for health. 12. to stop … from 使 ~ 不能；阻止 ~ 使 ? 免於 () 4. He closed the door to stop me from entering. My sister stopped me from telling the truth. w n ※ to stop … from = to keep … from = to prevent … from tim 便"
+  },
+  {
+    "unit": 2,
+    "number": 1,
+    "phrase": "to wait for",
+    "meaningZh": "等待 5.",
+    "page": 2,
+    "column": 2,
+    "order": 12,
+    "evidenceText": "1. to wait for 等待 5. ch We waited for him for more than an hour and an finally left. . sta 2 Honors and wealth awaited him. ※ to wait for = to await"
+  },
+  {
+    "unit": 2,
+    "number": 2,
+    "phrase": "at last",
+    "meaningZh": "最後，終於",
+    "page": 2,
+    "column": 3,
+    "order": 13,
+    "evidenceText": "2. at last 最後，終於 We waited and waited; at last John arrived. Has he finished that work at last? ※ at last = at length = in the end = eventually = finally = in the long run"
+  },
+  {
+    "unit": 2,
+    "number": 3,
+    "phrase": "as usual",
+    "meaningZh": "照常，仍然",
+    "page": 2,
+    "column": 3,
+    "order": 14,
+    "evidenceText": "3. as usual 照常，仍然 Henry is late for class again as usual. As usual Helen won the first prize in the swimming contest. ※ as usual = as always = in the usual way = in the customary manner = as is the general case = as is typical"
+  },
+  {
+    "unit": 2,
+    "number": 4,
+    "phrase": "to find out",
+    "meaningZh": "了解，發現",
+    "page": 2,
+    "column": 3,
+    "order": 15,
+    "evidenceText": "4. to find out 了解，發現 I was unable to find out the name of the man who called. Will you please try to find out for me what time that train arrives? ※ (1) find out = discover = detect (2) 可分雙字動詞"
+  },
+  {
+    "unit": 2,
+    "number": 5,
+    "phrase": "to look at",
+    "meaningZh": "望著，注視",
+    "page": 2,
+    "column": 3,
+    "order": 16,
+    "evidenceText": "5. to look at 望著，注視 The teacher told us to look at the blackboard and not at our books. I like to walk in the park and look at the stars at night. ※ (1) look at = watch = have a look at = take a look at (2) 「看」：see 看 watch 注意看 stare 注 視 gaze 注視"
+  },
+  {
+    "unit": 2,
+    "number": 6,
+    "phrase": "to look for",
+    "meaningZh": "尋找，期盼",
+    "page": 3,
+    "column": 1,
+    "order": 17,
+    "evidenceText": "6. to look for 尋找，期盼 What are you looking you? I am sure he's looking for trouble. 我想他 是在自找麻煩。 ※ look for = seek = search for = try to find"
+  },
+  {
+    "unit": 2,
+    "number": 7,
+    "phrase": "all right",
+    "meaningZh": "沒關係，可以",
+    "page": 3,
+    "column": 1,
+    "order": 18,
+    "evidenceText": "7. all right 沒關係，可以 (This idiom can also be spelled alright in informal usage.) He said that it would be all right to wait in this office for him. Will it be all right with you if I give you that money tomorrow instead of today? ※ all right = fine = okay = yes = acceptable"
+  },
+  {
+    "unit": 2,
+    "number": 8,
+    "phrase": "little by little",
+    "meaningZh": "漸漸地，慢慢地",
+    "page": 3,
+    "column": 1,
+    "order": 19,
+    "evidenceText": "8. little by little 漸漸地，慢慢地 (gradually, slowly) If you study regularly each day, little by ke little your English vocabulary will increase. His health seems to be improving little by 注 little. 10 ※ little by little = gradually = step by step = bit by bit = foot by foot = stage by stage = by degrees = slowly = progressively ho d"
+  },
+  {
+    "unit": 2,
+    "number": 9,
+    "phrase": "to be tired out",
+    "meaningZh": "非常疲倦",
+    "page": 3,
+    "column": 2,
+    "order": 20,
+    "evidenceText": "9. to be tired out 非常疲倦 to to tire out I have worked very hard today, so I feel vi tired out. He was tired out from running. la The hot weather tired out the runners in the 11 marathon. ※ (1) be / get tired of 感到厭煩 He grew tired of his quiet life. (2) tire out = wear out = be exhausted = be extremely tired Does studying for final exams 3 wear you out? It makes me feel worn out!"
+  },
+  {
+    "unit": 2,
+    "number": 10,
+    "phrase": "to call on",
+    "meaningZh": "拜訪某人",
+    "page": 3,
+    "column": 3,
+    "order": 21,
+    "evidenceText": "10. to call on 拜訪某人 I called on Mr. Jones yesterday. Last night several friends called on us at our home. to call on = to visit = to drop in on = make a visit to sb. Why don't we drop in on Sally a little later?"
+  },
+  {
+    "unit": 2,
+    "number": 11,
+    "phrase": "never mind",
+    "meaningZh": "沒關係，不要緊",
+    "page": 3,
+    "column": 3,
+    "order": 22,
+    "evidenceText": "11. never mind 沒關係，不要緊 A: I lost my watch. B: Never mind; I'll buy you a new one. When he spilled his drink on my coat, I said, “Never mind. It needs to be cleaned anyway.” never mind sth. = don't worry sth. 別擔心 某事 Never mind the expense. 別擔心費用問題"
+  },
+  {
+    "unit": 2,
+    "number": 12,
+    "phrase": "at first",
+    "meaningZh": "起先",
+    "page": 4,
+    "column": 1,
+    "order": 23,
+    "evidenceText": "12. at first 起先 At first English was difficult for him, but later he made great progress. I thought at first that it was Sheila calling, but then I realized that it was Betty. At first, people had only one name. We don't know how man made words at first. ※ at first = in the beginning = originally"
+  },
+  {
+    "unit": 2,
+    "number": 13,
+    "phrase": "to come to an end",
+    "meaningZh": "結束",
+    "page": 4,
+    "column": 1,
+    "order": 24,
+    "evidenceText": "13. to come to an end 結束 The meeting came to an end at 3. The picnic didn't come to an end until afternoon. ※ come to an end = be over"
+  },
+  {
+    "unit": 2,
+    "number": 14,
+    "phrase": "to arrive at",
+    "meaningZh": "到達",
+    "page": 4,
+    "column": 1,
+    "order": 25,
+    "evidenceText": "14. to arrive at 到達 When will your father arrive at our school? Finally, they arrived at the top of Mt. Ali. ※ arrive at = reach = get to ※ arrive at +小地方 / arrive in + 大地 方"
+  },
+  {
+    "unit": 2,
+    "number": 15,
+    "phrase": "to turn out",
+    "meaningZh": "結果變成",
+    "page": 4,
+    "column": 1,
+    "order": 26,
+    "evidenceText": "15. to turn out 結果變成 Although it looked like rain this morning, it has turned out to be a fine day. 3. Helen has turned out to be the best student in our English class. ot ※ turn out = result"
+  },
+  {
+    "unit": 3,
+    "number": 1,
+    "phrase": "to pick out",
+    "meaningZh": "挑選",
+    "page": 4,
+    "column": 2,
+    "order": 27,
+    "evidenceText": "1. to pick out 挑選 no I want to pick out some ties to give as Christmas presents to my friends. bu Which book did you pick out to give to at Helen? co ※ pick out = choose = select 4."
+  },
+  {
+    "unit": 3,
+    "number": 2,
+    "phrase": "to take one's time",
+    "meaningZh": "不急，慢慢來",
+    "page": 4,
+    "column": 2,
+    "order": 28,
+    "evidenceText": "2. to take one's time 不急，慢慢來 (to do without rush, not to hurry) (This idiom is often used in the imperative re form.) There is no hurry. You can take your time an doing that work. William never works rapidly. He always takes his time in everything that he does. ※ take one's time (in) + V-ing 從容做 ~ 4 We took our time leaving the theater."
+  },
+  {
+    "unit": 3,
+    "number": 3,
+    "phrase": "to talk over",
+    "meaningZh": "討論，商量",
+    "page": 4,
+    "column": 3,
+    "order": 29,
+    "evidenceText": "3. to talk over 討論，商量 (to discuss or consider a situation with others) We talked over Mr. Reese's plan but could not come to a decision. With whom did you talk over your plan to buy a new car? ※ talk over = discuss = consult = consider counsel = consider"
+  },
+  {
+    "unit": 3,
+    "number": 4,
+    "phrase": "to lie down",
+    "meaningZh": "躺下",
+    "page": 4,
+    "column": 3,
+    "order": 30,
+    "evidenceText": "4. to lie down 躺下 (to place oneself in a flat position, to recline) If you are tired, why don't you lie down for an hour or so? The doctor says that Grace must lie down and rest for an hour every afternoon. ※ (1) lie down = recline (2) lie – lay – lain (vi) 躺，位於 lay – laid – laid (vt.) 放置，下蛋 lie – lied – lied (vi.) 說謊 Don't lie in bed all day long. He laid his hand on my shoulder. Tom lied to his mother last night."
+  },
+  {
+    "unit": 3,
+    "number": 5,
+    "phrase": "to take care of",
+    "meaningZh": "照顧",
+    "page": 5,
+    "column": 1,
+    "order": 31,
+    "evidenceText": "5. to take care of 照顧 Who will take care of your dog while you are away on your vacation? The doctor says that she should take better care of herself. ※ take care of = look after = take charge of = be in charge of = keep an eye on"
+  },
+  {
+    "unit": 3,
+    "number": 6,
+    "phrase": "to ask for advice",
+    "meaningZh": "請求忠告",
+    "page": 5,
+    "column": 1,
+    "order": 32,
+    "evidenceText": "6. to ask for advice 請求忠告 Students usually ask their teachers for advice. Whenever I have trouble, I always ask my friends for advice."
+  },
+  {
+    "unit": 3,
+    "number": 7,
+    "phrase": "all day long",
+    "meaningZh": "整天，全日",
+    "page": 5,
+    "column": 2,
+    "order": 33,
+    "evidenceText": "7. all day long 整天，全日 do (the entire day) I have been working on this problem all day pu long. She shopped all day long looking for a new pu dress. in ※ (1) all day long = all day = all the day = the whole day ac 10 (2) all week / month / year long 展"
+  },
+  {
+    "unit": 3,
+    "number": 8,
+    "phrase": "by oneself",
+    "meaningZh": "靠自己，獨立",
+    "page": 5,
+    "column": 2,
+    "order": 34,
+    "evidenceText": "8. by oneself 靠自己，獨立 (alone without assistance) or John did the work by himself. No one helped him. She likes to walk by herself through the of park or ※ by oneself = alone = on one's own"
+  },
+  {
+    "unit": 3,
+    "number": 9,
+    "phrase": "on purpose",
+    "meaningZh": "故意，蓄意",
+    "page": 5,
+    "column": 2,
+    "order": 35,
+    "evidenceText": "9. on purpose 故意，蓄意 (for a reason, deliberately stu (This idiom is usually used when someone 11 5 does something wrong or unfair.) It was no accident. She broke the dish on purpose. Do you think he made that mistake on purpose? ※ (1) on purpose = purposefully = intentionally = deliberately (2) on purpose ↔ accidentally = by accident"
+  },
+  {
+    "unit": 3,
+    "number": 10,
+    "phrase": "to get alone (with) (1)",
+    "meaningZh": "相處融恰 (2) 進",
+    "page": 5,
+    "column": 3,
+    "order": 36,
+    "evidenceText": "10. to get alone (with) (1) 相處融恰 (2) 進 展順利 (to associate or work well with; to succeed or manage in doing ) He gets along well with his parents. John is getting along very well in his study of English ※ get alone with = get on with How are you getting on with your studies?"
+  },
+  {
+    "unit": 3,
+    "number": 11,
+    "phrase": "to make no difference",
+    "meaningZh": "沒關係，沒什麼",
+    "page": 5,
+    "column": 3,
+    "order": 37,
+    "evidenceText": "11. to make no difference 沒關係，沒什麼 區別 When I asked him whether he wanted to go in the morning or in the afternoon, he said, \"It doesn't make any difference to me.\" Does it make any difference to you whether we have our lesson at two o'clock or at three o'clock? ※ (1) make no difference + to-v (2) make little difference make some difference make any difference Does it make any difference to you where we go for dinner? make not much difference make a great deal of difference It makes a big difference to me whether he likes the food I serve."
+  },
+  {
+    "unit": 3,
+    "number": 12,
+    "phrase": "to take out",
+    "meaningZh": "取出，拔出；約某人外出",
+    "page": 6,
+    "column": 1,
+    "order": 38,
+    "evidenceText": "12. to take out 取出，拔出；約某人外出 (to remove, to extract; to go on a date with) em o William took out his handkerchief and , wiped his forehead. al The thief suddenly took out a knife and er attacked the policeman. sh Did you take Sue out last night? ※ (1) to take out = to remove = to extract (2) take out of + 地方 從某處拿出 He took a book out of his school bag."
+  },
+  {
+    "unit": 4,
+    "number": 1,
+    "phrase": "to take part in",
+    "meaningZh": "參與",
+    "page": 6,
+    "column": 2,
+    "order": 39,
+    "evidenceText": "1. to take part in 參與 (to be involved in, to participate in) Henry was sick and could not take part in the meeting last night. I did not want to take part in their argument. 3. ※ take part in = participate in = to be in on I didn't want to be in on their argument, so I remained silent."
+  },
+  {
+    "unit": 4,
+    "number": 2,
+    "phrase": "at all",
+    "meaningZh": "絲毫，極少",
+    "page": 6,
+    "column": 2,
+    "order": 40,
+    "evidenceText": "2. at all 絲毫，極少 (to any degree) 仰 出 (This idiom is used with the negative to add 6 emphasis to a statement.) He said that he did not have any money at all. When I asked her whether she was tired, she said, \"Not at all!\" ※ not at all = by no means = far from = not in the least = anything but She is not beautiful at all. = She is not beautiful in the least. = She is by no means beautiful. = She is anything but beautiful. = She is far from beautiful. When I asked Donna whether she was tired, she said, “Not in the least. I'm full of energy.”"
+  },
+  {
+    "unit": 4,
+    "number": 3,
+    "phrase": "to look up",
+    "meaningZh": "查出",
+    "page": 6,
+    "column": 3,
+    "order": 41,
+    "evidenceText": "3. to look up 查出 (if you look up information in a book, on a computer etc, you try to find a particular bit of information there) Look up the word in the dictionary. I'll just look up the train times. ※ look up to sb. = admire or respect sb. 景 仰某人 I've always looked up to Bill for his courage and determination."
+  },
+  {
+    "unit": 4,
+    "number": 4,
+    "phrase": "to wait on",
+    "meaningZh": "侍候，招待",
+    "page": 7,
+    "column": 1,
+    "order": 42,
+    "evidenceText": "4. to wait on 侍候，招待 (to serve in a store or restaurant) A very pleasant young woman waited on me in Macy's yesterday. The clerk asked, \"Have you been waited on yet, Sir?\""
+  },
+  {
+    "unit": 4,
+    "number": 5,
+    "phrase": "at least",
+    "meaningZh": "至少",
+    "page": 7,
+    "column": 1,
+    "order": 43,
+    "evidenceText": "5. at least 至少 (a minimum of, no fewer than) Every student should spend at least two hours on his homework every night. Helen has been sick in bed for at least two months. ※ at least = in the minimum"
+  },
+  {
+    "unit": 4,
+    "number": 6,
+    "phrase": "so far",
+    "meaningZh": "到目前為止",
+    "page": 7,
+    "column": 1,
+    "order": 44,
+    "evidenceText": "6. so far 到目前為止 (until now, until the present time) (This idiom is usually used with the present perfect tense) So far, this year has been excellent for business. I hope that the good luck continues. We haven't had any trouble so far. 到目前 為止我們尚未遇到麻煩 n ※ so far = up to now = as of yet How many idioms have we studied in this book up to now? As of yet, we have not had an answer from him. m"
+  },
+  {
+    "unit": 4,
+    "number": 7,
+    "phrase": "to take a walk",
+    "meaningZh": "散步",
+    "page": 7,
+    "column": 2,
+    "order": 45,
+    "evidenceText": "7. to take a walk 散步 (to go for a walk, stroll) Last evening we took a walk along Broadway. It is a fine day. How would you like to take nt a walk through the park? ※ (1) take a walk = go for a walk 7 (2) take a hike"
+  },
+  {
+    "unit": 4,
+    "number": 9,
+    "phrase": "to try on",
+    "meaningZh": "試穿，試戴",
+    "page": 7,
+    "column": 3,
+    "order": 46,
+    "evidenceText": "9. to try on 試穿，試戴 (to put on a piece of clothing to see if it fits you or if it suits you) She tired the shoes on but they were too small."
+  },
+  {
+    "unit": 4,
+    "number": 10,
+    "phrase": "to think over",
+    "meaningZh": "考慮，思索",
+    "page": 7,
+    "column": 3,
+    "order": 47,
+    "evidenceText": "10. to think over 考慮，思索 (to consider carefully before deciding) I shall think over your offer and give you my answer tomorrow. You don't have to decide this matter at once. You can think it over and give me your decision tomorrow. ※ think over = consider carefully 仔 細考慮 think about 略加思考 The story leaves something for the readers to think about."
+  },
+  {
+    "unit": 4,
+    "number": 11,
+    "phrase": "to take place",
+    "meaningZh": "發生，舉行",
+    "page": 8,
+    "column": 1,
+    "order": 48,
+    "evidenceText": "11. to take place 發生，舉行 (to occur, to happen according to plan) The meeting took place in Constitution Hall. Where did the accident take place? ※ take place = occur = happen = come about"
+  },
+  {
+    "unit": 4,
+    "number": 12,
+    "phrase": "to put away",
+    "meaningZh": "拿開，貯存",
+    "page": 8,
+    "column": 1,
+    "order": 49,
+    "evidenceText": "12. to put away 拿開，貯存 (to remove from sight, to put in the proper place) After John finished reading the report, he put it away in his safe. Please put away your papers before you open the test booklet. ※ put away = set aside"
+  },
+  {
+    "unit": 4,
+    "number": 13,
+    "phrase": "to be full of",
+    "meaningZh": "充滿",
+    "page": 8,
+    "column": 1,
+    "order": 50,
+    "evidenceText": "13. to be full of 充滿 d restaurant is full of people. The freshmen full of life and joy will take part in a lot of activities. ※ be full of = be filled with"
+  },
+  {
+    "unit": 4,
+    "number": 14,
+    "phrase": "to sit down",
+    "meaningZh": "坐下",
+    "page": 8,
+    "column": 2,
+    "order": 51,
+    "evidenceText": "14. to sit down 坐下 After standing for so long, it was a pleasure to sit down and rest. We sat down on the park bench and watched the people as they passed. on 3. ※ sit down = be seated = seat oneself = 為 take a seat"
+  },
+  {
+    "unit": 4,
+    "number": 15,
+    "phrase": "for a while",
+    "meaningZh": "一會而",
+    "page": 8,
+    "column": 2,
+    "order": 52,
+    "evidenceText": "15. for a while 一會而 (for a short time) of Please wait here for a while. Don't keep your guest waiting for a long er while. sa"
+  },
+  {
+    "unit": 5,
+    "number": 1,
+    "phrase": "to shake hands",
+    "meaningZh": "握手",
+    "page": 8,
+    "column": 2,
+    "order": 53,
+    "evidenceText": "1. to shake hands 握手 I introduced them and they shook hands 4. with each other. When two women meet for the first time, they do not usually shake hands. tri"
+  },
+  {
+    "unit": 5,
+    "number": 2,
+    "phrase": "to look out",
+    "meaningZh": "小心，注意",
+    "page": 8,
+    "column": 2,
+    "order": 54,
+    "evidenceText": "2. to look out 小心，注意 “Look out” John cried as his friend ge almost stepped in front of the approaching car. 8 Why did the driver tell Mary to look out as she was getting off the bus? ※ look out = be careful"
+  },
+  {
+    "unit": 5,
+    "number": 3,
+    "phrase": "to think of",
+    "meaningZh": "想念，作 ~ 看法，對 ~ 認",
+    "page": 8,
+    "column": 3,
+    "order": 55,
+    "evidenceText": "3. to think of 想念，作 ~ 看法，對 ~ 認 為 When he was away from home, he thought of his friends and relatives. What did you think of that movie which you saw last night. What do you think of the new teacher? ※ think of = have an opinion about sth."
+  },
+  {
+    "unit": 5,
+    "number": 4,
+    "phrase": "to get back",
+    "meaningZh": "回來",
+    "page": 8,
+    "column": 3,
+    "order": 56,
+    "evidenceText": "4. to get back 回來 Mr. Harris got back from Chicago last night. When do you expect to get back from your trip? ※ get back = return get back from = come back from 從某處回來 get back to = go back to 回到某處"
+  },
+  {
+    "unit": 5,
+    "number": 5,
+    "phrase": "to catch (a) cold",
+    "meaningZh": "感冒",
+    "page": 9,
+    "column": 1,
+    "order": 57,
+    "evidenceText": "5. to catch (a) cold 感冒 If you go out in this rain, you will surely catch cold. How did she ever catch cold in such warm weather?"
+  },
+  {
+    "unit": 5,
+    "number": 6,
+    "phrase": "to make up one's mind",
+    "meaningZh": "下決心，決意",
+    "page": 9,
+    "column": 1,
+    "order": 58,
+    "evidenceText": "6. to make up one's mind 下決心，決意 William has made up his mind not to go to college this year. Have you made up your mind yet as to where you are going to spend your vacation? ※ make up one's mind = decide"
+  },
+  {
+    "unit": 5,
+    "number": 7,
+    "phrase": "to change one's mind",
+    "meaningZh": "改變主意",
+    "page": 9,
+    "column": 1,
+    "order": 59,
+    "evidenceText": "7. to change one's mind 改變主意 I've changed my mind --- I'll have a beer instead. ※ change one's mind = change one's opinion = change one's decision"
+  },
+  {
+    "unit": 5,
+    "number": 8,
+    "phrase": "for the time being",
+    "meaningZh": "目前，暫時",
+    "page": 9,
+    "column": 1,
+    "order": 60,
+    "evidenceText": "8. for the time being 目前，暫時 For the time being Helen is working in the export department. We are living in a hotel for the time being, but later we will try to find a small apartment. ※ for the time being = for the present 12 for the time being ↔ for good"
+  },
+  {
+    "unit": 5,
+    "number": 9,
+    "phrase": "to get over",
+    "meaningZh": "恢復，克復",
+    "page": 9,
+    "column": 2,
+    "order": 61,
+    "evidenceText": "9. to get over 恢復，克復 It took me more than a month to get over to m my cold. 13 I do not think he will ever get over the loss of his wife. ※ get over = recover from ex"
+  },
+  {
+    "unit": 5,
+    "number": 10,
+    "phrase": "to call off",
+    "meaningZh": "取消，宣告終止",
+    "page": 9,
+    "column": 2,
+    "order": 62,
+    "evidenceText": "10. to call off 取消，宣告終止 The game was called off on account of darkness. 14 The doctor had to call off all his go appointments for the day. ※ call off = cancel"
+  },
+  {
+    "unit": 5,
+    "number": 11,
+    "phrase": "for good",
+    "meaningZh": "永久，永遠",
+    "page": 9,
+    "column": 2,
+    "order": 63,
+    "evidenceText": "11. for good 永久，永遠 Ruth has gone back to California for good. 1. She will not return to the East. Has your friend returned to South America for good? , ※ for good = permanently = forever th for good ↔ temporarily = for the time being = for the present 9"
+  },
+  {
+    "unit": 5,
+    "number": 12,
+    "phrase": "in a hurry",
+    "meaningZh": "急忙，慌忙",
+    "page": 9,
+    "column": 3,
+    "order": 64,
+    "evidenceText": "12. in a hurry 急忙，慌忙 John is in a hurry to catch his train. She is the kind of person who always seems to be in a hurry."
+  },
+  {
+    "unit": 5,
+    "number": 13,
+    "phrase": "by the way",
+    "meaningZh": "順便一提",
+    "page": 9,
+    "column": 3,
+    "order": 65,
+    "evidenceText": "13. by the way 順便一提 By the way, have you seen the new picture which is playing at Radio City this week? He told me, by the way, that he never expected to see her again. ※ 比較 by the way 順便一提 on the way 在途中 in the way 礙事"
+  },
+  {
+    "unit": 5,
+    "number": 14,
+    "phrase": "would like to",
+    "meaningZh": "想要",
+    "page": 9,
+    "column": 3,
+    "order": 66,
+    "evidenceText": "14. would like to 想要 I'd like to go skiing with you; I don't like to go alone. Would you like me to call a taxi? ※ would like to = want to"
+  },
+  {
+    "unit": 6,
+    "number": 1,
+    "phrase": "to hang up",
+    "meaningZh": "懸掛，掛斷",
+    "page": 9,
+    "column": 3,
+    "order": 67,
+    "evidenceText": "1. to hang up 懸掛，掛斷 He hung up his coat in the closet. The operator told me to hang up and dial the same number again ※ hang – hung – hung 懸掛 hang – hanged – hanged 絞死"
+  },
+  {
+    "unit": 6,
+    "number": 2,
+    "phrase": "to leave sb. / sth. out",
+    "meaningZh": "漏掉，刪除",
+    "page": 10,
+    "column": 1,
+    "order": 68,
+    "evidenceText": "2. to leave sb. / sth. out 漏掉，刪除 You've left out a zero in this phone number. 這電話號碼漏掉一個零。 Kidd has been left out of the team. Kidd 被 球隊除名了。"
+  },
+  {
+    "unit": 6,
+    "number": 3,
+    "phrase": "to count on",
+    "meaningZh": "依賴",
+    "page": 10,
+    "column": 1,
+    "order": 69,
+    "evidenceText": "3. to count on 依賴 We are counting on you to help us with this. Don't count on Frank to lend you any money because he has none. ※ count on = depend on = rely on"
+  },
+  {
+    "unit": 6,
+    "number": 4,
+    "phrase": "to make friends",
+    "meaningZh": "交朋友",
+    "page": 10,
+    "column": 1,
+    "order": 70,
+    "evidenceText": "4. to make friends 交朋友 (to meet people and become friendly with them) Jenny has always found it easy to make friends at school. ※ make friends with sb. 與某人交朋友 Have you made friends with your neighbors yet?"
+  },
+  {
+    "unit": 6,
+    "number": 5,
+    "phrase": "out of order",
+    "meaningZh": "故障",
+    "page": 10,
+    "column": 1,
+    "order": 71,
+    "evidenceText": "5. out of order 故障 The elevator was out of order and we had to walk to the tenth floor. We could not use the telephone because it it was out of order. r."
+  },
+  {
+    "unit": 6,
+    "number": 6,
+    "phrase": "to get to a place",
+    "meaningZh": "到達某處",
+    "page": 10,
+    "column": 2,
+    "order": 72,
+    "evidenceText": "6. to get to a place 到達某處 9. 被 I missed the bus and didn't get to the office until ten o'clock. s. This train gets to Chicago at eleven o'clock tonight. 10 What time did you get home from the movie last night?"
+  },
+  {
+    "unit": 6,
+    "number": 7,
+    "phrase": "at times",
+    "meaningZh": "有時候",
+    "page": 10,
+    "column": 2,
+    "order": 73,
+    "evidenceText": "7. at times 有時候 At times he does much better work. At times she feels a little better but then she becomes very weak again. 11 ※ at times = from time to time = once in a while = now and then = every so often = occasionally tu to 8. to look over sth 檢查 12 I want to look over these exercises before I give them to the teacher. He signed the contract without even looking 10 it over. ※ look over = examine"
+  },
+  {
+    "unit": 6,
+    "number": 9,
+    "phrase": "to have time off",
+    "meaningZh": "有空",
+    "page": 10,
+    "column": 3,
+    "order": 74,
+    "evidenceText": "9. to have time off 有空 He works only five days a week and has every Saturday and Sunday off. ※ have time off = have free time"
+  },
+  {
+    "unit": 6,
+    "number": 10,
+    "phrase": "to keep on",
+    "meaningZh": "繼續",
+    "page": 10,
+    "column": 3,
+    "order": 75,
+    "evidenceText": "10. to keep on 繼續 John kept on talking although the teacher asked him several times to stop. They kept on playing their radio until three o'clock in the morning."
+  },
+  {
+    "unit": 6,
+    "number": 11,
+    "phrase": "to put out",
+    "meaningZh": "熄滅",
+    "page": 10,
+    "column": 3,
+    "order": 76,
+    "evidenceText": "11. to put out 熄滅 (to make a fire etc stop burning) (to make a light stop working by pressing or turning a button) Put out a fire / cigarette / light / lamp"
+  },
+  {
+    "unit": 6,
+    "number": 12,
+    "phrase": "all of a sudden",
+    "meaningZh": "突然",
+    "page": 10,
+    "column": 3,
+    "order": 77,
+    "evidenceText": "12. all of a sudden 突然 () All of a sudden John appeared at the door. All of a sudden she got up and left. ※ all of a sudden = all at once = suddenly"
+  },
+  {
+    "unit": 6,
+    "number": 13,
+    "phrase": "to be about to",
+    "meaningZh": "即將",
+    "page": 11,
+    "column": 1,
+    "order": 78,
+    "evidenceText": "13. to be about to 即將 I was just about to leave when you telephoned. We were about to start dinner when Helen arrived. ※ be about to + V = be going to + V = be ready to + V = be on the point of + V-ing…"
+  },
+  {
+    "unit": 6,
+    "number": 14,
+    "phrase": "to hurry up",
+    "meaningZh": "趕快",
+    "page": 11,
+    "column": 1,
+    "order": 79,
+    "evidenceText": "14. to hurry up 趕快 Hurry up, or you will be late for breakfast. Hurry him up!"
+  },
+  {
+    "unit": 6,
+    "number": 15,
+    "phrase": "on the way",
+    "meaningZh": "在途中",
+    "page": 11,
+    "column": 1,
+    "order": 80,
+    "evidenceText": "15. on the way 在途中 On the way, they saw many cars going in the same direction. He is already well on the way to recovery. ※ (1) on the way = on one's way (2) on the way to + O When he was on his way to school, he met Mary."
+  },
+  {
+    "unit": 6,
+    "number": 16,
+    "phrase": "to be obliged to",
+    "meaningZh": "不得不",
+    "page": 11,
+    "column": 1,
+    "order": 81,
+    "evidenceText": "16. to be obliged to 不得不 People are obliged to follow the traffic rules. He is obliged to leave his hometown. ※ be obliged to + O = be thankful to + O ho = be grateful to + O 3. y = be grateful to + O I am so much obliged to you for your m kindness."
+  },
+  {
+    "unit": 7,
+    "number": 1,
+    "phrase": "to point out",
+    "meaningZh": "指出",
+    "page": 11,
+    "column": 2,
+    "order": 82,
+    "evidenceText": "1. to point out 指出 (to show sth. to sb. by point at it) (to tell sb. sth. that they did not already tim know or had not thought about) They walked into the car park and Cook Th pointed out his new car. He pointed out the dangers of setting out Th without proper equipment. 他指出沒有適當裝備就出發的種種危險。"
+  },
+  {
+    "unit": 7,
+    "number": 2,
+    "phrase": "to be over",
+    "meaningZh": "結束，完畢 4.",
+    "page": 11,
+    "column": 2,
+    "order": 83,
+    "evidenceText": "2. to be over 結束，完畢 4. he After the dance was over, we all went to a restaurant. m He said that the meeting would be over in an hour. ※ (1) to be over = to be finished = ended (2) sth. + be over 結束 The war is over. 5. (3) sb. + be through with 結束，做好，完 s. 成 When will you be through with your 11 homework?"
+  },
+  {
+    "unit": 7,
+    "number": 3,
+    "phrase": "on time",
+    "meaningZh": "準時",
+    "page": 11,
+    "column": 3,
+    "order": 84,
+    "evidenceText": "3. on time 準時 We must hurry if we wish to arrive at the meeting on time. Did you get to work on time this morning? ※ (1) 當 adj. The bus is always on time (= punctual). 當 adv. He always gets to work on time (= punctually). (2) ahead of time 時間超前 The house was finished ahead of time. Behind time 誤點 The train is running behind time today. Behind the times 落伍 The hat is already behind the time."
+  },
+  {
+    "unit": 7,
+    "number": 4,
+    "phrase": "in time",
+    "meaningZh": "及時",
+    "page": 11,
+    "column": 3,
+    "order": 85,
+    "evidenceText": "4. in time 及時 We got to the movie just in time to see the main picture. Did you get to the station in time? You'll be sorry in time. ※ 當 adj. He was just in time for the train. 當 adv. 例 1. 2."
+  },
+  {
+    "unit": 7,
+    "number": 5,
+    "phrase": "to get better",
+    "meaningZh": "變好",
+    "page": 11,
+    "column": 3,
+    "order": 86,
+    "evidenceText": "5. to get better 變好 (to improve) to get worse 變壞 () If the weather gets better we could go out for a walk. I didn't like the noise when I first came and it's got worse since then."
+  },
+  {
+    "unit": 7,
+    "number": 6,
+    "phrase": "to get sick",
+    "meaningZh": "生病",
+    "page": 12,
+    "column": 1,
+    "order": 87,
+    "evidenceText": "6. to get sick 生病 to get well 康復 to get tired 疲倦 to get set 弄 to get busy 忙碌 to get nervous 緊張"
+  },
+  {
+    "unit": 7,
+    "number": 7,
+    "phrase": "had better",
+    "meaningZh": "最好",
+    "page": 12,
+    "column": 1,
+    "order": 88,
+    "evidenceText": "7. had better 最好 I think you'd better speak to Mr. Smith immediately about this matter. The doctor told him that he'd be better go home rest for a few days. ※ (1) had better + VR… (2) 否定： had better not + VR… You had better not go alone."
+  },
+  {
+    "unit": 7,
+    "number": 8,
+    "phrase": "would rather",
+    "meaningZh": "寧願",
+    "page": 12,
+    "column": 1,
+    "order": 89,
+    "evidenceText": "8. would rather 寧願 I'd rather go for a walk than see a movie tonight. Would you rather have your next lesson on Monday or on Tuesday? ※ (1) would rather = to prefer (2) would rather + VR… ut (3) 否定：would rather not + VR… 11 I would rather not go home now. d (4) would rather A than B 寧願 A而不 Sh 願 B I would rather go out than stay home. = I would go out rather than stay home. = I prefer going out to staying home. = I prefer to go out rather than stay home. H = I would (had) as soon go out as stay home. (5) would rather + that-cl (假設法過去式) I would rather that you went home now. 12 我寧願你現在就回家。(事實上你現在並未回 家) be"
+  },
+  {
+    "unit": 7,
+    "number": 9,
+    "phrase": "to figure out",
+    "meaningZh": "算出，想出",
+    "page": 12,
+    "column": 2,
+    "order": 90,
+    "evidenceText": "9. to figure out 算出，想出 go This letter is so badly written that I can't figure out what the writer is trying to say. How long did it take you to figure out the cost of that machine? 13 ※ 算出 = to calculate 想出 = to understand"
+  },
+  {
+    "unit": 7,
+    "number": 10,
+    "phrase": "to put off",
+    "meaningZh": "延遲，延續 af",
+    "page": 12,
+    "column": 2,
+    "order": 91,
+    "evidenceText": "10. to put off 延遲，延續 af The meeting was put off until next week. on There is an old saying in English which goes, “Never put off until tomorrow what you can do today.” ho ※ to put off = to postpone 12"
+  },
+  {
+    "unit": 7,
+    "number": 11,
+    "phrase": "to dissuade from",
+    "meaningZh": "勸 ~ 不要 ~",
+    "page": 12,
+    "column": 3,
+    "order": 92,
+    "evidenceText": "11. to dissuade from 勸 ~ 不要 ~ Tom dissuaded me from going on a diet. She tried to dissuade her son from going to sea. ※ (1) dissuade ↔ persuade (2) persuade sb. to do sth. I persuades him to work hard. (3) persuade sb. into doing sth. He persuades me into believing in God. (4) persuade sb. out of sth. We persuade Tom out of the belief."
+  },
+  {
+    "unit": 7,
+    "number": 12,
+    "phrase": "to get tired of",
+    "meaningZh": "對 ~ 感到厭倦",
+    "page": 12,
+    "column": 3,
+    "order": 93,
+    "evidenceText": "12. to get tired of 對 ~ 感到厭倦 People will soon get tired of you if you behave in that way. He is getting tired of life. ※ get tired with / from ※ 因 ~ 而感到疲累 I am tired with a long walk. 13. what do you say to + V-ing… ~ 如何 What do you say to telling him the truth? What do you say to playing tennis this afternoon? ※ What do you think about …? ~如何呢? = What about …? = How about …? How about going to France for our holiday this year?"
+  },
+  {
+    "unit": 8,
+    "number": 1,
+    "phrase": "to be about to",
+    "meaningZh": "即將",
+    "page": 13,
+    "column": 1,
+    "order": 94,
+    "evidenceText": "1. to be about to 即將 I was just about to leave when you telephoned. We were about to start dinner when Helen arrived. ※ be about to + V = be going to + V = be ready to + V = be on the point of + V-ing…"
+  },
+  {
+    "unit": 8,
+    "number": 2,
+    "phrase": "to turn around",
+    "meaningZh": "轉身",
+    "page": 13,
+    "column": 1,
+    "order": 95,
+    "evidenceText": "2. to turn around 轉身 I turned around and saw that Gertrude was sitting directly behind me. The man turned the car around and drove in the opposite direction."
+  },
+  {
+    "unit": 8,
+    "number": 3,
+    "phrase": "to take turns",
+    "meaningZh": "輪流",
+    "page": 13,
+    "column": 1,
+    "order": 96,
+    "evidenceText": "3. to take turns 輪流 During the trip John and I took turns driving the car; he would drive for about one hundred miles and then I would drive for about another one hundred miles. Mary and her sister take turns helping their mother each night. ※ to take turns = to alternate"
+  },
+  {
+    "unit": 8,
+    "number": 4,
+    "phrase": "to pay attention to",
+    "meaningZh": "注意",
+    "page": 13,
+    "column": 1,
+    "order": 97,
+    "evidenceText": "4. to pay attention to 注意 He never pays attention to anything she says. You will have to pay more attention in class 7. if you wish to get a better mark. d. 5. over and over (again) 反覆；再三地 The only way to learn the script is to say it th to yourself over and over again. 背熟劇本 唯一的辦法便是自我反覆在三地唸。 ha ※ over and over = repeatedly"
+  },
+  {
+    "unit": 8,
+    "number": 6,
+    "phrase": "to wear out",
+    "meaningZh": "磨損",
+    "page": 13,
+    "column": 2,
+    "order": 98,
+    "evidenceText": "6. to wear out 磨損 8. to wear sth. out 穿破 (to cause a lot of damage to sth. by using it hi a lot or for a log time so that it can no s longer be used) m to wear sb. out 精疲力竭 in I've worn out the soles of my shoes. I must buy a new suit. This one is worn out. What do you do with your old clothes when they are worn out? Two nights without sleep have worn me out. 9. ※ (1) 當 vt. 當 vi. go ir Blue jeans will not wear out easily. (2) wear out = tire out 使疲倦 ou The hard work wears me out. = I am worn / tired out with the hard to work. 13"
+  },
+  {
+    "unit": 8,
+    "number": 7,
+    "phrase": "to throw away",
+    "meaningZh": "拋棄",
+    "page": 13,
+    "column": 3,
+    "order": 99,
+    "evidenceText": "7. to throw away 拋棄 () When my clothes are worn out, I generally throw them away. Don't throw away those magazines. I haven't seen them yet. ※ to throw away = to discard"
+  },
+  {
+    "unit": 8,
+    "number": 8,
+    "phrase": "to fall in love with sb.",
+    "meaningZh": "愛上某人",
+    "page": 13,
+    "column": 3,
+    "order": 100,
+    "evidenceText": "8. to fall in love with sb. 愛上某人 They fell in love when they were students in high school. John falls in love with every new girl he meets. ※ fall in love with sb. 指動作 be in love with sb. 指狀態 John falls in love with Cathy. John and Cathy are in love. = John is in love with Nancy."
+  },
+  {
+    "unit": 8,
+    "number": 9,
+    "phrase": "to go out",
+    "meaningZh": "離開，熄滅",
+    "page": 13,
+    "column": 3,
+    "order": 101,
+    "evidenceText": "9. to go out 離開，熄滅 When I telephoned they told me that he had gone out. Have you a match? This cigarette has gone out. The match went out before he had a chance to light the fire. ※ to go out 為 vi. 熄滅 to put out 為 vt. 撲滅 They put out the fir."
+  },
+  {
+    "unit": 8,
+    "number": 10,
+    "phrase": "as yet",
+    "meaningZh": "到目前為止",
+    "page": 14,
+    "column": 1,
+    "order": 102,
+    "evidenceText": "10. as yet 到目前為止 We haven't heard from Mary as yet. As yet, they haven't heard of the news. ※ (1) as yet = up to the present time (2) 常用於否定 11. to have … to do with 與 ~ 有關 Does Mr. Reese have anything to do with the work of the export department? He says that he had nothing to do with writing that letter. ※ (1) have … to do with… = have connection with… (2) have a great deal to do with 與 ~ 有 很大關聯 have a lot to do with 與 ~ 很有關聯 have much to do with 與 ~ 很有關聯 have something to do with 與 ~ 有些關聯 have anything to do with 與 ~ 有些關聯 have little to do with 與 ~ 有點關聯 have nothing to do with 與 ~ 沒有關聯 A: Yes, I have a great deal to do with it. B: No, I don't have anything to do with it. (I have nothing to do with it.)"
+  },
+  {
+    "unit": 8,
+    "number": 12,
+    "phrase": "from then on",
+    "meaningZh": "從那時起",
+    "page": 14,
+    "column": 1,
+    "order": 103,
+    "evidenceText": "12. from then on 從那時起 He formed the habit of getting up early from then on. ※ from now on 從現在起 I have to study harder from now on. 13. to give way to They would give way to each other in the argument. After being punished by his teacher, the little boy finally gave way to the teacher. ※ give way to = yield to"
+  },
+  {
+    "unit": 9,
+    "number": 1,
+    "phrase": "to wake up",
+    "meaningZh": "醒來，喚醒 H",
+    "page": 14,
+    "column": 2,
+    "order": 104,
+    "evidenceText": "1. to wake up 醒來，喚醒 H I woke up this morning very early but did 有 not get up at until about ten o'clock. I wake up at the same time every morning without having to use an alarm clock. 4. ※ 當 vi. 睡醒 當 vt. 叫醒 ni Please wake me (up) at six. What time do you usually wake (up)? The noise wake me up form my sleep. tim"
+  },
+  {
+    "unit": 9,
+    "number": 2,
+    "phrase": "to be in charge of",
+    "meaningZh": "管理，負責 5.",
+    "page": 14,
+    "column": 2,
+    "order": 105,
+    "evidenceText": "2. to be in charge of 管理，負責 5. The red-haired man has charge of this (3 supermarket. Who is going to take charge of all the aw m arrangements for the dance? 14 ※ (1) be in charge of = take charge of = have charge of = be responsible for… (2) be in charge of 負責；照顧（主動） be in the charge of 某人 / 事 由 ~ 負責照料（被動） The nurse was in charge of the children. = The children were in the charge of the nurse."
+  },
+  {
+    "unit": 9,
+    "number": 3,
+    "phrase": "to get / keep in touch with",
+    "meaningZh": "與 ~ 聯絡",
+    "page": 14,
+    "column": 3,
+    "order": 106,
+    "evidenceText": "3. to get / keep in touch with 與 ~ 聯絡 You can get in touch with him by calling Hotel Weston. ※ (1) to get in touch with = to communicate with (2) lose touch with 失去聯繫"
+  },
+  {
+    "unit": 9,
+    "number": 4,
+    "phrase": "to have a good time",
+    "meaningZh": "過得愉快",
+    "page": 14,
+    "column": 3,
+    "order": 107,
+    "evidenceText": "4. to have a good time 過得愉快 We all had a good time at the party last night. Did you have a good time at the dance? ※ have a good time = have a wonderful time = enjoy oneself."
+  },
+  {
+    "unit": 9,
+    "number": 5,
+    "phrase": "to take care of (1)",
+    "meaningZh": "照顧 (2) 處理，應付",
+    "page": 14,
+    "column": 3,
+    "order": 108,
+    "evidenceText": "5. to take care of (1) 照顧 (2) 處理，應付 (3) 承擔(費用) Who's taking care of the dog while you're away? Her secretary always took care of the details. ※ 照顧 = to look after sb. / sth. 處理 = to deal with sth. 承擔費用 = pay for sth."
+  },
+  {
+    "unit": 9,
+    "number": 6,
+    "phrase": "once in a while",
+    "meaningZh": "偶爾",
+    "page": 15,
+    "column": 1,
+    "order": 109,
+    "evidenceText": "6. once in a while 偶爾 Previously I saw him very often but now he comes here only once in a while. Once in a while he goes with us to the movies on Saturday night. ※ once in a while = occasionally = from time to time = now and then = on occasion = at times"
+  },
+  {
+    "unit": 9,
+    "number": 7,
+    "phrase": "quite a few",
+    "meaningZh": "很多，不少",
+    "page": 15,
+    "column": 1,
+    "order": 110,
+    "evidenceText": "7. quite a few 很多，不少 Quite a few students were absent yesterday. We did not expect many to attend but quite a few people came to the meeting. ※ (1) quite a few = not a few = a large number of = a good / great many = a good few + 可數名詞 (2) quite a little = not a little = a great deal of = much +不可數名詞 (3) few 很少的(否定意味)； a few 一 些(肯定意味)"
+  },
+  {
+    "unit": 9,
+    "number": 8,
+    "phrase": "used to",
+    "meaningZh": "過去常常",
+    "page": 15,
+    "column": 1,
+    "order": 111,
+    "evidenceText": "8. used to 過去常常 I used to buy my suits at Macy's. Now I buy them at Broadstreet's. 11 When I was younger, I used to play tennis quite well. ※ (1) used to + VR… 表過去常常 ~ 而 現在不再有 be he (2) be used to + N / V-ing… 習慣於 ~ They used to go swimming in the pr lake but now they are used to swimming in the pool."
+  },
+  {
+    "unit": 9,
+    "number": 9,
+    "phrase": "to be used to",
+    "meaningZh": "習慣於 ~；對 ~ 習慣",
+    "page": 15,
+    "column": 2,
+    "order": 112,
+    "evidenceText": "9. to be used to 習慣於 ~；對 ~ 習慣 They used to go swimming in the lake but now they are used to swimming in the pool."
+  },
+  {
+    "unit": 9,
+    "number": 10,
+    "phrase": "to get used to",
+    "meaningZh": "逐漸習慣",
+    "page": 15,
+    "column": 2,
+    "order": 113,
+    "evidenceText": "10. to get used to 逐漸習慣 . I can't seem to get used to wearing glasses. e ※ (1) get used to + N / V-ing = get H accustomed to = be accustomed to 12 The young man soon became accustomed to 越 hard work. = (2) 比較 used to + V 過去的習慣 w （現已不再有） be used to + N / V-ing… 習慣於（現有的習 bi 慣） 一 get used to + N / V-ing… 逐漸習慣 (get 表 + 由不習慣而習慣) 13 He is used to this climate and the changes in y temperature do not affect him. on 15"
+  },
+  {
+    "unit": 9,
+    "number": 11,
+    "phrase": "to make believe",
+    "meaningZh": "假裝",
+    "page": 15,
+    "column": 3,
+    "order": 114,
+    "evidenceText": "11. to make believe 假裝 George made believe that he was sick so that he would not have to go to school. Do you think that Mary was only making believe that she was tired? ※ (1) make believe + to-v / that-cl = pretend + to-v / that-cl George made believe that he was sick so that he would not have to go to school. Do you think that Mary was only making believe that she was tried? (2) make sb. believe 使某人相信 He tried to make me believe what he said. 12. smaller and smaller (increasingly small) 越來越小 With the coming of spring, it is getting warmer and warmer. We should make our vocabulary bigger and bigger. ※ 比較級 + and + 比較級 = increasingly + 原級 表「越來越 ~」"
+  },
+  {
+    "unit": 9,
+    "number": 13,
+    "phrase": "as soon as",
+    "meaningZh": "一 ~ 就 ~",
+    "page": 15,
+    "column": 3,
+    "order": 115,
+    "evidenceText": "13. as soon as 一 ~ 就 ~ As soon as the first snow falls, we will put on our snow coats. As soon as he entered the room, his sister threw a book at him. ※ as soon as = the moment = the minute = the instant = instantly = directly = hardly … when… = no sooner … than … = scarcely … before / when … As soon as he finished his work, he came to see me. = He had no sooner finished his work than he came to see me. = He had hardly finished his work when he came to see me. = He had scarcely finished his work before he came to see me. = The moment / The minute / The instant he finished his … = Directly / Instantly he finished his work, he came to see me."
+  },
+  {
+    "unit": 9,
+    "number": 14,
+    "phrase": "to go on",
+    "meaningZh": "繼續",
+    "page": 16,
+    "column": 1,
+    "order": 116,
+    "evidenceText": "14. to go on 繼續 John went on reading and paid no attention to any of us. \"Go on! Go on!\" She said. \"Tell me 2. everything that happened.\" I l ※ go on + V-ing… = keep (on) + V-ing… = continue 繼續 th go on + V-ing… 繼續做 ~ (指同一 件事) go on + to-v… 接著做 ~；接續做 ~ (指不同一件事) 3."
+  },
+  {
+    "unit": 9,
+    "number": 15,
+    "phrase": "no longer",
+    "meaningZh": "不再 ~",
+    "page": 16,
+    "column": 2,
+    "order": 117,
+    "evidenceText": "15. no longer 不再 ~ He was very angry and would not talk to me ex any more. ※ no longer = not any longer = no more They were disappointed and would no more ask him for help. 4."
+  },
+  {
+    "unit": 10,
+    "number": 2,
+    "phrase": "every now and then",
+    "meaningZh": "偶爾",
+    "page": 16,
+    "column": 3,
+    "order": 118,
+    "evidenceText": "2. every now and then 偶爾 I like to eat Malay food every now and then. They ask Mr. Brown to go swimming with them every now and then. ※ every now and then = from time to time = occasionally = once in a while = at times = sometimes"
+  },
+  {
+    "unit": 10,
+    "number": 3,
+    "phrase": "to make out",
+    "meaningZh": "表現，成功",
+    "page": 16,
+    "column": 3,
+    "order": 119,
+    "evidenceText": "3. to make out 表現，成功 I did not make out very well on my last examination. How did Raymond make out when he went to look for work yesterday? ※ make out = succeed"
+  },
+  {
+    "unit": 10,
+    "number": 4,
+    "phrase": "to keep house",
+    "meaningZh": "做家事",
+    "page": 16,
+    "column": 3,
+    "order": 120,
+    "evidenceText": "4. to keep house 做家事 He said that he wanted bus wife to keep house and not to work in an office. She likes to keep house and has a reputation as an excellent housekeeper. ※ keep house: house 指「家務」為不可 數"
+  },
+  {
+    "unit": 10,
+    "number": 5,
+    "phrase": "to come from",
+    "meaningZh": "出生於，來自於",
+    "page": 16,
+    "column": 3,
+    "order": 121,
+    "evidenceText": "5. to come from 出生於，來自於 I thought that he came from Texas but it seems that he comes from New England. What part of South America does she come from? ※ come from = originate"
+  },
+  {
+    "unit": 10,
+    "number": 6,
+    "phrase": "to make good time",
+    "meaningZh": "以高速駕車旅行",
+    "page": 17,
+    "column": 1,
+    "order": 122,
+    "evidenceText": "6. to make good time 以高速駕車旅行 We make very good time on our trip to Florida. It rained all the time and so we did not make good time driving to New York. ※ 比較 make good time 以高速駕車 旅行 have a good time 玩的很愉快 keep good time 鐘錶走的準 7. to mix up / to be mixed up / to get mixed up 混淆，迷惑 Instead of helping me, his explanation only mixed me up. We got mixed up in our directions, took the wrong road, and drove many mils out of our way. ※ (1) 受詞若為代名詞，則代名詞要置 於 up 之前 (2) be / get mixed up 為被動式表「被 搞糊塗了」，如例 2 (3) mix A with B 把 A和B 混在一起 It is impossible to mix water with oil."
+  },
+  {
+    "unit": 10,
+    "number": 8,
+    "phrase": "to see about",
+    "meaningZh": "照顧",
+    "page": 17,
+    "column": 1,
+    "order": 123,
+    "evidenceText": "8. to see about 照顧 Who is going to see about getting us a new room in which to study? 12 John said that he would see about it. Do you think at the same time he will see about getting permission to study at a ci different hour? 首 ※ see about = attend to = take care of… 快"
+  },
+  {
+    "unit": 10,
+    "number": 9,
+    "phrase": "to get rid of",
+    "meaningZh": "擺脫",
+    "page": 17,
+    "column": 2,
+    "order": 124,
+    "evidenceText": "9. to get rid of 擺脫 do We can't seem to get rid of the mice in our apartment. do It certainly took Mr. Smith a long time to y get rid of that salesman."
+  },
+  {
+    "unit": 10,
+    "number": 10,
+    "phrase": "by heart",
+    "meaningZh": "熟記",
+    "page": 17,
+    "column": 2,
+    "order": 125,
+    "evidenceText": "10. by heart 熟記 e He knows many of Lincoln's Gettysburg 1. speech by heart. ※ by heart = by memory 置 learn sth. by heart = memorize sth. = commit sth. to memory 記住 被 gr Learn the poem by heart. = Memorize the poem. 起 (2 = Commit the poem to memory. 11. to do one's best Th We should do our best to keep our environment clean. No matter what he does, he always does his best. 17"
+  },
+  {
+    "unit": 10,
+    "number": 12,
+    "phrase": "on no account",
+    "meaningZh": "決不",
+    "page": 17,
+    "column": 3,
+    "order": 126,
+    "evidenceText": "12. on no account 決不 You must on no account swim in the pond. On no account should you leave here. ※ on no account = by no means = under no circumstances = in no way 以上片語皆具否定意義的副詞，置句 首後鷹倒裝 Children are on no account to open the door to strangers. = On no account are children to open the door to strangers."
+  },
+  {
+    "unit": 11,
+    "number": 1,
+    "phrase": "to keep out / off / away from",
+    "meaningZh": "遠離",
+    "page": 17,
+    "column": 3,
+    "order": 127,
+    "evidenceText": "1. to keep out / off / away from 遠離 There was a large sign just outside the door which said：“Danger! Keep out!” The policeman told the boys to keep off the grass. ※ (1) keep out 使 ~ 不能進，在外 (2) keep off = keep away from 勿近，遠離 (3) keep … from 使 ~ 不能 They kept the newspapermen out of the room. Keep the child off the fire. = Keep the child away form the fire. The storm keeps him from going out."
+  },
+  {
+    "unit": 11,
+    "number": 2,
+    "phrase": "to find fault with",
+    "meaningZh": "挑剔",
+    "page": 18,
+    "column": 1,
+    "order": 128,
+    "evidenceText": "2. to find fault with 挑剔 It is very easy to find with the work of others. He is always finding fault with the work of his secretary. ※ (1) fault 為不可數，前不可加冠詞，也 無複數形 faults (2) 若不接受詞不需加 with She tries to please him, but he always finds fault."
+  },
+  {
+    "unit": 11,
+    "number": 3,
+    "phrase": "off and on",
+    "meaningZh": "斷斷續續地",
+    "page": 18,
+    "column": 1,
+    "order": 129,
+    "evidenceText": "3. off and on 斷斷續續地 We don't go there often- just off and on. He comes here off and on to see my father. ※ off and on = on and off = now and then = irregularly = occasionally"
+  },
+  {
+    "unit": 11,
+    "number": 4,
+    "phrase": "to catch fire",
+    "meaningZh": "著火",
+    "page": 18,
+    "column": 1,
+    "order": 130,
+    "evidenceText": "4. to catch fire 著火 No one seems to know how the building caught fire. Do not stand too close to that stove. Your clothes may catch fire. ※ (1) catch fire = take fire (2) be on fire 燃燒中，著火了 The house is on fire."
+  },
+  {
+    "unit": 11,
+    "number": 5,
+    "phrase": "to look into",
+    "meaningZh": "調查",
+    "page": 18,
+    "column": 1,
+    "order": 131,
+    "evidenceText": "5. to look into 調查 The police are looking into the past record of the man. They will inquire into the matter. ※ look into = inquire into = investigate"
+  },
+  {
+    "unit": 11,
+    "number": 6,
+    "phrase": "to take hold of",
+    "meaningZh": "抓住 8.",
+    "page": 18,
+    "column": 2,
+    "order": 132,
+    "evidenceText": "6. to take hold of 抓住 8. They each took hold of one of the table and moved it easily. al 也 The blind man took hold of my arm and I led him across the street. ev ※ (1) take hold of = grasp = catch = seize (2) lose / let go hold of 鬆手，抓不住 I'm sorry, but I have lost hold of it."
+  },
+  {
+    "unit": 11,
+    "number": 7,
+    "phrase": "to be out of the question",
+    "meaningZh": "不可能",
+    "page": 18,
+    "column": 2,
+    "order": 133,
+    "evidenceText": "7. to be out of the question 不可能 When I asked him whether he could go 9. with us, he said that it was out of the question at that time. sta Germany's demands were out of the question, and England answered by al declaring war. ※ (1) be out of the question = be = ur impossible 10 (2) It is out of the question to live on this island. = It is impossible to live on this island. = There is no living on this island. = No one can live on this island. ex (3) 比較 out of the question 不可 能 18 out of question = beyond question 毫無疑問的"
+  },
+  {
+    "unit": 11,
+    "number": 8,
+    "phrase": "to get through",
+    "meaningZh": "結束，完成",
+    "page": 18,
+    "column": 3,
+    "order": 134,
+    "evidenceText": "8. to get through 結束，完成 I didn't get through studying last night until almost eleven o'clock. What time does your sister get through work every day? ※ (1) get through + N / V-ing… (2) 可接 with 再接 N As soon as I got through with my work, I lay down and took a rest."
+  },
+  {
+    "unit": 11,
+    "number": 9,
+    "phrase": "all at once",
+    "meaningZh": "突然",
+    "page": 18,
+    "column": 3,
+    "order": 135,
+    "evidenceText": "9. all at once 突然 All at once the sky became dark and it started to rain. We were walking along Sixth Avenue when all at once we heard a shot. ※ all at once = all of a sudden = suddenly = on a sudden"
+  },
+  {
+    "unit": 11,
+    "number": 10,
+    "phrase": "to keep track of",
+    "meaningZh": "追蹤",
+    "page": 18,
+    "column": 3,
+    "order": 136,
+    "evidenceText": "10. to keep track of 追蹤 Do you keep track of the long distance telephone calls which you make in your office each month? We are going to keep track of all our expenses while we are in Mexico. ※ (1) keep track of 登記，記住，與 ~ 保 持聯繫 (2) lose track of 忘記，與 ~ 失去聯繫"
+  },
+  {
+    "unit": 11,
+    "number": 11,
+    "phrase": "to call sb. down",
+    "meaningZh": "責罵某人",
+    "page": 19,
+    "column": 1,
+    "order": 137,
+    "evidenceText": "11. to call sb. down 責罵某人 John was called down by his boss for coming late to work. Don't call Mary down for that mistake. I'm sure that she didn't make it on purpose. ※ to call sb. down = to scold sb. = to dress sb. down 12. It is up to someone to + VR / whether 子 句 由某人決定 It's up to you [whether we go or not. It's not up to me]. It is up to the president [to decide how many troops will be sent]."
+  },
+  {
+    "unit": 11,
+    "number": 14,
+    "phrase": "to set fire to sth.",
+    "meaningZh": "放火",
+    "page": 19,
+    "column": 1,
+    "order": 138,
+    "evidenceText": "14. to set fire to sth. 放火 No one knows who set fire to the building. Be careful with that match. You will set those curtains on fire. 繫 ※ set fire to sth. = set sth. on fire bu ※ on fire 著火（當副詞用） The house is on fire."
+  },
+  {
+    "unit": 12,
+    "number": 1,
+    "phrase": "to be up to date",
+    "meaningZh": "最新式的",
+    "page": 19,
+    "column": 2,
+    "order": 139,
+    "evidenceText": "1. to be up to date 最新式的 This catalogue is not up to date, It was in published several years ago. 6. ss It is one of the most modern and up-to-date apartment houses in the city. ou ※ (1) up to date 亦可當「迄今；直到現在」 子 解 = till now 7. He has lived in Tokyo up to date. (2) 若放在名詞前當形容詞，則寫成 w t up-to-date"
+  },
+  {
+    "unit": 12,
+    "number": 2,
+    "phrase": "to blow up",
+    "meaningZh": "爆炸",
+    "page": 19,
+    "column": 2,
+    "order": 140,
+    "evidenceText": "2. to blow up 爆炸 ha When the torpedo struck it, the ship ny immediately blew up. Why did the soldiers blow up all the bridges when they retreated? m ※ blow up 爆炸 blow out （輪胎）爆裂 8."
+  },
+  {
+    "unit": 12,
+    "number": 3,
+    "phrase": "to do something over",
+    "meaningZh": "重做",
+    "page": 19,
+    "column": 2,
+    "order": 141,
+    "evidenceText": "3. to do something over 重做 You should do this work over. 你該把這工 作重做一次"
+  },
+  {
+    "unit": 12,
+    "number": 4,
+    "phrase": "to burn down",
+    "meaningZh": "燒毀",
+    "page": 19,
+    "column": 2,
+    "order": 142,
+    "evidenceText": "4. to burn down 燒毀 19 Their home burned down and they had to build a new one. The fire spread quickly, and before the firemen arrived, the whole block of old buildings had burned down."
+  },
+  {
+    "unit": 12,
+    "number": 5,
+    "phrase": "to burn up",
+    "meaningZh": "燒光",
+    "page": 19,
+    "column": 3,
+    "order": 143,
+    "evidenceText": "5. to burn up 燒光 He burned up the letter and threw the ashes into the fireplace."
+  },
+  {
+    "unit": 12,
+    "number": 6,
+    "phrase": "to burn out",
+    "meaningZh": "燒斷",
+    "page": 19,
+    "column": 3,
+    "order": 144,
+    "evidenceText": "6. to burn out 燒斷 If you overload that fuse, you will burn it out. ※ 專指電器之線路，如保險絲、電線。"
+  },
+  {
+    "unit": 12,
+    "number": 7,
+    "phrase": "to make good",
+    "meaningZh": "成功",
+    "page": 19,
+    "column": 3,
+    "order": 145,
+    "evidenceText": "7. to make good 成功 He is a hard worker, and I am sure that he will make good in that job. She has always made good in everything she has done. ※ (1) make good 成功 (2) do good 行善 He went to Canada, where he soon made good. Social workers do a lot of good. 8. It stands to reason + that 子句 顯然 () It stands to reason that if he never prepares his lessons he is not going to make good progress. It stands to reason that a person without experience cannot do the work as well as an experienced person."
+  },
+  {
+    "unit": 12,
+    "number": 9,
+    "phrase": "to break out",
+    "meaningZh": "爆發，突然發生",
+    "page": 20,
+    "column": 1,
+    "order": 146,
+    "evidenceText": "9. to break out 爆發，突然發生 () The newspaper says that an epidemic of influenza has just broken out in London. He was living in France when the war broke out."
+  },
+  {
+    "unit": 12,
+    "number": 10,
+    "phrase": "as to",
+    "meaningZh": "至於，有關",
+    "page": 20,
+    "column": 1,
+    "order": 147,
+    "evidenceText": "10. as to 至於，有關 As to money, we will simply have to borrow some form Mr. Smith. He had nothing at all to say as to when he expected her to get back. ※ (1) as to = as regards = with / in regard to = with / in respect to (2) as for = as to 但 as for 置於句首； as to 可置於句首或句中 Nothing as to his past is known. (3) as for me = for my part As for me (= For my part), I will walk."
+  },
+  {
+    "unit": 12,
+    "number": 11,
+    "phrase": "to feel sorry for",
+    "meaningZh": "同情",
+    "page": 20,
+    "column": 1,
+    "order": 148,
+    "evidenceText": "11. to feel sorry for 同情 I feel sorry for anyone who has to do that sh kind of work. 14 I feel more sorry for his wife than I do for him. he ※ (1) feel sorry for sb. = feel sympathy for sb. = take pity on sb. 對某人的 hi 處境表同情 (2) be sorry for sth. 對某事表達遺憾 bo"
+  },
+  {
+    "unit": 12,
+    "number": 12,
+    "phrase": "to take sth. for granted",
+    "meaningZh": "認為 ~ 為理",
+    "page": 20,
+    "column": 2,
+    "order": 149,
+    "evidenceText": "12. to take sth. for granted 認為 ~ 為理 ke 所當然 He spoke English so well that I took it for granted that he was an American. 1. w She simply took it for granted that the check was good and did not ask him any to questions about it. ※ (1) 受詞置於 take 與 for granted 之間 w d Don't take everybody's help for granted. 2. ； (2) take it for granted that-cl it 為須受詞；真受詞為 that-cl"
+  },
+  {
+    "unit": 12,
+    "number": 13,
+    "phrase": "out of date",
+    "meaningZh": "過時的 3.",
+    "page": 20,
+    "column": 2,
+    "order": 150,
+    "evidenceText": "13. out of date 過時的 3. The suit he was dressed in was out of date. Silent movies have been out of date for it many years. ※ out-of-date 為形容詞用法 She insisted on wearing out-of-date 20 shoes."
+  },
+  {
+    "unit": 12,
+    "number": 14,
+    "phrase": "to stir up",
+    "meaningZh": "激起，煽動，攪動",
+    "page": 20,
+    "column": 3,
+    "order": 151,
+    "evidenceText": "14. to stir up 激起，煽動，攪動 No one likes to make friends with John for he usually stirs up trouble. He becomes excited easily so don't stir up his hatred. The child was stirring up the mud at the bottom of the pond. ※ stir up = arouse"
+  },
+  {
+    "unit": 13,
+    "number": 1,
+    "phrase": "to break down",
+    "meaningZh": "拋錨",
+    "page": 20,
+    "column": 3,
+    "order": 152,
+    "evidenceText": "1. to break down 拋錨 Our car broke down, and they had to tow it to a garage. The elevator broke down, and we had to walk up to the tenth floor. ※ 為 vi.不可用被動"
+  },
+  {
+    "unit": 13,
+    "number": 2,
+    "phrase": "to turn out to be",
+    "meaningZh": "結果成為",
+    "page": 20,
+    "column": 3,
+    "order": 153,
+    "evidenceText": "2. to turn out to be 結果成為 The rumor turn out to be true. = It turned out that the rumor was true"
+  },
+  {
+    "unit": 13,
+    "number": 3,
+    "phrase": "to become of",
+    "meaningZh": "發生",
+    "page": 20,
+    "column": 3,
+    "order": 154,
+    "evidenceText": "3. to become of 發生 What has become of my fountain pen? I had it here ten minutes ago. I wonder what has become of John recently. I haven't seen him in weeks. ※ (1) 主詞為 what，of 的受詞為失蹤的 人或失去之事物 (2) become of = happen to"
+  },
+  {
+    "unit": 13,
+    "number": 4,
+    "phrase": "to give up",
+    "meaningZh": "投降，放棄",
+    "page": 21,
+    "column": 1,
+    "order": 155,
+    "evidenceText": "4. to give up 投降，放棄 The enemy gave up without any resistance. King Edward gave up his throne in order to marry the woman he loved. He has tried many times to gave up smoking. ※ (1) give up = surrender 投降 (2) give in 屈服，讓步 Are you willing to give in?"
+  },
+  {
+    "unit": 13,
+    "number": 5,
+    "phrase": "to take pity on",
+    "meaningZh": "憐恤",
+    "page": 21,
+    "column": 1,
+    "order": 156,
+    "evidenceText": "5. to take pity on 憐恤 She finally took pity on him lent some money. I took pity on them when I saw how they lived, and promised to help them. ※ (1) take pity on = have pity on = feel pity / sorry for (2) It is a pity that-cl ~ 真是遺憾 It is a pity that you can't go camping."
+  },
+  {
+    "unit": 13,
+    "number": 6,
+    "phrase": "to cross out",
+    "meaningZh": "刪除",
+    "page": 21,
+    "column": 1,
+    "order": 157,
+    "evidenceText": "6. to cross out 刪除 (to draw a line or lines through sth. you 10 have written or drawn, usually because it is wrong) to"
+  },
+  {
+    "unit": 13,
+    "number": 7,
+    "phrase": "to take something into account",
+    "meaningZh": "考慮",
+    "page": 21,
+    "column": 2,
+    "order": 158,
+    "evidenceText": "7. to take something into account 考慮 o In judging her work you should take into on account that she has been quite sick up recently. He never takes into account the fact that I am very busy. ※ (1) take into account = take into consideration 11 (2) 受詞為 that 子句時，置於 account 後 受詞為名詞(片語)時，受詞放在 take 後 be You must take his report into account / consideration so"
+  },
+  {
+    "unit": 13,
+    "number": 8,
+    "phrase": "to make clear",
+    "meaningZh": "解釋說明",
+    "page": 21,
+    "column": 2,
+    "order": 159,
+    "evidenceText": "8. to make clear 解釋說明 The teacher made clear my mistake. 12 You must make clear to him that he should never say that again. ※ (1) make clear = explain = clarify “ (2) make clear to sb."
+  },
+  {
+    "unit": 13,
+    "number": 9,
+    "phrase": "to take a look at",
+    "meaningZh": "看一看",
+    "page": 21,
+    "column": 2,
+    "order": 160,
+    "evidenceText": "9. to take a look at 看一看 Take a look at the hat Helen is wearing 13 today. 耳 He took one look at her and began to laugh. ※ take a look at = have a look at = look at de 21 10. to have … on 穿著 How do you like the hat which Grace has on today? When I went into the room, he had nothing on except a pair of pajamas. ※ (1) have … on (指狀態) (2) put on (指動作) She has a white coat on = She is dressed in a white coat. = She wears a white coat."
+  },
+  {
+    "unit": 13,
+    "number": 11,
+    "phrase": "to come to",
+    "meaningZh": "清醒，恢復知覺",
+    "page": 21,
+    "column": 3,
+    "order": 161,
+    "evidenceText": "11. to come to 清醒，恢復知覺 She fainted and it was at least half an hour before she came to. At first they thought the man was dead but soon he came to. ※ come to 為不及物雙字動詞 = revive"
+  },
+  {
+    "unit": 13,
+    "number": 12,
+    "phrase": "to call for",
+    "meaningZh": "去取物，去找人",
+    "page": 21,
+    "column": 3,
+    "order": 162,
+    "evidenceText": "12. to call for 去取物，去找人 He promised to call for me at seven o'clock. There is a sign in the shop which says, “We Call For and Deliver.” ※ call for 需要 The plan calls for a cool head."
+  },
+  {
+    "unit": 13,
+    "number": 13,
+    "phrase": "to turn a deaf ear to",
+    "meaningZh": "不願聽；對 ~ 充",
+    "page": 21,
+    "column": 3,
+    "order": 163,
+    "evidenceText": "13. to turn a deaf ear to 不願聽；對 ~ 充 耳不聞 Annie is so stubborn that she usually turns a deaf ear to my advice. She turned a deaf ear to my proposal."
+  },
+  {
+    "unit": 14,
+    "number": 1,
+    "phrase": "to eat in",
+    "meaningZh": "在家出飯",
+    "page": 22,
+    "column": 1,
+    "order": 164,
+    "evidenceText": "1. to eat in 在家出飯 to eat out 到餐館吃飯 We ate in last night tonight we are going to eat out. When you eat out, what restaurant do you generally go to? ※ eat in = dine in eat out = dine out 到餐館吃飯 eat outside 到戶外吃飯"
+  },
+  {
+    "unit": 14,
+    "number": 2,
+    "phrase": "to play tricks on / to play jokes on",
+    "meaningZh": "戲",
+    "page": 22,
+    "column": 1,
+    "order": 165,
+    "evidenceText": "2. to play tricks on / to play jokes on 戲 弄，開玩笑"
+  },
+  {
+    "unit": 14,
+    "number": 3,
+    "phrase": "to look after",
+    "meaningZh": "照顧",
+    "page": 22,
+    "column": 1,
+    "order": 166,
+    "evidenceText": "3. to look after 照顧 Helen will look after the baby while we go to the movies. Who is going to look after your work while you go away? 4. to feel like + Ving 想要 I don't feel like studying tonight. Let's go to a movie. I feel like taking a long walk. Would you like to go with me?"
+  },
+  {
+    "unit": 14,
+    "number": 5,
+    "phrase": "once and for all",
+    "meaningZh": "斷然地（只此一次下不",
+    "page": 22,
+    "column": 2,
+    "order": 167,
+    "evidenceText": "5. once and for all 斷然地（只此一次下不 為例） I told him once and for all that I wouldn't go there. She said that he should stop, once and for 10 ou all, telephoning her late at night. I must tell you once for all that you will get nothing by kneeling to me. ※ once (and) for all = definitively"
+  },
+  {
+    "unit": 14,
+    "number": 6,
+    "phrase": "to hear from",
+    "meaningZh": "接到某人來信或消息 a",
+    "page": 22,
+    "column": 2,
+    "order": 168,
+    "evidenceText": "6. to hear from 接到某人來信或消息 a Have you heard from Sarah lately?"
+  },
+  {
+    "unit": 14,
+    "number": 7,
+    "phrase": "to hear of",
+    "meaningZh": "有關 ~ 的消息",
+    "page": 22,
+    "column": 2,
+    "order": 169,
+    "evidenceText": "7. to hear of 有關 ~ 的消息 I've never heard of him. re"
+  },
+  {
+    "unit": 14,
+    "number": 8,
+    "phrase": "to make fun of sb. / sth.",
+    "meaningZh": "嘲笑",
+    "page": 22,
+    "column": 2,
+    "order": 170,
+    "evidenceText": "8. to make fun of sb. / sth. 嘲笑 (to make a joke about someone that is in insulting or makes them feel bad) The kids at school always made fun of Jill's 11 e clothes. w"
+  },
+  {
+    "unit": 14,
+    "number": 9,
+    "phrase": "to come true",
+    "meaningZh": "實現",
+    "page": 22,
+    "column": 2,
+    "order": 171,
+    "evidenceText": "9. to come true 實現 What the newspaper said about the weather 都 o for today has certainly come true. 12 Everything the president predicted has come true. w ※ (1) come true 無被動用法 22 (2) 被動用法為 be carried out / realize His dream came true. = His dream was carried out. = His dream was realized. He carried out his dream = He realized his dream."
+  },
+  {
+    "unit": 14,
+    "number": 10,
+    "phrase": "as a matter of fact",
+    "meaningZh": "事實上，其實",
+    "page": 22,
+    "column": 3,
+    "order": 172,
+    "evidenceText": "10. as a matter of fact 事實上，其實 He thinks he knows English well, but as a matter of fact, he speaks very poorly. As a matter of fact, I prefer Cuba to Florida. As a matter of fact, I looked up the word in a dictionary. In fact, he didn't know it, either. ※ as a matter of fact = in fact = in reality = really As a matter of fact, I looked up the word in a dictionary. In fact, he didn't know it, either. 11. to have one's own way / to get one's own way 一意孤行 He has his won way in everything. 他凡事 都隨心所欲。"
+  },
+  {
+    "unit": 14,
+    "number": 12,
+    "phrase": "to look forward to",
+    "meaningZh": "期待",
+    "page": 22,
+    "column": 3,
+    "order": 173,
+    "evidenceText": "12. to look forward to 期待 We are looking forward to my uncle's visit with great pleasure. He says that he has nothing to look forward to except the same monotonous work every day. ※ (1) look forward to = expect = anticipate (2) look forward to + V-ing / N anticipate + V-ing / N expect + to-V expect + O + to-V I look forward to seeing my old friend. = I anticipate seeing my old friend. = I expect to see my old friend. I expect him to come soon."
+  },
+  {
+    "unit": 14,
+    "number": 13,
+    "phrase": "to one's relief",
+    "meaningZh": "令人欣慰的是",
+    "page": 23,
+    "column": 1,
+    "order": 174,
+    "evidenceText": "13. to one's relief 令人欣慰的是 To our great relief, the miners were all saved. To everyone's surprise, he can not only walk but run as well."
+  },
+  {
+    "unit": 14,
+    "number": 14,
+    "phrase": "as if / as though",
+    "meaningZh": "彷彿",
+    "page": 23,
+    "column": 1,
+    "order": 175,
+    "evidenceText": "14. as if / as though 彷彿 He looks as if he were dying. It seemed as if the fight would never end. ※ as if 的句中使用假設法 15. It is / was not long before … 過了不久就 ~ It was not long before the man overcame his difficulties. It is long before salmons swim down the river into the ocean. ry 16. in vain 徒勞 All our efforts were in vain. te He tried to solve the problem in vain. 4. ※ to no avail = without avail 枉然"
+  },
+  {
+    "unit": 15,
+    "number": 1,
+    "phrase": "inside out",
+    "meaningZh": "翻轉",
+    "page": 23,
+    "column": 2,
+    "order": 176,
+    "evidenceText": "1. inside out 翻轉 upside down 倒置 w The wind blew Mary's umbrella inside out. 5. For some reason John had put his sweater on inside out. go After the accident both cars lay in the street upside down. U ※ (1) inside out 內外翻轉 (2) upside down 上下倒置 k 2. to fill out 填寫 Fill out this application blank. 填寫這張申 請表。 這"
+  },
+  {
+    "unit": 15,
+    "number": 3,
+    "phrase": "to take advantage of",
+    "meaningZh": "利用，佔(某人)便 6.",
+    "page": 23,
+    "column": 2,
+    "order": 177,
+    "evidenceText": "3. to take advantage of 利用，佔(某人)便 6. 宜 I took advantage of the special sale and bought a half dozen new shirts. He took advantage of their kindness and la is stayed a whole month without paying them anything. 7. ※ (1) take advantage of = make use of = avail oneself of 23 (2) take advantage of sth. 利用某事物 take advantage of sb. 欺騙某人"
+  },
+  {
+    "unit": 15,
+    "number": 4,
+    "phrase": "no matter",
+    "meaningZh": "不論",
+    "page": 23,
+    "column": 3,
+    "order": 178,
+    "evidenceText": "4. no matter 不論 No matter how much money he spends on his clothes, he never looks well dressed. No matter where he tries to hide, the police will find him."
+  },
+  {
+    "unit": 15,
+    "number": 5,
+    "phrase": "to take up",
+    "meaningZh": "攻讀",
+    "page": 23,
+    "column": 3,
+    "order": 179,
+    "evidenceText": "5. to take up 攻讀 William wants to take up medicine when he goes to college. What is your brother taking up at Columbia University? ※ (1) take up + N take Pron up (2) take up 佔據，耗費 The work takes up too much time. 這工作耗費太多時間。"
+  },
+  {
+    "unit": 15,
+    "number": 6,
+    "phrase": "to take sth. up with sb.",
+    "meaningZh": "著手處理，諮商",
+    "page": 23,
+    "column": 3,
+    "order": 180,
+    "evidenceText": "6. to take sth. up with sb. 著手處理，諮商 (to do sth. about an idea or suggestion that you have been considering ) I'm going to take this matter up with my lawyer. 我將找我的律師著手處理此事。"
+  },
+  {
+    "unit": 15,
+    "number": 7,
+    "phrase": "to take after",
+    "meaningZh": "與~相像",
+    "page": 23,
+    "column": 3,
+    "order": 181,
+    "evidenceText": "7. to take after 與~相像 () With her light hair and blue eyes, Mary seems to take after her mother, but in her character she is more like her father. Which of your parents do you take after? ※ take after = resemble He strongly looks like his father. 他極 像他的父親。 = He strongly resembles / look like his father. = He is the very image of his father. = He is as like his father as two peas."
+  },
+  {
+    "unit": 15,
+    "number": 8,
+    "phrase": "in the long run",
+    "meaningZh": "終於",
+    "page": 24,
+    "column": 1,
+    "order": 182,
+    "evidenceText": "8. in the long run 終於 In the long run, this material will wear better than the other. You will find that, in the long run, Helen will turn out to be your best friend. ※ in the long run = in the end = finally = eventually = at last = at length"
+  },
+  {
+    "unit": 15,
+    "number": 9,
+    "phrase": "out of",
+    "meaningZh": "沒有，出自",
+    "page": 24,
+    "column": 1,
+    "order": 183,
+    "evidenceText": "9. out of 沒有，出自 This catalogue is out of date. It was published long ago. This telephone is out of order. Use the other. She was out of town for a few days. That firm has gone out of business. The plane went slowly out of sight. The poor fellow went out of his mind and was put in a sanatorium. This piano is out of tune. ad I'm afraid that we are out of gas. He has been out of work for a long time. ※ out of date = out of fashion = old fashioned 退流行 out of order ↔ in order 井然有序 out of sight ↔ in sight 看的到 Out of sight, out of mind. 眼不見為淨 out of tune ↔ in tune 正確的音調 out of work = out of a job"
+  },
+  {
+    "unit": 15,
+    "number": 10,
+    "phrase": "to run out of",
+    "meaningZh": "用完 co",
+    "page": 24,
+    "column": 2,
+    "order": 184,
+    "evidenceText": "10. to run out of 用完 co er The troops ran out of ammunition and had to withdraw. 1. We ran out of gas right in the middle of the main street. ※ run out of = use up = exhaust"
+  },
+  {
+    "unit": 15,
+    "number": 11,
+    "phrase": "come to one's aid",
+    "meaningZh": "前來援助某人 2.",
+    "page": 24,
+    "column": 2,
+    "order": 185,
+    "evidenceText": "11. come to one's aid 前來援助某人 2. When I get into trouble, Mary always comes to my aid. em When the police are trying to find the r. criminal, the detective usually goes to their Th aid."
+  },
+  {
+    "unit": 15,
+    "number": 12,
+    "phrase": "can not but",
+    "meaningZh": "不得不 ge",
+    "page": 24,
+    "column": 2,
+    "order": 186,
+    "evidenceText": "12. can not but 不得不 ge On hearing the music, he could not but dance with it. The hunter is so brave that I can not but w 24 admire his courage. ※「不得不」 can not help + V-ing… can not help but + VR can not choose but + VR have no choice but to + VR It is so hot that I can not but sweat. = It is so hot that I can not help but sweat = It is so hot that I can not help sweating. Her cousin had no choice but to go to the concert with her."
+  },
+  {
+    "unit": 16,
+    "number": 2,
+    "phrase": "to get along with",
+    "meaningZh": "與 ~ 和好相處",
+    "page": 24,
+    "column": 3,
+    "order": 187,
+    "evidenceText": "2. to get along with 與 ~ 和好相處 Mr. Smith gets along well with all his employees. Mr. and Mrs. Jones do not get along well. They quarrel constantly. ※ (1) 若無受詞則 with 省略 They do not get along. (2) 常與 very well / quite well連用 All of the classmates get along very well. (3) get along 前進，進展 How are you getting along in your job? 你的工作進展的怎樣？"
+  },
+  {
+    "unit": 16,
+    "number": 3,
+    "phrase": "to be hard of hearing",
+    "meaningZh": "重聽",
+    "page": 25,
+    "column": 1,
+    "order": 188,
+    "evidenceText": "3. to be hard of hearing 重聽 You will have to speak a little louder. Mr. Evans is hard of hearing. Please don't shout. I'm not hard of hearing. ※ hard of hearing 聽覺遲鈍 quick of hearing 聽覺敏銳 deaf 全聾"
+  },
+  {
+    "unit": 16,
+    "number": 4,
+    "phrase": "to let go of something",
+    "meaningZh": "釋放某物",
+    "page": 25,
+    "column": 1,
+    "order": 189,
+    "evidenceText": "4. to let go of something 釋放某物 As soon as the policeman let go of the boy, he ran away. Don't let go of the rope until I tell you. ※ (1) let go of = release (2) let it go 算了吧"
+  },
+  {
+    "unit": 16,
+    "number": 5,
+    "phrase": "to keep in mind / to bear in mind",
+    "meaningZh": "記住",
+    "page": 25,
+    "column": 1,
+    "order": 190,
+    "evidenceText": "5. to keep in mind / to bear in mind 記住 Please keep in mind that you promised to call her at two o'clock. You should bear in mind that he is not as strong as he used to be. ※ (1) keep pron. in mind (2) keep in mind that-cl You have to be home by ten o'clock. Keep that in mind."
+  },
+  {
+    "unit": 16,
+    "number": 6,
+    "phrase": "to run over",
+    "meaningZh": "輾過 10",
+    "page": 25,
+    "column": 2,
+    "order": 191,
+    "evidenceText": "6. to run over輾過 10 Why doesn't he drive more carefully? He almost ran over that child. The man was run over by a train and killed. ※ 不可分雙字動詞，over 為介詞"
+  },
+  {
+    "unit": 16,
+    "number": 7,
+    "phrase": "to keep an eye on",
+    "meaningZh": "留意",
+    "page": 25,
+    "column": 2,
+    "order": 192,
+    "evidenceText": "7. to keep an eye on 留意 Keep an eye on my suitcase while I buy my . ticket. They are going to keep an eye on your apartment while we are away. ※ (1) keep an eye on = have one's eye on = th to watch = guard (2) 不可分雙字動詞 1."
+  },
+  {
+    "unit": 16,
+    "number": 8,
+    "phrase": "take pride in",
+    "meaningZh": "以…為榮",
+    "page": 25,
+    "column": 2,
+    "order": 193,
+    "evidenceText": "8. take pride in 以…為榮 He takes (a) great pride in being a member th of the club. Tim took pride in his school record. se 住 ※ take pride in = pride oneself on = be proud of He prides himself on his ability to speak 發 as French. 2."
+  },
+  {
+    "unit": 16,
+    "number": 9,
+    "phrase": "rain or shine",
+    "meaningZh": "不論晴雨",
+    "page": 25,
+    "column": 2,
+    "order": 194,
+    "evidenceText": "9. rain or shine 不論晴雨 Rain or shine, the game will be played. th Rain or shine, you can see the joggers . jogging on the campus. an 25"
+  },
+  {
+    "unit": 16,
+    "number": 10,
+    "phrase": "to go off",
+    "meaningZh": "爆炸，離開",
+    "page": 25,
+    "column": 3,
+    "order": 195,
+    "evidenceText": "10. to go off 爆炸，離開 The firecracker went off with a bang. The gun went off while he was cleaning it, and the bullet almost struck his wife. John went off without saying goodbye to anyone. ※ (1) 為不及物動詞 = explode (2) go off 自行爆炸 set / let off 使 ~ 爆炸 Someone let off a firecracker outside the front door. 放鞭炮 Lesson 17"
+  },
+  {
+    "unit": 17,
+    "number": 1,
+    "phrase": "to shut off",
+    "meaningZh": "關閉",
+    "page": 25,
+    "column": 3,
+    "order": 196,
+    "evidenceText": "1. to shut off 關閉 Please shut off that faucet. The dripping of the water annoys me. After the storm the electricity was off for several hours. ※ 當 vi. The generator shuts off automatically. 發電機自動關掉。"
+  },
+  {
+    "unit": 17,
+    "number": 2,
+    "phrase": "to shut up",
+    "meaningZh": "關閉，住嘴",
+    "page": 25,
+    "column": 3,
+    "order": 197,
+    "evidenceText": "2. to shut up 關閉，住嘴 They have shut up their house and gone to the country for the summer. She told him to shut up and not to say anything more about it. ※ 亦可當 vt.，表「令某人住嘴」= keep one's shut up Once he starts talking, nothing can shut him up."
+  },
+  {
+    "unit": 17,
+    "number": 3,
+    "phrase": "to blow out",
+    "meaningZh": "爆裂，吹熄(蠟燭)，燒斷(保",
+    "page": 26,
+    "column": 1,
+    "order": 198,
+    "evidenceText": "3. to blow out 爆裂，吹熄(蠟燭)，燒斷(保 險絲) On our trip to Florida one of our tires blew out. If a tire blows out while one is driving at high speed, it can be very dangerous. May I blow out the candle? The toaster will blow the fuse out."
+  },
+  {
+    "unit": 17,
+    "number": 4,
+    "phrase": "keep up with",
+    "meaningZh": "趕上；保持 ~ 一樣的速度",
+    "page": 26,
+    "column": 1,
+    "order": 199,
+    "evidenceText": "4. keep up with 趕上；保持 ~ 一樣的速度 Helen works so fast that no one in the office can keep up with her. You'll have to walk more slowly. I can't keep up with you. ※ keep up with sb. = keep pace with sb. 與某人並駕齊驅 keep up with ↔ fall / get behind 落後"
+  },
+  {
+    "unit": 17,
+    "number": 5,
+    "phrase": "to turn down",
+    "meaningZh": "减低速度，降低音量 / 光",
+    "page": 26,
+    "column": 1,
+    "order": 200,
+    "evidenceText": "5. to turn down 减低速度，降低音量 / 光 度，拒絕 Please turn down the radio. It is too loud. His application for a position with that company was turned down. William tried to join the navy but was turned down because of his poor eyesight. Turn the light down; it's too bright. ※ turn down ↔ turn up 9."
+  },
+  {
+    "unit": 17,
+    "number": 6,
+    "phrase": "to break in (1)",
+    "meaningZh": "調整；適應 (2) 插嘴 (3)",
+    "page": 26,
+    "column": 2,
+    "order": 201,
+    "evidenceText": "6. to break in (1) 調整；適應 (2) 插嘴 (3) 保 闖入 These new shoes are hurting me. I'll be glad when they are broken in. al It is better to break in a new car slowly, driving at moderate speed for the first 500 miles. It is impolite to break in while others are 1. talking. 度 Thieves had broken in during the night. ne e 7. to have got to do sth. 必須 I've got to be back by two o'clock. He has got to go to Chicago tonight. We've got to see him today. w ※ have got to do sth. = have to do sth. = 2. be obliged to do sth. = must"
+  },
+  {
+    "unit": 17,
+    "number": 8,
+    "phrase": "on the alert",
+    "meaningZh": "注意",
+    "page": 26,
+    "column": 2,
+    "order": 202,
+    "evidenceText": "8. on the alert 注意 da 光 The thieves are constantly on the alert not to be caught by the police. fo He was instructed to be on the alert for any indication of a surprise attack from the 3. enemy. ※ on the alert + for + N on the alert against an attack 26 on the alert to do sth."
+  },
+  {
+    "unit": 17,
+    "number": 9,
+    "phrase": "above all",
+    "meaningZh": "最重要的",
+    "page": 26,
+    "column": 3,
+    "order": 203,
+    "evidenceText": "9. above all 最重要的 () Above all, don't mention this to Henry. He does well in all his subjects but, above all, in mathematics. ※ above all = mainly = especially"
+  },
+  {
+    "unit": 18,
+    "number": 1,
+    "phrase": "to do without",
+    "meaningZh": "免除；無需",
+    "page": 26,
+    "column": 3,
+    "order": 204,
+    "evidenceText": "1. to do without 免除；無需 With prices so high I will to do without a new suit this year. In his business he cannot do without a car. ※ do without ↔ do with I haven't eaten since noon and could do with a little supper."
+  },
+  {
+    "unit": 18,
+    "number": 2,
+    "phrase": "to try out",
+    "meaningZh": "試驗，試用",
+    "page": 26,
+    "column": 3,
+    "order": 205,
+    "evidenceText": "2. to try out 試驗，試用 They let me try out the machine for several days before buying it. The government is trying out various new forms of jet airplanes. ※ to try out = to test"
+  },
+  {
+    "unit": 18,
+    "number": 3,
+    "phrase": "to be bound for somewhere",
+    "meaningZh": "前往某地",
+    "page": 26,
+    "column": 3,
+    "order": 206,
+    "evidenceText": "3. to be bound for somewhere 前往某地 The ship is bound for Keelung. Where are you bound for? ※ be bound for = start for = leave for = set out for = head for = make for"
+  },
+  {
+    "unit": 18,
+    "number": 4,
+    "phrase": "to watch out for",
+    "meaningZh": "警戒，留意",
+    "page": 27,
+    "column": 1,
+    "order": 207,
+    "evidenceText": "4. to watch out for 警戒，留意 There was a sign near the road saying, “Watch Out For Falling Rocks!” “Watch out! There is a car coming!”shouted Tom. ※ (1) watch out = look out (2) 若接受詞則須加 for，watch out for sth."
+  },
+  {
+    "unit": 18,
+    "number": 5,
+    "phrase": "to be bound to",
+    "meaningZh": "必定；必然",
+    "page": 27,
+    "column": 1,
+    "order": 208,
+    "evidenceText": "5. to be bound to 必定；必然 We are bound to be late if you don't hurry. With business improving, they are bound to make money this year. ※ be bound to-V = be sure / certain to-V 必定"
+  },
+  {
+    "unit": 18,
+    "number": 6,
+    "phrase": "to take someone for",
+    "meaningZh": "誤認；錯認",
+    "page": 27,
+    "column": 1,
+    "order": 209,
+    "evidenceText": "6. to take someone for 誤認；錯認 (to mistake a person for someone else) With his dark skin and eyes I took him for an Italian. Do you take me for a fool? ※ (1) to take A for B = mistake A for B (2) pass for 冒充 ~，被認為 ~ （只可 用主動） She can pass for her sister, for they look much alike. 她冒充她妹妹，因為長的太像了。"
+  },
+  {
+    "unit": 18,
+    "number": 7,
+    "phrase": "to grow out of",
+    "meaningZh": "戒除；因長大而不合用",
+    "page": 27,
+    "column": 1,
+    "order": 210,
+    "evidenceText": "7. to grow out of 戒除；因長大而不合用 He has a habit of shaking his head, but the 2. doctor thinks that he will grow out of it. As a child she used to stutter but she grew out of it. d The little girl has grown out of her dresses. ※ grow out of = outgrow sta"
+  },
+  {
+    "unit": 18,
+    "number": 8,
+    "phrase": "to make the best of",
+    "meaningZh": "逆來順受",
+    "page": 27,
+    "column": 2,
+    "order": 211,
+    "evidenceText": "8. to make the best of 逆來順受 If we cannot find an apartment, we will continue living here and simply make the best of it. o They have had bad luck, but they always make the best of everything."
+  },
+  {
+    "unit": 19,
+    "number": 1,
+    "phrase": "take leave of",
+    "meaningZh": "離開；告別",
+    "page": 27,
+    "column": 2,
+    "order": 212,
+    "evidenceText": "1. take leave of 離開；告別 Diana has graduated and is going to take leave of her fellow students soon. 3. I heard that Mr. Wang got a new job and would take leave of his associates. ※ (1) take one's leave sto John stood up and took his leave. 可 起身告退 (2) take leave of sb. 向某人告別 (3) take French leave 不辭而別 4. When he leaves, he seldom says 。 good-bye. He always takes la 用 French leave. 27"
+  },
+  {
+    "unit": 19,
+    "number": 2,
+    "phrase": "all the same",
+    "meaningZh": "同樣地；仍然；依然",
+    "page": 27,
+    "column": 3,
+    "order": 213,
+    "evidenceText": "2. all the same 同樣地；仍然；依然 Your arguments are very convincing but, all the same, I don't think that Russia will attack them. It's all the same to me whether we go or stay. ※ all the same (1) 當「依然；仍舊」解為副詞片 語 = nevertheless = in spite of that = none the less = yet 如例 1 (2) 當「完全一樣」時，為形容詞 片語 be all the same = be all one = make no difference 如 例 2"
+  },
+  {
+    "unit": 19,
+    "number": 3,
+    "phrase": "day in, day out / day after day",
+    "meaningZh": "每天",
+    "page": 27,
+    "column": 3,
+    "order": 214,
+    "evidenceText": "3. day in, day out / day after day 每天； 一天又一天 Day in and day out he told me the same story. Day in, day out, for a period of six months, he worked on his new novel. ※ year in, year out 年復一年"
+  },
+  {
+    "unit": 19,
+    "number": 4,
+    "phrase": "in the past",
+    "meaningZh": "在過去；向來",
+    "page": 27,
+    "column": 3,
+    "order": 215,
+    "evidenceText": "4. in the past 在過去；向來 In the past he was a teacher and now he is a lawyer. Such argument (has) often occurred in the past."
+  },
+  {
+    "unit": 19,
+    "number": 5,
+    "phrase": "in vain",
+    "meaningZh": "無效；徒然",
+    "page": 28,
+    "column": 1,
+    "order": 216,
+    "evidenceText": "5. in vain 無效；徒然 All the doctor's efforts were in vain and the man soon died. We tried in vain to reach him. ※ in vain (1) 當 adj. = useless = of no use = of no avail (2) 當 adv. = without result = without success = to no purpose = to no avail"
+  },
+  {
+    "unit": 19,
+    "number": 6,
+    "phrase": "to put up with",
+    "meaningZh": "容忍；忍受",
+    "page": 28,
+    "column": 1,
+    "order": 217,
+    "evidenceText": "6. to put up with 容忍；忍受 I refuse to put up with his behavior any longer. How do you put up with that noise all day long? ※ to put up with = to tolerate"
+  },
+  {
+    "unit": 19,
+    "number": 7,
+    "phrase": "to be in the way",
+    "meaningZh": "妨礙；阻撓",
+    "page": 28,
+    "column": 1,
+    "order": 218,
+    "evidenceText": "7. to be in the way妨礙；阻撓 He tried to help us but was simply in the way. Is this chair in your way? ※ (1) in the way，the 可改為所有格 Don't stand in the / my way. = Stand out of (my) way. (2) in no way He is no way better than I."
+  },
+  {
+    "unit": 19,
+    "number": 8,
+    "phrase": "to show off",
+    "meaningZh": "買弄；炫燿",
+    "page": 28,
+    "column": 1,
+    "order": 219,
+    "evidenceText": "8. to show off 買弄；炫燿 John swims well but I don't like the way hw always shows off in front of everyone. She wants to go out simply to show off her H e new clothes. Nobody likes him because he is such a 給 show-off. ※ show-off 為名詞，指「自大的人」。 1."
+  },
+  {
+    "unit": 19,
+    "number": 9,
+    "phrase": "to go around",
+    "meaningZh": "夠用；夠分配",
+    "page": 28,
+    "column": 2,
+    "order": 220,
+    "evidenceText": "9. to go around 夠用；夠分配 s If there aren't enough chairs to go around, I can bring some from the other room. at So many people came that there were not enough sandwiches to go around. 10 . to put up 蓋；建造 They are tearing down that old building in 2. order to put up a new one. They are putting up several new buildings in ch that block. ※ (1) 可分雙字動詞 (2) put up ↔ tear down (3) 當「舉起」解 = raise 3. Put up your hands, or I'll shoot. d 當「留宿」解 Where are you going to put up for the night? 11. in favor of N (in support of) 支持 (to the advantage of) 有利於 付給 28 I am in favor of a change. 支持 He resigned in favor of a better man. 有利於 He writes a check in favor of the bank. 付 給"
+  },
+  {
+    "unit": 20,
+    "number": 1,
+    "phrase": "pass away",
+    "meaningZh": "去世；死去",
+    "page": 28,
+    "column": 3,
+    "order": 221,
+    "evidenceText": "1. pass away 去世；死去 She passed away peacefully in her sleep. His grandfather passed away with a heart attack at the age of 75. ※ pass away = die pass out = faint = pass on He unfortunately passed on last year."
+  },
+  {
+    "unit": 20,
+    "number": 2,
+    "phrase": "to run away",
+    "meaningZh": "不告而別；逃走",
+    "page": 28,
+    "column": 3,
+    "order": 222,
+    "evidenceText": "2. to run away 不告而別；逃走 He ran away from home when he was a child, and never returned. They ran away and got married in Boston. The horse became frightened and ran away. ※ run away from … 從 ~ 離開"
+  },
+  {
+    "unit": 20,
+    "number": 3,
+    "phrase": "to bring up",
+    "meaningZh": "撫養；養育；教養",
+    "page": 28,
+    "column": 3,
+    "order": 223,
+    "evidenceText": "3. to bring up 撫養；養育；教養 His mother died when he was young, and his grandmother brought him up. She was born in Texas but brought up in New England. ※ (1) 可分雙字動詞 (2) 養小孩長大成人用 bring up 養動物用 rear 或 raise"
+  },
+  {
+    "unit": 20,
+    "number": 4,
+    "phrase": "grow up",
+    "meaningZh": "長大；成人",
+    "page": 29,
+    "column": 1,
+    "order": 224,
+    "evidenceText": "4. grow up 長大；成人 What do you want to be when you grow up? He grew up gentle and good. ※ grow up 要對方停止幼稚或愚蠢的行 為 It is time to grow up. 5. to tell apart / to tell one from the other 辨別；辨認 The two brothers look so much alike that no one can tell them apart. The two coins looked so much alike that it was difficult to tell one from the other. ※ tell A from B = distinguish A from B = distinguish between A and B = tell A and B apart"
+  },
+  {
+    "unit": 20,
+    "number": 6,
+    "phrase": "to run errands",
+    "meaningZh": "跑腿；跑差事",
+    "page": 29,
+    "column": 1,
+    "order": 225,
+    "evidenceText": "6. to run errands 跑腿；跑差事 When we need him to run an errand, he is never here. William runs errands for all the neighbors. ※ (1) run errands = do errands = take errands = go on errands (2) 亦可用 run an errand"
+  },
+  {
+    "unit": 20,
+    "number": 7,
+    "phrase": "to fool around",
+    "meaningZh": "嬉戲；虛度光陰；遊手",
+    "page": 29,
+    "column": 1,
+    "order": 226,
+    "evidenceText": "7. to fool around 嬉戲；虛度光陰；遊手 好閒；鬼混 Quit fooling around and get to work. He is capable, but he fools around too much；he jokes with the girls, calls his p? friends on the telephone etc. ※ (1) fool around with sb. 與某人嘻鬧 行 He spends almost his whole 10 lunch-hour fooling around with the girls. hi (2) fool away = waste foolishly 虛擲， 浪費 o He fools away so much time on 11 his stamp collection that he never t gets anything done."
+  },
+  {
+    "unit": 20,
+    "number": 8,
+    "phrase": "to hold up",
+    "meaningZh": "持槍搶劫；耽擱",
+    "page": 29,
+    "column": 2,
+    "order": 227,
+    "evidenceText": "8. to hold up 持槍搶劫；耽擱 = They held up the owner and robbed him of un everything. That bank has been held up three times. w Four men took part in the hold-up. Shipment of the merchandise was held up ge because of the railroad strike. The traffic on the bridge was held up for 1. several hours because of the accident. ※ (1) hold-up / holdup 當名詞 (2) hold up = raise 舉起 手 9. to set fire to / to set on fire 放火；焚燒 No one knows who set fire to the building. Be careful with that match. You will set those curtains on fire. 29 ※ set fire to sth. = set sth. on fire be on fire 正在燃燒 The house is on fire."
+  },
+  {
+    "unit": 20,
+    "number": 10,
+    "phrase": "to know sb. by sight",
+    "meaningZh": "曾經見過；面熟",
+    "page": 29,
+    "column": 3,
+    "order": 228,
+    "evidenceText": "10. to know sb. by sight 曾經見過；面熟 I have never met Mr. Reese; I simply know him by sight. Although I have never spoken with either of them, I know them both by sight."
+  },
+  {
+    "unit": 20,
+    "number": 11,
+    "phrase": "to get lost",
+    "meaningZh": "迷路；迷失",
+    "page": 29,
+    "column": 3,
+    "order": 229,
+    "evidenceText": "11. to get lost 迷路；迷失 While driving to Boston, we got lost and drove many miles out of our way. John got lost in the woods and did get home until midnight. ※ to get lost = lose one's way ↔ find one's way John got lost in the woods and did not get home until midnight."
+  },
+  {
+    "unit": 21,
+    "number": 1,
+    "phrase": "to be well off",
+    "meaningZh": "富有的；小康的",
+    "page": 29,
+    "column": 3,
+    "order": 230,
+    "evidenceText": "1. to be well off 富有的；小康的 They own their own home, have two automobiles, and seem to be very well-off. His parents were once well-off but they lost all their money. ※ well off = rich = well-to-do badly off = poor Only the well-to-do can afford to own homes in that suburb."
+  },
+  {
+    "unit": 21,
+    "number": 2,
+    "phrase": "rob sb. of sth.",
+    "meaningZh": "搶劫(某人)",
+    "page": 30,
+    "column": 1,
+    "order": 231,
+    "evidenceText": "2. rob sb. of sth. 搶劫(某人) He robbed me of almost everything I had. The bandit robbed the merchant of his money. ※ rob sb. of sth. steal sth. from sb. He robbed her of the watch. He stole the watch from her."
+  },
+  {
+    "unit": 21,
+    "number": 3,
+    "phrase": "in addition to",
+    "meaningZh": "此外；而且",
+    "page": 30,
+    "column": 1,
+    "order": 232,
+    "evidenceText": "3. in addition to 此外；而且 I don't want to go； in addition, I'm too tired. There is a postage and packing fee in addition to the repair charge. ※ in addition 後若有受詞則須加介詞 to in addition = besides 為副詞片語，表 「此外」 in addition to + N = besides 為介詞片 語，表「除…外，還包括」 比較 except 的用法 All of us pass except Kim."
+  },
+  {
+    "unit": 21,
+    "number": 4,
+    "phrase": "to hand in",
+    "meaningZh": "繳交",
+    "page": 30,
+    "column": 1,
+    "order": 233,
+    "evidenceText": "4. to hand in 繳交 Every student has to hand in a composition each week. All the salesmen hand in weekly reports. ※ 可分雙字動詞 hand in = turn in 8."
+  },
+  {
+    "unit": 21,
+    "number": 5,
+    "phrase": "somehow or other",
+    "meaningZh": "設法；藉某種方法",
+    "page": 30,
+    "column": 2,
+    "order": 234,
+    "evidenceText": "5. somehow or other 設法；藉某種方法； 不知道為什麼 I must get it finished somehow or other. Somehow or other I don't like him. ※ 設法 = in one way or another 不知道為什麼 = for one reason or another = for some reason or other 9."
+  },
+  {
+    "unit": 21,
+    "number": 6,
+    "phrase": "without fail",
+    "meaningZh": "務必；一定地",
+    "page": 30,
+    "column": 2,
+    "order": 235,
+    "evidenceText": "6. without fail 務必；一定地 I'll pay you tomorrow without fail. Return the book to me by the end of next month without fail. 7. to take … by surprise 使 ~ 驚訝 His offer took me completely by surprise. The president's announcement took everyone by surprise. ※ (1) 受詞為「人」置於 take 與 by間 (2 to take sb. by surprise = to surprise 10 sb. = to take sb. aback (2) 常用被動 The news took me by surprise. = I was taken by surprise at the news. = I was taken aback by the news. = The news surprised me. (3) 突襲 They were taken by surprise while sleeping. 30 8. name … after 以…..命名；以….取名 (to be given at birth the same name as another's) Helen is named after her aunt. He was named Rutherford after a former President of the United States. ※ name A after B = A was named after B"
+  },
+  {
+    "unit": 21,
+    "number": 9,
+    "phrase": "in no way",
+    "meaningZh": "絶不；一點也不",
+    "page": 30,
+    "column": 3,
+    "order": 236,
+    "evidenceText": "9. in no way 絶不；一點也不 She is in no way to blame. In no way should the result be seen as a defeat for the government. “He hasn't become more boring, has he?” she laughs. “No, not in any way.” ※ (1) in no way = by no means = on no account = not in any way 皆為否定副 詞採「倒裝」用法 (2) in no way = not in any way 一點也不"
+  },
+  {
+    "unit": 21,
+    "number": 10,
+    "phrase": "compare with",
+    "meaningZh": "比較",
+    "page": 30,
+    "column": 3,
+    "order": 237,
+    "evidenceText": "10. compare with 比較 His intelligence compares favorably with that of his brother. The earth is only a baby when it is compared with many other bodies in the sky. ※ (1) compare with = in comparison with He is rather dull in comparison with others. (2) compare A with B 比較 A與 B compare A to B 將 A比喻為 B If you compare American English with British English, you will find many differences. Man's life is often compared to a candle. The writer compared the world to a stage."
+  },
+  {
+    "unit": 22,
+    "number": 1,
+    "phrase": "to drop someone a line",
+    "meaningZh": "寫封短信給",
+    "page": 31,
+    "column": 1,
+    "order": 238,
+    "evidenceText": "1. to drop someone a line 寫封短信給 ~；留便條給 ~ As soon as I get to Florida, I'll drop you a line. If you have time, drop me a line now and then while you are abroad. ※ (1) drop sb. a line = drop a line to sb. (2) 留話給某人 leave a message / leave word He left a message with my secretary."
+  },
+  {
+    "unit": 22,
+    "number": 2,
+    "phrase": "to the effect that",
+    "meaningZh": "大意是說 ~",
+    "page": 31,
+    "column": 1,
+    "order": 239,
+    "evidenceText": "2. to the effect that 大意是說 ~ I received a cable to the effect that they accept our terms. He spoke to the effect that we should all hasten to render the required help."
+  },
+  {
+    "unit": 22,
+    "number": 3,
+    "phrase": "to stand for (1)",
+    "meaningZh": "代表，象徵 (2) 容忍",
+    "page": 31,
+    "column": 1,
+    "order": 240,
+    "evidenceText": "3. to stand for (1) 代表，象徵 (2) 容忍 ( to represent) 代表，象徵 (to tolerate) 容忍 In this code each number stands for a letter of the alphabet. Each stripe in the American flag stands for sh one of the original thirteen colonies；each star stands for one of the fifty states. She refuses to stand for his impoliteness any longer. I don't have to stand for such behavior. ※ (1) 當「容忍」解 = to tolerate = put up with 6. (2) 當「擁護、贊成」解 e. We all stand for free trade."
+  },
+  {
+    "unit": 22,
+    "number": 4,
+    "phrase": "to give someone a ring",
+    "meaningZh": "打電話給某人",
+    "page": 31,
+    "column": 2,
+    "order": 241,
+    "evidenceText": "4. to give someone a ring 打電話給某人 I'll give a ring as soon as I get there. Give me a ring sometime next week and we'll arrange to have dinner together. ※ (1) give sb. a ring = give sb. a call y. (2) ring 當動詞 7. ring up = call up I'll give you a call. = I'll ring you up. di = I'll call you up. (3) ring off 掛斷電話 ring back 回電 to"
+  },
+  {
+    "unit": 22,
+    "number": 5,
+    "phrase": "to stand a chance",
+    "meaningZh": "有機會；有可能 ※",
+    "page": 31,
+    "column": 2,
+    "order": 242,
+    "evidenceText": "5. to stand a chance 有機會；有可能 ※ 忍 (to have the possibility) Th The Brooklyn team stands a chance of 8. winning the World Series this year. Not having had any previous experience, 31 John doesn't stand a chance of getting that job. ※ (1) to stand a good chance to stand a fair chance to stand a poor chance to stand a no chance (2) to stand a chance of + N / V-ing… You stand a good chance of success"
+  },
+  {
+    "unit": 22,
+    "number": 6,
+    "phrase": "to take pains",
+    "meaningZh": "費力；盡力；用心",
+    "page": 31,
+    "column": 3,
+    "order": 243,
+    "evidenceText": "6. to take pains 費力；盡力；用心 She took great pains making the dress because it was to be her wedding dress. He takes pains with everything that he does. ※ pain 辛勞，恆用複數 ＊ many pains ○ much pains ○ a lot of pains"
+  },
+  {
+    "unit": 22,
+    "number": 7,
+    "phrase": "to look up to (1)",
+    "meaningZh": "敬佩 (2) 尊敬",
+    "page": 31,
+    "column": 3,
+    "order": 244,
+    "evidenceText": "7. to look up to (1) 敬佩 (2) 尊敬 (to admire) 敬佩(to respect) 尊敬Our director is a man whom everyone looks up to. I admit that, as a hero, we must all look up to him. ※ look up to … as … 以 ~ 身分而尊敬之 They all looked up to him as their leader."
+  },
+  {
+    "unit": 22,
+    "number": 8,
+    "phrase": "to look down upon",
+    "meaningZh": "輕視；瞧不起；藐視",
+    "page": 31,
+    "column": 3,
+    "order": 245,
+    "evidenceText": "8. to look down upon 輕視；瞧不起；藐視 After he became Governor, those who had called him names and looked down upon him as a cheap politician regretted their former attitude. ※ to look down upon = to scorn = to despise"
+  },
+  {
+    "unit": 22,
+    "number": 9,
+    "phrase": "as (so) long as",
+    "meaningZh": "如果；只要",
+    "page": 32,
+    "column": 1,
+    "order": 246,
+    "evidenceText": "9. as (so) long as 如果；只要 Anything will do, so long as it is interesting. I don't mind being poor as long as I have my family with me. ※ as long as = provided that"
+  },
+  {
+    "unit": 22,
+    "number": 10,
+    "phrase": "do one's best",
+    "meaningZh": "盡力(做 ~)",
+    "page": 32,
+    "column": 1,
+    "order": 247,
+    "evidenceText": "10. do one's best 盡力(做 ~) I don't think you do your best at work. Mr. Smith ： Can I have your report by 11? Mrs. Wood ： I will do my level best to finish it. ※ do one's best = try one's best = do one's utmost"
+  },
+  {
+    "unit": 23,
+    "number": 1,
+    "phrase": "to show up",
+    "meaningZh": "出現；露面",
+    "page": 32,
+    "column": 1,
+    "order": 248,
+    "evidenceText": "1. to show up 出現；露面 He promised to come on Tuesday but he never showed up. Not one student showed up for the meeting. ※ (1) 主詞通常為人 (2) 為 vi"
+  },
+  {
+    "unit": 23,
+    "number": 2,
+    "phrase": "to stay in",
+    "meaningZh": "留在家裡",
+    "page": 32,
+    "column": 1,
+    "order": 249,
+    "evidenceText": "2. to stay in 留在家裡 to stay out 不在家 We stay in almost every night and watch television. He never stays in a single night. He goes out every night. ta John stays out every night until midnight. I promised my mother that I would not stay an g. out late tonight."
+  },
+  {
+    "unit": 23,
+    "number": 4,
+    "phrase": "go to sea (1)",
+    "meaningZh": "做水手 (2) 航海",
+    "page": 32,
+    "column": 2,
+    "order": 250,
+    "evidenceText": "4. go to sea (1) 做水手 (2) 航海 become a sailor 做水手 6. go on a voyage by sea 航海 When he was a boy, his greatest wish was to ot go to sea. 1? He will go to sea next month. ※ go to sea = follow the sea 做水手 w put (out) to sea 出港 Next morning we will put (out) to sea."
+  },
+  {
+    "unit": 23,
+    "number": 4,
+    "phrase": "to come across (1)",
+    "meaningZh": "偶然遇到；(2) 無意",
+    "page": 32,
+    "column": 2,
+    "order": 251,
+    "evidenceText": "4. to come across (1) 偶然遇到；(2) 無意 中發現 7. (to meet or find unexpectedly) 欲 While cleaning the attic yesterday, I came across an old photograph of my mother. hi . I came across several interesting facts about Mexico in that book. 8. ※ come across = come upon = run into = run across = bump into = happen to meet"
+  },
+  {
+    "unit": 23,
+    "number": 5,
+    "phrase": "to take over",
+    "meaningZh": "接管；接收；接辦 m",
+    "page": 32,
+    "column": 2,
+    "order": 252,
+    "evidenceText": "5. to take over 接管；接收；接辦 m 32 () After the first of the month William will take over Mr. Smith's duties. Helen worked on the report for several days and then John took it over. ※ (1) 可當 vt. / vi. (2) take over ↔ hand over 移交"
+  },
+  {
+    "unit": 23,
+    "number": 6,
+    "phrase": "to make faces",
+    "meaningZh": "扮鬼臉",
+    "page": 32,
+    "column": 3,
+    "order": 253,
+    "evidenceText": "6. to make faces 扮鬼臉 The two children sat making faces at each other. Stop making faces at me. Instead of being pleased, he made a face when I told him the news. ※ (1) make faces at sb. 對 ~ 扮鬼臉 (2) make a face = pull a face 扮鬼臉 (3) make / pull a long face 不高興"
+  },
+  {
+    "unit": 23,
+    "number": 7,
+    "phrase": "to one's heart's content",
+    "meaningZh": "盡興地；隨心所",
+    "page": 32,
+    "column": 3,
+    "order": 254,
+    "evidenceText": "7. to one's heart's content 盡興地；隨心所 欲地 He could experiment on growing plants to his heart's content. He drank to his heart's content."
+  },
+  {
+    "unit": 23,
+    "number": 8,
+    "phrase": "to make over",
+    "meaningZh": "更新；修改",
+    "page": 32,
+    "column": 3,
+    "order": 255,
+    "evidenceText": "8. to make over 更新；修改 (to alter and make like new) I want to have this old coat made over. When Betty's dresses go out of style, she makes them over. He made over the mews into flats. ※ (1) 受詞為代名詞須置於 make 與 over 之間 (2) 亦可當「轉讓」「移交」，後接 to Just before his death he made over all his property to his wife."
+  },
+  {
+    "unit": 23,
+    "number": 9,
+    "phrase": "to give birth to",
+    "meaningZh": "生；生產",
+    "page": 33,
+    "column": 1,
+    "order": 256,
+    "evidenceText": "9. to give birth to 生；生產 (to bear, bring forth children) Jane's mother has just given birth to twins. Yesterday Mrs. Smith gave birth to a six-pound baby boy. ※ give birth to = be delivered of His wife gave birth to a son."
+  },
+  {
+    "unit": 24,
+    "number": 1,
+    "phrase": "to drop out",
+    "meaningZh": "離去；不參加",
+    "page": 33,
+    "column": 1,
+    "order": 257,
+    "evidenceText": "1. to drop out 離去；不參加 Many students have dropped out of school on account of the war. Two more teams dropped out of the league."
+  },
+  {
+    "unit": 24,
+    "number": 2,
+    "phrase": "to set out",
+    "meaningZh": "動身；起程",
+    "page": 33,
+    "column": 1,
+    "order": 258,
+    "evidenceText": "2. to set out 動身；起程 They set out at dawn in accordance with their commander's orders. He set out on foot early the next morning for Boston. ※ 後面接目的地須先加for set out for = start for = leave for = depart for"
+  },
+  {
+    "unit": 24,
+    "number": 3,
+    "phrase": "to stay up",
+    "meaningZh": "遲睡；熬夜 ab",
+    "page": 33,
+    "column": 2,
+    "order": 259,
+    "evidenceText": "3. to stay up 遲睡；熬夜 ab er I want to stay up tonight and listen to the shortwave broadcast from England. He stays up every night until after one pa o'clock preparing his homework. ※ stay up = sit up = burn the midnight oil = work round the clock 6."
+  },
+  {
+    "unit": 24,
+    "number": 4,
+    "phrase": "to go in for",
+    "meaningZh": "愛好；嗜好；沉迷於",
+    "page": 33,
+    "column": 2,
+    "order": 260,
+    "evidenceText": "4. to go in for 愛好；嗜好；沉迷於 John goes in for tennis while his wife goes so in for painting and sculpture. What sports do you go in for? ※ go in for = have an inclination for = 置 have a great liking for 愛好"
+  },
+  {
+    "unit": 24,
+    "number": 5,
+    "phrase": "to make out (1)",
+    "meaningZh": "做；成功 (2) 了解 (3) 準",
+    "page": 33,
+    "column": 2,
+    "order": 261,
+    "evidenceText": "5. to make out (1) 做；成功 (2) 了解 (3) 準 備 (4) 假裝 th l (to do, succeed) 做；成功 (to understand) 了解 及 (to prepare something)準備；指遺屬支票 7. 等 (to pretend) 假裝 Hoe did you make out in your examination gi yesterday? I'm sure John will make out well in that job. The letter was so badly written that I could not make out what she had written. No one could make out what he was talking 8. 33 about. He made out his will last week. John, will you please make out a check to pay the telephone bill? Helen tried to make out that she was ill. ※ make up 做「填寫」解 = fill out"
+  },
+  {
+    "unit": 24,
+    "number": 6,
+    "phrase": "to bring to",
+    "meaningZh": "使復甦；使甦醒",
+    "page": 33,
+    "column": 3,
+    "order": 262,
+    "evidenceText": "6. to bring to 使復甦；使甦醒 Helen fainted but the nurse gave her something which brought her to. This medicine will surely bring him to. ※ (1) 受詞不論是名詞或代名詞一定要 置於 bring與 to 之間 (2) 有被動式： Several girls fainted in the heat but they were soon brought to. (3) bring to = come to 但 come to 為不 及物動詞"
+  },
+  {
+    "unit": 24,
+    "number": 7,
+    "phrase": "to believe in",
+    "meaningZh": "信仰；深信",
+    "page": 33,
+    "column": 3,
+    "order": 263,
+    "evidenceText": "7. to believe in 信仰；深信 I really think that she believes in ghosts. Nobody today believes in such things as giants and fairies. ※ believe sb. 相信某人所說的話 believe in sb. 對某人有信心 I believe him. I believe in him."
+  },
+  {
+    "unit": 24,
+    "number": 8,
+    "phrase": "to make sense",
+    "meaningZh": "有意義；合理的",
+    "page": 33,
+    "column": 3,
+    "order": 264,
+    "evidenceText": "8. to make sense 有意義；合理的 What you say does not make any sense to me. To send troops abroad when we need them here simply does not make sense. ※ make sense of = understand 了解 Can you make sense of what the author says?"
+  },
+  {
+    "unit": 24,
+    "number": 9,
+    "phrase": "to carry out",
+    "meaningZh": "實行；完成",
+    "page": 34,
+    "column": 1,
+    "order": 265,
+    "evidenceText": "9. to carry out 實行；完成 They carried out their plan without difficulty. The men refused to carry out the captain's orders. ※ (1) 可分雙自動詞 (2) to carry out = to accomplish = to put sth. into practice"
+  },
+  {
+    "unit": 24,
+    "number": 10,
+    "phrase": "to drop in on",
+    "meaningZh": "偶訪",
+    "page": 34,
+    "column": 1,
+    "order": 266,
+    "evidenceText": "10. to drop in on 偶訪 () If you are ever in our neighborhood, be sure to drop in on us. Some old friends dropped in on us last night."
+  },
+  {
+    "unit": 25,
+    "number": 1,
+    "phrase": "to keep up",
+    "meaningZh": "保持同一速度或水準",
+    "page": 34,
+    "column": 1,
+    "order": 267,
+    "evidenceText": "1. to keep up 保持同一速度或水準 If we can keep up this speed, we should arrive there in about two days. The government wants to keep up farm prices at their present levels. ※ to keep up with = to keep pace with 與 ~ 並駕齊驅 fr m 2. bump into 碰撞；不期而遇 () In his hurry he bumped into a man. r On my way downtown I bumped into an old friend whom I haven't seen for years. ※ bump into = come across = come upon = run across = run into 偶遇 6."
+  },
+  {
+    "unit": 25,
+    "number": 5,
+    "phrase": "to burst out crying",
+    "meaningZh": "突然大哭",
+    "page": 34,
+    "column": 2,
+    "order": 268,
+    "evidenceText": "5. to burst out crying 突然大哭 to burst out laughing 突然大笑 m Everyone was quiet when John suddenly t burst out laughing. Every time she thought about him she burst out crying. ※ burst out + V-ing… e burst into + N. 7. burst out crying = burst into tears burst out laughing = burst into laughter"
+  },
+  {
+    "unit": 25,
+    "number": 6,
+    "phrase": "to stick up",
+    "meaningZh": "豎立",
+    "page": 34,
+    "column": 2,
+    "order": 269,
+    "evidenceText": "6. to stick up 豎立 to stick out 伸出 Your hair is sticking up in the back. I could see one end of the letter sticking out of John's pocket. The doctor told me to stick out my tongue."
+  },
+  {
+    "unit": 25,
+    "number": 5,
+    "phrase": "to get away",
+    "meaningZh": "逃去；離去；逃脫",
+    "page": 34,
+    "column": 2,
+    "order": 270,
+    "evidenceText": "5. to get away 逃去；離去；逃脫 34 No one knows how he managed to get away from the police. We always try to get away from the noise and heat of the city for a month or two each summer. ※ 逃去；離去 = to leave 逃脫 = escape get away from 從某處逃離"
+  },
+  {
+    "unit": 25,
+    "number": 6,
+    "phrase": "to let on",
+    "meaningZh": "洩露；透露",
+    "page": 34,
+    "column": 3,
+    "order": 271,
+    "evidenceText": "6. to let on 洩露；透露 Don't let to Helen that we are going to the movie tonight. He asked me not to let on to anyone that we were planning the birthday party. ※ (1) let on = reveal (2) 亦可當「假裝，裝作」解 He let on that he was a doctor. 7. to make up (1) to compensate for some loss or absence 補償 (2) to become reconciled after a quarrel 和解 (3) to invent or to fabricate 虛構 (4) to apply cosmetics 化妝 (5) to form 組成；構成 If you miss a lesson, we can make it up later. John was absent from the examination and has to take a make-up exam tomorrow. After the quarrel the two young lovers kissed and made up. Why don't you two children make up and forget all about your quarrel? That story which John told was not true；he made it all up. She made up a long story about being out of town at the time. Do you like to see women make up in public? Helen uses a lot of make-up. We need one more player to make up a team. The team is made up of 10 players."
+  },
+  {
+    "unit": 25,
+    "number": 8,
+    "phrase": "to meet someone half-way",
+    "meaningZh": "妥協；讓步",
+    "page": 35,
+    "column": 1,
+    "order": 272,
+    "evidenceText": "8. to meet someone half-way 妥協；讓步； 遷就 They are ready to meet us half-way in the matter of price. In an effort to end the strike, the owner agreed to meet the strikers half-way. ※ to meet someone half-way = compromise"
+  },
+  {
+    "unit": 25,
+    "number": 9,
+    "phrase": "to serve one right",
+    "meaningZh": "罪有應得；接受應得",
+    "page": 35,
+    "column": 1,
+    "order": 273,
+    "evidenceText": "9. to serve one right 罪有應得；接受應得 的處罰 d It served him right to lose that job, because he never appreciated it. It serves you right to have lost your purse. You were always too careless with it. 擊 ※ 常用句型：It serve sb right to-v… it 為虛主詞 kn he 10. to check up / to check on / to check up on 2. 檢查；審查；調查 They are checking up (checking on, th checking up on) that information right now. He has hired a detective to check up (check sta on, check up on) all of the man's past activities. be I want to go to the doctor and have a general check-up. 下 ※ check up 為可分雙字動詞，check on ； 及 check up on 為不可分 ag check in 登記後投宿旅館；check out 3. 結帳後離開旅館 They checked in at eight o'clock in the co morning, and would check out the next day."
+  },
+  {
+    "unit": 26,
+    "number": 1,
+    "phrase": "to knock out",
+    "meaningZh": "擊昏；擊倒",
+    "page": 35,
+    "column": 2,
+    "order": 274,
+    "evidenceText": "1. to knock out 擊昏；擊倒 Joe knocked him out with one punch. 之 得 The stone struck her on the head and 4. knocked her out for several minutes. 35 The fight was won only by a knock-out. ※ (1) knock out 可分雙字動詞 (2) knock-out 為名詞，指「獲勝的一 擊」「十分迷人的人或物」 John's new girl friend is certainly a knock-out."
+  },
+  {
+    "unit": 26,
+    "number": 2,
+    "phrase": "to stand out",
+    "meaningZh": "顯著；傑出；突出",
+    "page": 35,
+    "column": 3,
+    "order": 275,
+    "evidenceText": "2. to stand out 顯著；傑出；突出 Her bright red hair made her stand out from the others. He is a tall, distinguished looking man who stands out in any crowd. ※ (1) to stand out = to be prominent = to be outstanding (2) stand out against 某種事物襯托之 下而顯得突出 The church tower stood out clearly against the fading sky."
+  },
+  {
+    "unit": 26,
+    "number": 3,
+    "phrase": "to cheer up",
+    "meaningZh": "使高興；振作起來",
+    "page": 35,
+    "column": 3,
+    "order": 276,
+    "evidenceText": "3. to cheer up 使高興；振作起來 We all tried to cheer her up, but she continued to feel very disappointed. I have some news which I am sure will cheer John up. ※ 可當 vt. vi.，若當 vt.則受詞應放在 up 之前"
+  },
+  {
+    "unit": 26,
+    "number": 4,
+    "phrase": "to stick to",
+    "meaningZh": "依附；堅持；固守",
+    "page": 35,
+    "column": 3,
+    "order": 277,
+    "evidenceText": "4. to stick to 依附；堅持；固守 He has had five different jobs in the last year because he never sticks to anything very long. If you stick to it long enough you can find the answer to that problem. ※ (1) to stick to = to adhere to = persevere = be constant (2) stick to 忠於 One should stick to one's country. swear loyalty to the country 宣示效忠國家"
+  },
+  {
+    "unit": 26,
+    "number": 5,
+    "phrase": "to stick someone",
+    "meaningZh": "欺騙",
+    "page": 36,
+    "column": 1,
+    "order": 278,
+    "evidenceText": "5. to stick someone 欺騙 Be careful in dealing with him. He'll stick you at the first opportunity. They certainly stuck me when I bought this car. ※ (1) stick someone = cheat someone (2) 被動為 to be stuck / to get stuck If you paid more than three hundred dollars for that old car, you got stuck I certainly got stuck when I bought this suit; every time I go out in the rain, it shrinks some more."
+  },
+  {
+    "unit": 26,
+    "number": 6,
+    "phrase": "to live up to",
+    "meaningZh": "遵從；達到",
+    "page": 36,
+    "column": 1,
+    "order": 279,
+    "evidenceText": "6. to live up to遵從；達到 (to reach or maintain a certain high standard) John never lives up to the promises he makes. It was clear that he would never live up to pl this family's expectations. re ※ live 做 reach 解 1."
+  },
+  {
+    "unit": 26,
+    "number": 7,
+    "phrase": "to go wrong",
+    "meaningZh": "出毛病；發生故障",
+    "page": 36,
+    "column": 2,
+    "order": 280,
+    "evidenceText": "7. to go wrong 出毛病；發生故障 Something went wrong with the motor, and we had to have our car pulled to the garage. I am sure that something has gone wrong, otherwise they would have arrived long th ago. ※ (1) go wrong = fail s (2) go wrong 做「墮落」解 In a large city many girls go wrong every year. 2."
+  },
+  {
+    "unit": 26,
+    "number": 8,
+    "phrase": "to build up",
+    "meaningZh": "增加；加強",
+    "page": 36,
+    "column": 2,
+    "order": 281,
+    "evidenceText": "8. to build up 增加；加強 He needs good tonic to build up this , strength. They are trying to build up their army to pre-war strength. o ※ to build up = to increase = make stronger"
+  },
+  {
+    "unit": 26,
+    "number": 9,
+    "phrase": "to come about",
+    "meaningZh": "發生；產生",
+    "page": 36,
+    "column": 2,
+    "order": 282,
+    "evidenceText": "9. to come about 發生；產生 How did the accident come about? The flood came about as a result of the heavy spring rains. 3. 36 ※ come about 為 vi.，無被動 come about = happen = occur = take place"
+  },
+  {
+    "unit": 27,
+    "number": 1,
+    "phrase": "to fall off",
+    "meaningZh": "落下；減少",
+    "page": 36,
+    "column": 3,
+    "order": 283,
+    "evidenceText": "1. to fall off 落下；減少 (to fall from sth.) Henry fell off his bicycle. The picture fell off the wall and broke. Our sales have fallen off seriously during the past six months. Business conditions are bad at present and his commissions have fallen off. ※ fall off 當「從…掉下來」解，為 vt. 當「下跌，減少，退步」解，為 vi."
+  },
+  {
+    "unit": 27,
+    "number": 2,
+    "phrase": "to lay off",
+    "meaningZh": "暫時解雇；資遣",
+    "page": 36,
+    "column": 3,
+    "order": 284,
+    "evidenceText": "2. to lay off 暫時解雇；資遣 During this season of the year they often lay off many workers at that plant. If business continues to be slow, we may have to lay off one or two people. Was John fired or laid off? ※ (1) to lay off = to dismiss temporarily (2) lay-off 為名詞 (3) lay off 當「停止做 ~ (不好/討厭 的事)」 Lay off teasing."
+  },
+  {
+    "unit": 27,
+    "number": 3,
+    "phrase": "to fall through",
+    "meaningZh": "失敗；不能實現",
+    "page": 36,
+    "column": 3,
+    "order": 285,
+    "evidenceText": "3. to fall through 失敗；不能實現 Our plan for a big picnic fell through. We wanted to go to Europe this summer but our plan fell through. ※ fall to the ground 一敗塗地"
+  },
+  {
+    "unit": 27,
+    "number": 4,
+    "phrase": "to turn over",
+    "meaningZh": "翻轉；顛倒；移交",
+    "page": 37,
+    "column": 1,
+    "order": 286,
+    "evidenceText": "4. to turn over 翻轉；顛倒；移交 The car turned over twice before falling into the river. If you turn over a turtle on its back, it becomes helpless. Mr. Smith will turn over his work to Miss Reese when he goes away. He has decided to turn over his business to his son. ※ to turn over = to overturn = place upside down = to transfer to another"
+  },
+  {
+    "unit": 27,
+    "number": 5,
+    "phrase": "to one's disappointment",
+    "meaningZh": "令人失望的",
+    "page": 37,
+    "column": 1,
+    "order": 287,
+    "evidenceText": "5. to one's disappointment 令人失望的 是….. To my disappointment the book was out of print. To his mother's disappointment, he failed in the exam. ※ to + 所有格 + 情緒名詞 表「令某人 ~ 的是」 to one's joy / delight / pleasure令人高興 的是 to one's surprise / astonishment / ut amazement 令人滿意的是 to one's satisfaction 令人滿意的是"
+  },
+  {
+    "unit": 27,
+    "number": 6,
+    "phrase": "rule out",
+    "meaningZh": "排除；否絶 sb",
+    "page": 37,
+    "column": 2,
+    "order": 288,
+    "evidenceText": "6. rule out 排除；否絶 sb You can't rule out the possibility of Sh o assassination. 9. The proposal was rules out for it was out of 攤 date. ※ rule out = reject"
+  },
+  {
+    "unit": 27,
+    "number": 7,
+    "phrase": "to have it in for",
+    "meaningZh": "憎恨；憎惡；伺機報復",
+    "page": 37,
+    "column": 2,
+    "order": 289,
+    "evidenceText": "7. to have it in for 憎恨；憎惡；伺機報復 He expected to lose his job because the w boss had it in for him for a long time. The teacher has had it in for John ever co e since the time that he insulted her in front 10 of the class. 足 ※ (1) to have it in for = to dislike (2) 此動詞片與的受詞通常是人，無 fo 被動式 take one's revenge = have one's ho revenge 報仇 n He said he would take his revenge on me. 人 8. talk … into 信服；勸服 He talked them into carrying out the plan. 興 His wife talked him into buying a new 11 house. 37 ※ (1) tale … into = persuade (2) talk sb. into + V-ing… talk sb. out of + V-ing… = dissuade sb. from doing sth. She talked him out of a foolish plan."
+  },
+  {
+    "unit": 27,
+    "number": 9,
+    "phrase": "to have it out with",
+    "meaningZh": "與 ~ 起糾紛；和 ~",
+    "page": 37,
+    "column": 3,
+    "order": 290,
+    "evidenceText": "9. to have it out with 與 ~ 起糾紛；和 ~ 攤牌；揭露真相 I have suspected him of lying for a long time, and today we are going to have it out. Instead of waiting, it is better to have it out with him right away. ※ to have it out with = to quarrel with = confront"
+  },
+  {
+    "unit": 27,
+    "number": 10,
+    "phrase": "to hold out",
+    "meaningZh": "繼續供應；足以維持；力",
+    "page": 37,
+    "column": 3,
+    "order": 291,
+    "evidenceText": "10. to hold out 繼續供應；足以維持；力 足抵抗 If our supplies hold out, we will camp here for another week. I will stay in Mexico as long as my money holds out. Our troops cannot hold out much longer against the superior forces of the enemy. ※ 繼續供應 = to continue in supply 足以維持 = prove to be sufficient 力足抵抗 = to resist"
+  },
+  {
+    "unit": 27,
+    "number": 11,
+    "phrase": "to give in",
+    "meaningZh": "屈服；投降；退讓",
+    "page": 37,
+    "column": 3,
+    "order": 292,
+    "evidenceText": "11. to give in 屈服；投降；退讓 Completely surrounded by our troops, the money finally gave in. They gave in to the strikers' demands. ※ to give in = to surrender"
+  },
+  {
+    "unit": 28,
+    "number": 1,
+    "phrase": "to let up",
+    "meaningZh": "減弱；減少",
+    "page": 38,
+    "column": 1,
+    "order": 293,
+    "evidenceText": "1. to let up 減弱；減少 If the rain lets up a little, they may begin the parade. It has rained for three days without letting up. ※ to let up = to slacken = lessen in intensity"
+  },
+  {
+    "unit": 28,
+    "number": 2,
+    "phrase": "to bring back",
+    "meaningZh": "退還",
+    "page": 38,
+    "column": 1,
+    "order": 294,
+    "evidenceText": "2. to bring back 退還 to take back 送回 If you don't like it then you get home, you can always bring it back. You can borrow it if you promise to bring it back tomorrow. If I were you, I'd take those gloves back and get my money. I took the book back to the library yesterday. ※ (1) 可分雙字動詞 (2) bring back 從他處拿來 take back 從此處拿走"
+  },
+  {
+    "unit": 28,
+    "number": 3,
+    "phrase": "to wait up for",
+    "meaningZh": "等候至深夜不睡",
+    "page": 38,
+    "column": 2,
+    "order": 295,
+    "evidenceText": "3. to wait up for 等候至深夜不睡 (to wait until very late without going to bed at the usual time) he Don't wait up for me tonight. I may be very 6. 任 late. We waited up for him until two o'clock and then finally. al"
+  },
+  {
+    "unit": 28,
+    "number": 4,
+    "phrase": "to read over",
+    "meaningZh": "匆匆越過；略為閱讀",
+    "page": 38,
+    "column": 2,
+    "order": 296,
+    "evidenceText": "4. to read over 匆匆越過；略為閱讀 (to glance over / to run over) The teacher said that she didn't have time Pe to correct my composition but she did read it over. t He glanced over my report and said that it al seemed to be all right. Let's run over this new list of price once 7. nd more. 而 ※ read over = glance over = run over"
+  },
+  {
+    "unit": 28,
+    "number": 5,
+    "phrase": "to break off",
+    "meaningZh": "終止；斷絕",
+    "page": 38,
+    "column": 2,
+    "order": 297,
+    "evidenceText": "5. to break off 終止；斷絕 y. We may break off relations with that country. ge 38 Diplomatic relations were broken off between the two countries several years before the war began. ※ break off = terminate"
+  },
+  {
+    "unit": 28,
+    "number": 6,
+    "phrase": "to let someone or something alone",
+    "meaningZh": "聽",
+    "page": 38,
+    "column": 3,
+    "order": 298,
+    "evidenceText": "6. to let someone or something alone 聽 任；別管；避開 Let him for a while and he may go to sleep. The plant will grow much better if you let it alone. After the dog had bitten him once or twice, Peter let it alone. ※ to let sth. / sb. alone = leave sth. / sb. alone"
+  },
+  {
+    "unit": 28,
+    "number": 7,
+    "phrase": "on the whole",
+    "meaningZh": "大致上；大體上；就全體",
+    "page": 38,
+    "column": 3,
+    "order": 299,
+    "evidenceText": "7. on the whole 大致上；大體上；就全體 而論 He is, on the whole, a good student. On the whole, I agree with you. ※ on the whole = generally speaking = in general = generally"
+  },
+  {
+    "unit": 28,
+    "number": 8,
+    "phrase": "to bring out",
+    "meaningZh": "生產；出示",
+    "page": 39,
+    "column": 1,
+    "order": 300,
+    "evidenceText": "8. to bring out 生產；出示 They try to bring out one new book each month. Most of the automobile companies bring out new models of their cars each year. The clerk brought out several different types of gloves for us to examine. ※ (1) 生產 bring out = produce = present 出示 bring out = expose = show (2) bring out 為可分雙字動詞"
+  },
+  {
+    "unit": 28,
+    "number": 9,
+    "phrase": "to wear down (1)",
+    "meaningZh": "磨損 (2) 使疲倦虛",
+    "page": 39,
+    "column": 1,
+    "order": 301,
+    "evidenceText": "9. to wear down (1) 磨損 (2) 使疲倦虛 弱 (to reduce gradually through the process of wear) 磨損 (become weak and tired) 使疲倦虛弱 The heels of your shoes are worn down on one side. A long disease has worn him down."
+  },
+  {
+    "unit": 28,
+    "number": 10,
+    "phrase": "as a result",
+    "meaningZh": "因此；結果",
+    "page": 39,
+    "column": 1,
+    "order": 302,
+    "evidenceText": "10. as a result 因此；結果 His health is poor, and as a result, he has to stay in bed. Her mother was very ill, and, as a result, she left school. ※ (1) as a result = consequently = 12 therefore 因此 (2) as a result of + N 由於… As a result of his poor health, he has to stay in bed. As a result of her mother's sickness, she left school."
+  },
+  {
+    "unit": 28,
+    "number": 11,
+    "phrase": "have no choice but (1)",
+    "meaningZh": "不得不 (2)",
+    "page": 39,
+    "column": 2,
+    "order": 303,
+    "evidenceText": "11. have no choice but (1) 不得不 (2) 忍不住；禁不住 of 1. The gasoline is running out, so we have no choice but to drive the car to the nearest gas station. th There was no buses, so we had no choice but to go home by taxi. on ※ have no choice but + to-v o 2. 39 can't help + V-ing can't but + VR We can't help admiring her beauty. We can't but admire her beauty."
+  },
+  {
+    "unit": 28,
+    "number": 12,
+    "phrase": "let alone",
+    "meaningZh": "更不必說；遑論",
+    "page": 39,
+    "column": 3,
+    "order": 304,
+    "evidenceText": "12. let alone 更不必說；遑論 I wouldn't walk as far as the corner today, let alone go to the zoo with you. He doesn't even speak his own language well, let alone French. ※ let alone = not to mention = to say nothing of = not to speak of"
+  },
+  {
+    "unit": 29,
+    "number": 1,
+    "phrase": "to have one's heart set on",
+    "meaningZh": "渴望；傾心於",
+    "page": 39,
+    "column": 3,
+    "order": 305,
+    "evidenceText": "1. to have one's heart set on 渴望；傾心於 She has her heart set on taking a trip. For years he was had his heart set on buying that property. ※ have one's heart set on = set one's heart on + N / V-ing…"
+  },
+  {
+    "unit": 29,
+    "number": 2,
+    "phrase": "to work out",
+    "meaningZh": "進展；設計；結果變成",
+    "page": 39,
+    "column": 3,
+    "order": 306,
+    "evidenceText": "2. to work out 進展；設計；結果變成 Don't worry. Everything will work out all right. We must work out some plan to increase sales. ※ 進展 = develop 設計 = devise 結果變成 = turn on"
+  },
+  {
+    "unit": 29,
+    "number": 3,
+    "phrase": "to sell out (1)",
+    "meaningZh": "售完 (2) 清理",
+    "page": 40,
+    "column": 1,
+    "order": 307,
+    "evidenceText": "3. to sell out (1) 售完 (2) 清理 (to sell completely) 售完 (liquidate) 清理 They sold out their entire stock within a few hours. There was a sign in the ticket-office saying：\"All Sold Out!\" The sign in the shop window read：“Big Sale! Tremendous Savings! Selling Out! ※ sell out ↔ buy in"
+  },
+  {
+    "unit": 29,
+    "number": 4,
+    "phrase": "to look out upon (1)",
+    "meaningZh": "面對 (2) 俯視",
+    "page": 40,
+    "column": 1,
+    "order": 308,
+    "evidenceText": "4. to look out upon (1) 面對 (2) 俯視 (to face) 面對 (overlook) 俯視” Our apartment looks out upon the river. Their rear windows look out upon a lovely garden."
+  },
+  {
+    "unit": 29,
+    "number": 5,
+    "phrase": "turn to",
+    "meaningZh": "求助於；著手；開始 (工作)",
+    "page": 40,
+    "column": 2,
+    "order": 309,
+    "evidenceText": "5. turn to 求助於；著手；開始 (工作) ； 查閱 7. I have no one but you to turn to. 事 It's time we turn to our work. W We turned to a dictionary for guidance. ※ turn to 求助於；著手 M turn into 變成 turn against 反抗 It is said that the magician can turn w 8. paper into money. 抹 He turned against his motherland. 背叛 祖國 ca"
+  },
+  {
+    "unit": 29,
+    "number": 6,
+    "phrase": "to be cut out for",
+    "meaningZh": "使 ~ 適合；有 ~ 的才",
+    "page": 40,
+    "column": 2,
+    "order": 310,
+    "evidenceText": "6. to be cut out for 使 ~ 適合；有 ~ 的才 能 John is certainly nit cut to be a lawyer. Why should I try to do that kind of work ※ when I know very well that I am not cut out bu 9. for it? ※ to be cut out for = to be designed for = 40 have talent for"
+  },
+  {
+    "unit": 29,
+    "number": 7,
+    "phrase": "to be all set to do something",
+    "meaningZh": "準備做某",
+    "page": 40,
+    "column": 3,
+    "order": 311,
+    "evidenceText": "7. to be all set to do something 準備做某 事 We were all set to leave when it started to rain. We were all set to sign the agreement when Mr. Smith backed out. ※ to be set to do sth. = to be ready to do sth. = to be prepared to do sth. 準備就 緒"
+  },
+  {
+    "unit": 29,
+    "number": 8,
+    "phrase": "to beat about the bush",
+    "meaningZh": "旁敲側擊；拐彎",
+    "page": 40,
+    "column": 3,
+    "order": 312,
+    "evidenceText": "8. to beat about the bush 旁敲側擊；拐彎 抹角 Instead of beating about the bush, John came straight to the point. He beats about the bush so much that no one knows exactly what he wants. ※ to beat about the bush = to beat around bush"
+  },
+  {
+    "unit": 29,
+    "number": 9,
+    "phrase": "to stir up",
+    "meaningZh": "惹起；引起；鼓勵；激勵",
+    "page": 40,
+    "column": 3,
+    "order": 313,
+    "evidenceText": "9. to stir up 惹起；引起；鼓勵；激勵 He's always trying to stir up everything with his arguments about politics. They are trying to stir up trouble between the owners of the plant and the workers. ※ (1) stir up = arouse / incite (2) make / cause a stir 引起軒然大波"
+  },
+  {
+    "unit": 29,
+    "number": 10,
+    "phrase": "to set forth",
+    "meaningZh": "動身；啟程；提出",
+    "page": 41,
+    "column": 1,
+    "order": 314,
+    "evidenceText": "10. to set forth 動身；啟程；提出 We all set forth on our journey in the highest spirits. The speaker set forth his arguments in a convincing manner. ※ set forth for + 目的地 = set out for +目 的地 = set off for +目的地"
+  },
+  {
+    "unit": 30,
+    "number": 2,
+    "phrase": "to catch on",
+    "meaningZh": "理解；明白",
+    "page": 41,
+    "column": 1,
+    "order": 315,
+    "evidenceText": "2. to catch on 理解；明白 To me, it was a very funny story, but when I told it nobody seemed to catch on. Did you catch on to what John said? Since she doesn't understand English well, she did not catch on to any of the jokes we told. ※ catch on 為 vi 故先加 to 再接受詞 ※ catch on = understand"
+  },
+  {
+    "unit": 30,
+    "number": 3,
+    "phrase": "ten to one",
+    "meaningZh": "十之八九；非常可能地",
+    "page": 41,
+    "column": 2,
+    "order": 316,
+    "evidenceText": "3. ten to one 十之八九；非常可能地 (very probably) 十之八九；非常可能地 5. Ten to one, Maria will answer the door if we ring the doorbell. 目 Ten to one, he will explain the matter in 6. person. 劃 ※ ten to one = nine out of ten"
+  },
+  {
+    "unit": 30,
+    "number": 4,
+    "phrase": "to be taken in",
+    "meaningZh": "受騙",
+    "page": 41,
+    "column": 2,
+    "order": 317,
+    "evidenceText": "4. to be taken in 受騙 take someone in 欺騙某人 She was taken in by his smooth manner of kn taking and gave him all her savings to n invest for her. 7. 41 He certainly took us in with his stories about his experiences in Mexico. ※ (1) to be taken in = = to be deceived = be cheated 受騙(被動) (2) take someone in = deceive someone = cheat someone 欺騙某 人(主動)"
+  },
+  {
+    "unit": 30,
+    "number": 5,
+    "phrase": "at stake",
+    "meaningZh": "得失攸關；瀕於危險",
+    "page": 41,
+    "column": 3,
+    "order": 318,
+    "evidenceText": "5. at stake 得失攸關；瀕於危險 Her property is at stake. His life is at stake. ※ at stake = in danger 做 Adj / Adv"
+  },
+  {
+    "unit": 30,
+    "number": 6,
+    "phrase": "to be up to something",
+    "meaningZh": "計畫；圖謀；策",
+    "page": 41,
+    "column": 3,
+    "order": 319,
+    "evidenceText": "6. to be up to something 計畫；圖謀；策 劃 What are those two boys up to? They believe the men are spies, but no one knows what they are up to. What are you up to now? ※ be up to something 常指不好的事情"
+  },
+  {
+    "unit": 30,
+    "number": 7,
+    "phrase": "to put an end to",
+    "meaningZh": "結束；終止",
+    "page": 41,
+    "column": 3,
+    "order": 320,
+    "evidenceText": "7. to put an end to 結束；終止 You must put an end to that kind of gossip. It is up to the police to put an end to these robberies. ※ to put an end to = bring something to an end"
+  },
+  {
+    "unit": 30,
+    "number": 8,
+    "phrase": "to get even with",
+    "meaningZh": "報復；報仇",
+    "page": 42,
+    "column": 1,
+    "order": 321,
+    "evidenceText": "8. to get even with 報復；報仇 He once played a mean trick on John, and now John wants to get even with him. I'll get even with you for this. He says that he will get even with her if it takes ten years. ※ 表「報仇」 be revenged on sb. revenge oneself on sb. take revenge on sb."
+  },
+  {
+    "unit": 30,
+    "number": 9,
+    "phrase": "beside oneself",
+    "meaningZh": "發狂；忘形",
+    "page": 42,
+    "column": 1,
+    "order": 322,
+    "evidenceText": "9. beside oneself 發狂；忘形 () She was beside herself with anger. He was beside himself with excitement at ht the news of his passing the entrance exam. 2F ※ 若因某種情緒因素而發狂，則須再加 5E 介詞 with B"
+  },
+  {
+    "unit": 30,
+    "number": 10,
+    "phrase": "cool down",
+    "meaningZh": "變冷靜",
+    "page": 42,
+    "column": 2,
+    "order": 323,
+    "evidenceText": "10. cool down 變冷靜 B It took me a long time to cool down after % the argument. A I tried to cool her down but she was too A angry. A ※ (1) cool down = cool off (2) cool down 可當 vi. / vt. https://www.youtube.com/watch?v=8yQP0drA Jxk 42 http://ntds.fsjh.ilc.edu.tw/Files/Open.asp?S=% 2Fcourse%2F%AD%5E%BBy%2F04+%AD% 5E%BBy%B1%D0%BE%C7%B8%EA%B7% BD%A4%C0%A8%C9%2FTony%AD%5E% BBy%B1%D0%BE%C7%B5%A7%B0O%2F %BFW%AEa%BE%E3%B2z~~%A4%AD% A4T%A5%7C%A4%AD%A4T%2F%A8f+% A7J+%B4%CB+%A6%A8+%BBy-4-%AD% AB%B7s%B1%C6%AA%A9%5B1%5D.doc"
+  }
+]
